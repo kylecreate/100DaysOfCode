@@ -57,3 +57,21 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 ### Time spent working
 
 - 2.3 hours
+
+## Day 2: Jan 3, 2024
+
+### Today's Progress: 
+- 
+
+### Link to work:
+- 
+
+### New thing(s) learned:
+- 
+
+### Thoughts:
+- 
+
+### Time spent working
+
+-
