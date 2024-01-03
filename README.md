@@ -14,7 +14,7 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 - [Codium](https://vscodium.com/) - Telemetry free version of Microsoft's VS Codium
 - [Pomofocus.io](https://pomofocus.io/) - Pomodoro timer to help me focus, take breaks, and prevent burnout
 	* *I'm currently using 35 minutes work time / 6 minute breaks / 20 minute long breaks*
-- [Obsidian](https://obsidian.md/) - Taking notes while learning*
+- [Obsidian](https://obsidian.md/) - Taking notes while learning
 - [Notion](https://www.notion.so/) - Keep track of project ideas, future projects, and links to all courses
 - [Google Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Web Browsers
 
@@ -61,6 +61,24 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 ## Day 2: Jan 3, 2024
 
 ### Today's Progress: 
+- Continued working on Dave Gray's Course on HTML (Ch.2 - Ch.5)
+
+### Link to work:
+- None
+
+### New thing(s) learned:
+- Description Lists are something I haven't heard of before or learned about previously.
+
+### Thoughts:
+- Working hard and enjoying it!
+
+### Time spent working
+
+- 1.16 hrs
+
+## Day 3: Jan 4, 2024
+
+### Today's Progress: 
 - 
 
 ### Link to work:
@@ -74,4 +92,4 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 
 ### Time spent working
 
--
+- 
