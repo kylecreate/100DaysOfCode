@@ -79,6 +79,25 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 ## Day 3: Jan 4, 2024
 
 ### Today's Progress: 
+- Continued working on Dave Gray's Course on HTML (Ch.5 - Ch.6) *still working on Ch.6*
+
+### Link to work:
+- None
+
+### New thing(s) learned:
+- Learned about the 3 different types of links (Absolute Reference, Relative Reference, and Internal Reference)
+- Learned about the 2 different loading attributes used for images (Lazy and Eager)
+
+### Thoughts:
+- Not sure how often I'll use the different types of links, but I feel as if the image attributes may be used quite often for me depending on the site. We still do live in a time where some people most likely have dial-up internet from the 90's.
+
+### Time spent working
+
+- 1.16 hrs
+
+## Day 4: Jan 5, 2024
+
+### Today's Progress: 
 - 
 
 ### Link to work:
