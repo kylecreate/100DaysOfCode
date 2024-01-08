@@ -95,7 +95,26 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 
 - 1.16 hrs
 
-## Day 4: Jan 5, 2024
+## Day 4: Jan 8, 2024
+
+### Today's Progress: 
+- Continued working on Dave Gray's Course on HTML (Ch.6 - Ch.9)
+
+### Link to work:
+- None
+
+### New thing(s) learned:
+- Learned a lot more about HTML tables that I thought I knew in the beginning
+- Forms have a ton of elements and attributes that can make them very helpful for submitting information about something.
+
+### Thoughts:
+- I hope to create a few HTML-only projects on tables and forms so I'm able to get used to them. Probably not a big deal, but it would be something fun and new to do while learning.
+
+### Time spent working
+
+- 2.33 hrs
+
+## Day 5: Jan 9, 2024
 
 ### Today's Progress: 
 - 
