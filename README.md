@@ -30,9 +30,10 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 
 ## Completed Projects List
 
-| No.  |  Project Title  |  Completed On |
-| :------------: | ------------ | :------------: |
-| 1  |  |   |
+| No.  |  Project Title  |  Completed On | Languages Used
+| :------------: | ------------ | :------------: | :------------: |
+| 1  | [Little Taco Shop](https://github.com/kylecreate/LTS) | 1/9/24 | HTML/CSS |
+| 2 | | | 
 
 # Daily Log
 
@@ -115,6 +116,24 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 - 2.33 hrs
 
 ## Day 5: Jan 9, 2024
+
+### Today's Progress: 
+- Completed Dave Gray's course on HTML by completing the final project
+
+### Link to work:
+- [Little Taco Shop - GitHub](https://github.com/kylecreate/LTS)
+
+### New thing(s) learned:
+- The difference of using articles and sections. After watching his solution, I changed my sections to articles and changed a few things around as well.
+
+### Thoughts:
+- I enjoyed working on this project. Before I start learning CSS, I'm going to find a few more HTML projects to work on to get more of an understanding of the language. I believe 2-3 projects should be good.
+
+### Time spent working
+
+- 2.5hrs
+
+## Day 6: Jan 10, 2024
 
 ### Today's Progress: 
 - 
