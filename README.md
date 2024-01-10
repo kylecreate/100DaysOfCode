@@ -28,12 +28,13 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 - Complete the [FCC Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification
 - Complete the [FCC JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) certification
 
-## Completed Projects List
+## Completed Projects
 
 | No.  |  Project Title  |  Completed On | Languages Used
 | :------------: | ------------ | :------------: | :------------: |
 | 1  | [Little Taco Shop](https://github.com/kylecreate/LTS) | 1/9/24 | HTML/CSS |
-| 2 | | | 
+| 2 | [Tables of Planets](https://github.com/kylecreate/TableOfPlanets) | 1/10/24 | HTML/CSS |
+| 3 | | | |
 
 # Daily Log
 
@@ -136,6 +137,24 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 ## Day 6: Jan 10, 2024
 
 ### Today's Progress: 
+- Started and completed the MDN project of creating a table of planets data
+
+### Link to work:
+- [Table of Planets Project](https://github.com/kylecreate/TableOfPlanets)
+
+### New thing(s) learned:
+- Structuring of tables in general
+
+### Thoughts:
+- This was a bit of a challenge, but I enjoyed this a lot.
+
+### Time spent working
+
+- 2 hrs
+
+## Day 7: Jan 11, 2024
+
+### Today's Progress: 
 - 
 
 ### Link to work:
@@ -149,4 +168,4 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 
 ### Time spent working
 
-- 
+-
