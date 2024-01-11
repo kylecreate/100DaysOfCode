@@ -34,7 +34,8 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | :------------: | ------------ | :------------: | :------------: |
 | 1  | [Little Taco Shop](https://github.com/kylecreate/LTS) | 1/9/24 | HTML/CSS |
 | 2 | [Tables of Planets](https://github.com/kylecreate/TableOfPlanets) | 1/10/24 | HTML/CSS |
-| 3 | | | |
+| 3 | [Markup Letter](https://github.com/kylecreate/MarkupLetter) | 1/11/24 | HTML/CSS |
+| 4 | | | |
 
 # Daily Log
 
@@ -155,6 +156,25 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 ## Day 7: Jan 11, 2024
 
 ### Today's Progress: 
+- Completed the Markup Letter project from MDN (Added to projects list and linked below)
+- Completed building a set of colored markers on FreeCodeCamp
+
+### Link to work:
+- [Markup Letter Project](https://github.com/kylecreate/MarkupLetter)
+
+### New thing(s) learned:
+- I've learned the differences between RGB, RGBA, HSL, HSLA, and Hexcodes. For the future whenever I create a website, I'll probably use RGB and RGBA. What do most developers use?
+
+### Thoughts:
+- Happy to have a good grasp on learning HTML and moved onto learning CSS. Need to add my resources that I've used for my learning path here. Maybe this weekend?
+
+### Time spent working
+
+- 1.3 hrs
+
+## Day 8: Jan 12, 2024
+
+### Today's Progress: 
 - 
 
 ### Link to work:
@@ -168,4 +188,4 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 
 ### Time spent working
 
--
+- 
