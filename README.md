@@ -35,7 +35,8 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 1  | [Little Taco Shop](https://github.com/kylecreate/LTS) | 1/9/24 | HTML/CSS |
 | 2 | [Tables of Planets](https://github.com/kylecreate/TableOfPlanets) | 1/10/24 | HTML/CSS |
 | 3 | [Markup Letter](https://github.com/kylecreate/MarkupLetter) | 1/11/24 | HTML/CSS |
-| 4 | | | |
+| 4 | [FCC Survey](https://github.com/kylecreate/FCC-Survey) | 1/12/24 | HTML/CSS |
+| 5 | | | |
 
 # Daily Log
 
@@ -173,6 +174,25 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 - 1.3 hrs
 
 ## Day 8: Jan 12, 2024
+
+### Today's Progress: 
+- Completed building a registration form on Responsive Web Design (FCC)
+- Completed certification project #1 or 5 on Responsive Web Design (FCC)
+
+### Link to work:
+- [FCC Survey](https://github.com/kylecreate/FCC-Survey)
+
+### New thing(s) learned:
+- Learned more about how forms and fieldsets are created to generate one possible giant form.
+
+### Thoughts:
+- I enjoyed this challenging project. I'm enjoying web development so far!
+
+### Time spent working
+
+- 2 hrs
+
+## Day 9: Jan 15, 2024
 
 ### Today's Progress: 
 - 
