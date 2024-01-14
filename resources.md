@@ -6,7 +6,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 
 <details>
     <summary>My learning path</summary>
-        <img src="https://picsum.photos/200" alt="Personal Learning roadmap" title="Personal Learning roadmap">
+        <img src="https://github.com/kylecreate/100DaysOfCode/blob/main/imgs/LearningPath.png" alt="Personal Learning roadmap" title="Personal Learning roadmap">
         <p style="font-size: 12">Path last updated: 1/14/24</p>
 </details>
 
