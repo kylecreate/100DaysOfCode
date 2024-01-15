@@ -155,6 +155,25 @@
 ## Day 9: Jan 15, 2024
 
 ### Today's Progress: 
+- Completed Rothko Painting (CSS Box Model) on Responsive Web Design (FCC)
+- Completed Photo Gallery (CSS Flexbox) on Responsive Web Design (FCC)
+- Completed Nurtrition Label on Responsive Web Design (FCC)
+
+### Link to work:
+- None
+
+### New thing(s) learned:
+- Learned how the CSS box model and CSS Flexbox work while creating the Rothko Painting and Photo Gallery. Excited to learn more about these in the future.
+
+### Thoughts:
+- Box model and flexbox of CSS will take some time to learn, but I can see how these make websites look better without using the whole table situation in HTML from the 90's.
+
+### Time spent working
+- 1.5hrs
+
+## Day 10: Jan 16, 2024
+
+### Today's Progress: 
 - 
 
 ### Link to work:
@@ -164,4 +183,7 @@
 - 
 
 ### Thoughts:
+- 
+
+### Time spent working
 - 
