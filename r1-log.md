@@ -165,6 +165,27 @@
   <summary>Day 10: Jan 16, 2024</summary>
 
   ### Today's Progress: 
+  * Completed learning about Accessibility by building a HTML/CSS Quiz on Responsive Web Design (FCC)
+  * Started on the 2nd certification project for Responsive Web Design (FCC)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * A lot of things about web accessibility. Excited to learn more as I get into CSS and making things easier for those who need the assistance.
+
+  ### Thoughts:
+  * When working on the Quiz assignment from freeCodeCamp, I found a lot of the accessibility questions a bit difficult. I'm looking forward to learning more and understanding accessibility. Maybe I'll use the [rubber duck theory](https://en.wikipedia.org/wiki/Rubber_duck_debugging) as I teach myself?
+
+  ### Time spent working
+  * 1.5 hours
+</details>
+
+
+<details>
+  <summary>Day 11: Jan 17, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
