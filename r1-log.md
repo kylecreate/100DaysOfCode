@@ -178,12 +178,32 @@
   * When working on the Quiz assignment from freeCodeCamp, I found a lot of the accessibility questions a bit difficult. I'm looking forward to learning more and understanding accessibility. Maybe I'll use the [rubber duck theory](https://en.wikipedia.org/wiki/Rubber_duck_debugging) as I teach myself?
 
   ### Time spent working
-  * 1.5 hours
+  * 1.5 hrs
 </details>
-
 
 <details>
   <summary>Day 11: Jan 17, 2024</summary>
+
+  ### Today's Progress: 
+  * Completed certification project #2 or 5 on Responsive Web Design (FCC)
+  * Completed building a Balance Sheet on fCC
+  * Completed building a Cat Painting on fCC
+
+  ### Link to work:
+  * [FCC Tribute Page](https://github.com/kylecreate/FCC-Tribute)
+
+  ### New thing(s) learned:
+  * Learned a lot about positioning and intermediate CSS.
+
+  ### Thoughts:
+  * Some of it was confusing, but I think with my other resources I plan on learning from and projects I plan on doing, everything should make sense sooner or later.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 12: Jan 18, 2024</summary>
 
   ### Today's Progress: 
   * 
