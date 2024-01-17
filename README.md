@@ -29,4 +29,5 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 2 | [Tables of Planets](https://github.com/kylecreate/TableOfPlanets) | 1/10/24 | HTML/CSS |
 | 3 | [Markup Letter](https://github.com/kylecreate/MarkupLetter) | 1/11/24 | HTML/CSS |
 | 4 | [FCC Survey](https://github.com/kylecreate/FCC-Survey) | 1/12/24 | HTML/CSS |
-| 5 | | | |
+| 5 | [FCC Tribute](https://github.com/kylecreate/FCC-Tribute) | 1/17/24 | HTML/CSS |
+| 6 | | | |
