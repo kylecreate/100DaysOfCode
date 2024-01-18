@@ -124,8 +124,8 @@
   <summary>Day 8: Jan 12, 2024</summary>
 
   ### Today's Progress: 
-  * Completed building a registration form on Responsive Web Design (FCC)
-  * Completed certification project #1 or 5 on Responsive Web Design (FCC)
+  * Completed building a registration form on Responsive Web Design (fCC)
+  * Completed certification project #1 or 5 on Responsive Web Design (fCC)
 
   ### Link to work:
   * [FCC Survey](https://github.com/kylecreate/FCC-Survey)
@@ -144,9 +144,9 @@
   <summary>Day 9: Jan 15, 2024</summary>
 
   ### Today's Progress: 
-  * Completed Rothko Painting (CSS Box Model) on Responsive Web Design (FCC)
-  * Completed Photo Gallery (CSS Flexbox) on Responsive Web Design (FCC)
-  * Completed Nutrition Label on Responsive Web Design (FCC)
+  * Completed Rothko Painting (CSS Box Model) on Responsive Web Design (fCC)
+  * Completed Photo Gallery (CSS Flexbox) on Responsive Web Design (fCC)
+  * Completed Nutrition Label on Responsive Web Design (fCC)
 
   ### Link to work:
   * None
@@ -165,8 +165,8 @@
   <summary>Day 10: Jan 16, 2024</summary>
 
   ### Today's Progress: 
-  * Completed learning about Accessibility by building a HTML/CSS Quiz on Responsive Web Design (FCC)
-  * Started on the 2nd certification project for Responsive Web Design (FCC)
+  * Completed learning about Accessibility by building a HTML/CSS Quiz on Responsive Web Design (fCC)
+  * Started on the 2nd certification project for Responsive Web Design (fCC)
 
   ### Link to work:
   * None
@@ -185,7 +185,7 @@
   <summary>Day 11: Jan 17, 2024</summary>
 
   ### Today's Progress: 
-  * Completed certification project #2 or 5 on Responsive Web Design (FCC)
+  * Completed certification project #2 or 5 on Responsive Web Design (fCC)
   * Completed building a Balance Sheet on fCC
   * Completed building a Cat Painting on fCC
 
@@ -204,6 +204,27 @@
 
 <details>
   <summary>Day 12: Jan 18, 2024</summary>
+
+  ### Today's Progress: 
+  * Completed building a responsive piano (fCC)
+  * Completed certification project #3 or 5 on Responsive Web Design (fCC)
+  * Completed building a city skyline (fCC)
+
+  ### Link to work:
+  * [FCC Tech Doc](https://kylecreate-fcctechdoc.netlify.app/)
+
+  ### New thing(s) learned:
+  * Learned a lot about the root element and different gradients
+
+  ### Thoughts:
+  * The Root element is super useful!
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 13: Jan 19, 2024</summary>
 
   ### Today's Progress: 
   * 
