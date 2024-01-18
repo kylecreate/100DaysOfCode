@@ -30,4 +30,5 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 3 | [Markup Letter](https://github.com/kylecreate/MarkupLetter) | 1/11/24 | HTML/CSS |
 | 4 | [FCC Survey](https://github.com/kylecreate/FCC-Survey) | 1/12/24 | HTML/CSS |
 | 5 | [FCC Tribute](https://github.com/kylecreate/FCC-Tribute) | 1/17/24 | HTML/CSS |
-| 6 | | | |
+| 6 | [FCC Tech Doc](https://github.com/kylecreate/FCC-TechDoc) | 1/18/24 | HTML/CSS |
+| 7 | | | |
