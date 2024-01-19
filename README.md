@@ -31,4 +31,4 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 4 | [FCC Survey](https://github.com/kylecreate/FCC-Survey) | 1/12/24 | HTML/CSS |
 | 5 | [FCC Tribute](https://github.com/kylecreate/FCC-Tribute) | 1/17/24 | HTML/CSS |
 | 6 | [FCC Tech Doc](https://github.com/kylecreate/FCC-TechDoc) | 1/18/24 | HTML/CSS |
-| 7 | | | |
+| 7 | [FCC Product Landing](https://github.com/kylecreate/FCC-ProductLanding) | 1/19/24 | HTML/CSS |
