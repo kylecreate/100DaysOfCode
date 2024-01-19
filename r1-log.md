@@ -227,6 +227,26 @@
   <summary>Day 13: Jan 19, 2024</summary>
 
   ### Today's Progress: 
+  * Completed building a magazine (fCC)
+  * Completed certification project #4 or 5 on Responsive Web Design (fCC)
+
+  ### Link to work:
+  * [FCC Product Landing](https://github.com/kylecreate/FCC-ProductLanding)
+
+  ### New thing(s) learned:
+  * Learned more in-depth on creating flexboxes and grids for a website.
+
+  ### Thoughts:
+  * Not sure when I'll ever use the magazine-like style for a website in my future, but it was useful to learn. Maybe something will come along?
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 14: Jan 22, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
