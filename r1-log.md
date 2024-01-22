@@ -247,6 +247,27 @@
   <summary>Day 14: Jan 22, 2024</summary>
 
   ### Today's Progress: 
+  * Completed building a Ferris Wheel using CSS Animations
+  * Completed building a Penguin using CSS Transformations
+  * Completed certification project #5 or 5 on Responsive Web Design (fCC) - Recived my certification from the site! 🎉
+
+  ### Link to work:
+  * [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio)
+
+  ### New thing(s) learned:
+  * Learned a lot about how animations work in CSS and transformations
+
+  ### Thoughts:
+  * Hopefully in the future I can get better with animations and transformations. With animations however, I feel as if it'll be like the magazine project. When will I use it? Who knows, we'll see.
+
+  ### Time spent working
+  * 2.5 hrs
+</details>
+
+<details>
+  <summary>Day 15: Jan 23, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
