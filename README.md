@@ -18,17 +18,19 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 - Learn more and in-depth about JavaScript, ReactJS, and Tailwind CSS
 - Create real world projects to use in my portfolio
 - Gain enough knowledge and create projects to get a job
-- Complete the [FCC Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification
+- ~~Complete the [FCC Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification~~
 - Complete the [FCC JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) certification
 
 ## Completed Projects
 
 | No.  |  Project Title  |  Completed On | Languages Used
 | :------------: | ------------ | :------------: | :------------: |
-| 1  | [Little Taco Shop](https://github.com/kylecreate/LTS) | 1/9/24 | HTML/CSS |
-| 2 | [Tables of Planets](https://github.com/kylecreate/TableOfPlanets) | 1/10/24 | HTML/CSS |
-| 3 | [Markup Letter](https://github.com/kylecreate/MarkupLetter) | 1/11/24 | HTML/CSS |
+| 1  | [Little Taco Shop](https://github.com/kylecreate/LTS) | 1/9/24 | HTML |
+| 2 | [Tables of Planets](https://github.com/kylecreate/TableOfPlanets) | 1/10/24 | HTML |
+| 3 | [Markup Letter](https://github.com/kylecreate/MarkupLetter) | 1/11/24 | HTML |
 | 4 | [FCC Survey](https://github.com/kylecreate/FCC-Survey) | 1/12/24 | HTML/CSS |
 | 5 | [FCC Tribute](https://github.com/kylecreate/FCC-Tribute) | 1/17/24 | HTML/CSS |
 | 6 | [FCC Tech Doc](https://github.com/kylecreate/FCC-TechDoc) | 1/18/24 | HTML/CSS |
 | 7 | [FCC Product Landing](https://github.com/kylecreate/FCC-ProductLanding) | 1/19/24 | HTML/CSS |
+| 8 | [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio) | 1/22/24 | HTML/CSS |
+| 9 | | | |
