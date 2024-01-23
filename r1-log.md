@@ -268,6 +268,25 @@
   <summary>Day 15: Jan 23, 2024</summary>
 
   ### Today's Progress: 
+  * Started Dave Gray's CSS Course on YouTube (Ch.1 → Ch.2, starting Ch.3 tomorrow)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about the different selectors that can be used for CSS.
+
+  ### Thoughts:
+  * I never understood the differences between the selectors until now. It makes since as to why a Class selector is superior to an ID selector.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 16: Jan 24, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
