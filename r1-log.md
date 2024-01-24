@@ -287,6 +287,25 @@
   <summary>Day 16: Jan 24, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on Dave Gray's CSS Course on YouTube (Ch.3 → Ch.5, starting Ch.5 tomorrow)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more indepth about the different color, units, and sizes values that are used to change the sizes of the page.
+
+  ### Thoughts:
+  * I'll have a hard time with sizing I believe, but with enough practice I should be good!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 17: Jan 25, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
