@@ -121,7 +121,7 @@
 </details>
 
 <details>
-  <summary>Day 8: Jan 12, 2024</summary>
+  <summary>Day 7: Jan 12, 2024</summary>
 
   ### Today's Progress: 
   * Completed building a registration form on Responsive Web Design (fCC)
@@ -141,7 +141,7 @@
 </details>
 
 <details>
-  <summary>Day 9: Jan 15, 2024</summary>
+  <summary>Day 8: Jan 15, 2024</summary>
 
   ### Today's Progress: 
   * Completed Rothko Painting (CSS Box Model) on Responsive Web Design (fCC)
@@ -162,7 +162,7 @@
 </details>
 
 <details>
-  <summary>Day 10: Jan 16, 2024</summary>
+  <summary>Day 9: Jan 16, 2024</summary>
 
   ### Today's Progress: 
   * Completed learning about Accessibility by building a HTML/CSS Quiz on Responsive Web Design (fCC)
@@ -182,7 +182,7 @@
 </details>
 
 <details>
-  <summary>Day 11: Jan 17, 2024</summary>
+  <summary>Day 10: Jan 17, 2024</summary>
 
   ### Today's Progress: 
   * Completed certification project #2 or 5 on Responsive Web Design (fCC)
@@ -203,7 +203,7 @@
 </details>
 
 <details>
-  <summary>Day 12: Jan 18, 2024</summary>
+  <summary>Day 11: Jan 18, 2024</summary>
 
   ### Today's Progress: 
   * Completed building a responsive piano (fCC)
@@ -224,7 +224,7 @@
 </details>
 
 <details>
-  <summary>Day 13: Jan 19, 2024</summary>
+  <summary>Day 12: Jan 19, 2024</summary>
 
   ### Today's Progress: 
   * Completed building a magazine (fCC)
@@ -244,7 +244,7 @@
 </details>
 
 <details>
-  <summary>Day 14: Jan 22, 2024</summary>
+  <summary>Day 13: Jan 22, 2024</summary>
 
   ### Today's Progress: 
   * Completed building a Ferris Wheel using CSS Animations
@@ -265,7 +265,7 @@
 </details>
 
 <details>
-  <summary>Day 15: Jan 23, 2024</summary>
+  <summary>Day 14: Jan 23, 2024</summary>
 
   ### Today's Progress: 
   * Started Dave Gray's CSS Course on YouTube (Ch.1 → Ch.2, starting Ch.3 tomorrow)
@@ -284,7 +284,7 @@
 </details>
 
 <details>
-  <summary>Day 16: Jan 24, 2024</summary>
+  <summary>Day 15: Jan 24, 2024</summary>
 
   ### Today's Progress: 
   * Continued working on Dave Gray's CSS Course on YouTube (Ch.3 → Ch.5, starting Ch.5 tomorrow)
@@ -303,7 +303,26 @@
 </details>
 
 <details>
-  <summary>Day 17: Jan 25, 2024</summary>
+  <summary>Day 16: Jan 25, 2024</summary>
+
+  ### Today's Progress: 
+  * Continued working on Dave Gray's CSS Course on YouTube (Ch.5 → Ch.7, starting Ch.7 tomorrow)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more and indepth about the CSS Box Model and fonts.
+
+  ### Thoughts:
+  * I think I see the reason that people use Google Chrome for creating websites since it's easier to see what the box model looks like on certain content. Firefox doesn't really show the colors that I'm aware of, unless I'm wrong.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 17: Jan 26, 2024</summary>
 
   ### Today's Progress: 
   * 
