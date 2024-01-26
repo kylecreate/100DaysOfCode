@@ -325,6 +325,25 @@
   <summary>Day 17: Jan 26, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on Dave Gray's CSS Course on YouTube (Ch.7 → Ch.12, starting Ch.13 next week)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about list styles, floats, and columns.
+
+  ### Thoughts:
+  * I'm having the feeling and thoughts of creating my own website/portfolio now after learning some of these. That may become a future probject.
+
+  ### Time spent working
+  * 2.3 hrs
+</details>
+
+<details>
+  <summary>Day 18: Jan 29, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
