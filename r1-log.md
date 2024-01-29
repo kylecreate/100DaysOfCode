@@ -344,6 +344,25 @@
   <summary>Day 18: Jan 29, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on Dave Gray's CSS Course on YouTube (Ch.13 → Ch.14, starting Ch.15 tomorrow)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about Flexbox and Positioning different items of content to be viewed on a page.
+
+  ### Thoughts:
+  * I'm excited to learn more indepth about this with a future learning video from fCC about Responsive Design. I'm amazed sometimes at what you can do with a website when creating one.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 19: Jan 30, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
