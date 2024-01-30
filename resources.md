@@ -7,7 +7,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 <details>
     <summary>My learning path</summary>
         <img src="https://github.com/kylecreate/100DaysOfCode/blob/main/imgs/LearningPath.png" alt="Personal Learning roadmap" title="Personal Learning roadmap">
-        <p style="font-size: 12">Path last updated: 1/26/24</p>
+        <p style="font-size: 12">Path last updated: 1/30/24</p>
 </details>
 
 ## Programs Using
@@ -48,12 +48,16 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 #### Completed Projects
 * <i>Future Project Here</i>
 
-### VueJS
-* [Brad Traversy's VueJS Crash Course for Beginners](https://www.youtube.com/watch?v=qZXt1Aom3Cs) - <i>YouTube</i>
-#### Completed Projects
+### ReactJS
+* [freeCodeCamp's ReactJS for Beginners](https://www.youtube.com/watch?v=bMknfKXIFA8) - <i>YouTube</i>
 * <i>Future Project Here</i>
 
 ### Tailwind CSS
 * [Dave Gray's Tailwind CSS for Beginners](https://www.youtube.com/watch?v=lCxcTsOHrjo) - <i>YouTube</i>
+#### Completed Projects
+* <i>Future Project Here</i>
+
+### VueJS
+* [Brad Traversy's VueJS Crash Course for Beginners](https://www.youtube.com/watch?v=qZXt1Aom3Cs) - <i>YouTube</i>
 #### Completed Projects
 * <i>Future Project Here</i>

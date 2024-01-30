@@ -363,6 +363,25 @@
   <summary>Day 19: Jan 30, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on Dave Gray's CSS Course on YouTube (Ch.15 → Ch.16, starting Ch.17 tomorrow)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about images and their settings along with the grid layout of CSS.
+
+  ### Thoughts:
+  * Making the example grid layout with the video made it looks like an actual website which was fun. With the images section, I felt I knew enough until a few properties came up.
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 20: Jan 31, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
