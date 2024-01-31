@@ -382,6 +382,25 @@
   <summary>Day 20: Jan 31, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on Dave Gray's CSS Course on YouTube (Ch.17 → Ch.20, starting Ch.20 tomorrow)
+
+  ### Link to work:
+  * [Card Mini-Project](https://github.com/kylecreate/CardMiniProject)
+
+  ### New thing(s) learned:
+  * Learned about Media Queries and Pseudo Selectors/Classes
+
+  ### Thoughts:
+  * Media queries are pretty cool and excited to use them in the future. As for Pseudo Selectors and classes, I can definietly see how these can be useful.
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 21: Feb 1, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

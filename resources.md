@@ -7,7 +7,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 <details>
     <summary>My learning path</summary>
         <img src="https://github.com/kylecreate/100DaysOfCode/blob/main/imgs/LearningPath.png" alt="Personal Learning roadmap" title="Personal Learning roadmap">
-        <p style="font-size: 12">Path last updated: 1/30/24</p>
+        <p style="font-size: 12">Path last updated: 1/31/24</p>
 </details>
 
 ## Programs Using
@@ -17,7 +17,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 * [Obsidian](https://obsidian.md/) - Taking notes while learning
 * [Notion](https://www.notion.so/) - Keeping track of potential projects ideas and links to all courses
 * [Google Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Web Browsers
-* [Frontend Roadmap](https://roadmap.sh/frontend) -- [JavaScript Roadmap](https://roadmap.sh/javascript) -- [VueJS Roadmap](https://roadmap.sh/vue)
+* [Frontend Roadmap](https://roadmap.sh/frontend) | [JavaScript Roadmap](https://roadmap.sh/javascript) | [ReactJS Roadmap](https://roadmap.sh/react) | [VueJS Roadmap](https://roadmap.sh/vue)
 
 ## Learning Resources
 
@@ -41,6 +41,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 * [FCC Technical Documentation](https://github.com/kylecreate/FCC-TechDoc)
 * [FCC Product Landing Page](https://github.com/kylecreate/FCC-ProductLanding)
 * [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio)
+* [Cards Mini-Project](https://github.com/kylecreate/CardMiniProject)
 
 ### JavaScript
 * [Brad Traversy's JavaScript Course](https://www.udemy.com/course/modern-javascript-from-the-beginning/) - <i>uDemy</i>
@@ -50,6 +51,10 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 
 ### ReactJS
 * [freeCodeCamp's ReactJS for Beginners](https://www.youtube.com/watch?v=bMknfKXIFA8) - <i>YouTube</i>
+* <i>Future Project Here</i>
+
+### Figma
+* [Figma Crash Course for Beginners](https://www.youtube.com/watch?v=o1nCmiW6auE)
 * <i>Future Project Here</i>
 
 ### Tailwind CSS
