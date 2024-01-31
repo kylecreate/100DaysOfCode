@@ -33,4 +33,5 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 6 | [FCC Tech Doc](https://github.com/kylecreate/FCC-TechDoc) | 1/18/24 | HTML/CSS |
 | 7 | [FCC Product Landing](https://github.com/kylecreate/FCC-ProductLanding) | 1/19/24 | HTML/CSS |
 | 8 | [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio) | 1/22/24 | HTML/CSS |
-| 9 | | | |
+| 9 | [Card Mini-Project](https://github.com/kylecreate/CardMiniProject) | 1/31/24 | HTML/CSS |
+| 10 | | | |
