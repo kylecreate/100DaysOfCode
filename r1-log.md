@@ -401,6 +401,25 @@
   <summary>Day 21: Feb 1, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on Dave Gray's CSS Course on YouTube (Ch.20 → Ch.21, starting Ch.22 tomorrow)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about CSS functions and variables
+
+  ### Thoughts:
+  * I see how the variables in CSS and functions would be useful for multiple colors/sizes/etc.. I see myself using these in the future.
+
+  ### Time spent working
+  * 1.35 hrs
+</details>
+
+<details>
+  <summary>Day 22: Feb 2, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

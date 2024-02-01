@@ -51,10 +51,12 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 
 ### ReactJS
 * [freeCodeCamp's ReactJS for Beginners](https://www.youtube.com/watch?v=bMknfKXIFA8) - <i>YouTube</i>
+#### Completed Projects
 * <i>Future Project Here</i>
 
 ### Figma
 * [Figma Crash Course for Beginners](https://www.youtube.com/watch?v=o1nCmiW6auE)
+#### Completed Projects
 * <i>Future Project Here</i>
 
 ### Tailwind CSS
