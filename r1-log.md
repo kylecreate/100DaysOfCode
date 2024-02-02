@@ -420,6 +420,25 @@
   <summary>Day 22: Feb 2, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on Dave Gray's CSS Course on YouTube (Ch.22 → Final Project, will complete the project next week)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about animations using CSS
+
+  ### Thoughts:
+  * I'm unsure of how often I'd be using animations in CSS, but of course you never know. I supposed it would be whenever I make a responsive navigation menu with a hamburger menu.
+
+  ### Time spent working
+  * 1.9 hrs
+</details>
+
+<details>
+  <summary>Day 23: Feb 5, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
