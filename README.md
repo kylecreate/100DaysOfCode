@@ -15,7 +15,7 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 ## Goals
 - Make it a habit of coding during the week and learning something new
 - Revisit HTML and CSS for deeper knowledge
-- Learn more and in-depth about JavaScript, VueJS, and Tailwind CSS
+- Learn more and in-depth about JavaScript, ReactJS, Tailwind CSS, Figma, and VueJS
 - Create real world projects to use in my portfolio
 - Gain enough knowledge and create projects to get a job
 - ~~Complete the [FCC Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification~~
@@ -34,4 +34,5 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 7 | [FCC Product Landing](https://github.com/kylecreate/FCC-ProductLanding) | 1/19/24 | HTML/CSS |
 | 8 | [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio) | 1/22/24 | HTML/CSS |
 | 9 | [Card Mini-Project](https://github.com/kylecreate/CardMiniProject) | 1/31/24 | HTML/CSS |
-| 10 | | | |
+| 10 | [Little Taco Shop - 2](https://github.com/kylecreate/LTS2) | 2/5/24 | HTML/CSS/JS |
+| 11 | | | |

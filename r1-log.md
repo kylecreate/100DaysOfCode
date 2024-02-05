@@ -439,6 +439,25 @@
   <summary>Day 23: Feb 5, 2024</summary>
 
   ### Today's Progress: 
+  * Continued and completed Dave Gray's CSS Course on YouTube (Final Project)
+
+  ### Link to work:
+  * [Little Taco Shop - 2](https://github.com/kylecreate/LTS2)
+
+  ### New thing(s) learned:
+  * Creating a dark mode version of the site using the root method with a media query.
+
+  ### Thoughts:
+  * Happy this project and course is done. On to the next!
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 24: Feb 6, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

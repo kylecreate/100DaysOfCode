@@ -43,6 +43,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 * [FCC Product Landing Page](https://github.com/kylecreate/FCC-ProductLanding)
 * [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio)
 * [Cards Mini-Project](https://github.com/kylecreate/CardMiniProject)
+* [Little Taco Shop - 2](https://github.com/kylecreate/LTS2)
 
 ### JavaScript
 * [Brad Traversy's JavaScript Course](https://www.udemy.com/course/modern-javascript-from-the-beginning/) - <i>uDemy</i>
