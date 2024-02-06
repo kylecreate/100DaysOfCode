@@ -458,6 +458,25 @@
   <summary>Day 24: Feb 6, 2024</summary>
 
   ### Today's Progress: 
+  * Resarched and learning about Frontend Mentor's first project of the QR Code.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learning how the website works and each project works.
+
+  ### Thoughts:
+  * Happy they have a roadmap in their discord to follow for beginners. Should get me started for tomorrow!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 25: Feb 7, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

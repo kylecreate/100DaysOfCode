@@ -32,8 +32,6 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 ### CSS
 * [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) <i>(Rest of assignments and more)</i>
 * [Dave Gray's Complete CSS Course](https://www.youtube.com/watch?v=n4R2E7O-Ngo) - <i>YouTube</i>
-* [Intro to Responsive Web Design with freeCodeCamp](https://www.youtube.com/watch?v=yfoY53QXEnI) - <i>YouTube</i>
-* [Learning Web Accesibility](https://www.youtube.com/watch?v=e2nkq3h1P68) - <i>YouTube</i>
 * [CSS Grid Garden Game](https://cssgridgarden.com/)
 * [CSS Flexbox Froggy Game](https://flexboxfroggy.com/)
 #### Completed Projects
