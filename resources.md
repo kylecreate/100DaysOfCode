@@ -42,6 +42,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 * [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio)
 * [Cards Mini-Project](https://github.com/kylecreate/CardMiniProject)
 * [Little Taco Shop - 2](https://github.com/kylecreate/LTS2)
+* [FEM - QR Code Card](https://github.com/kylecreate/QRCode)
 
 ### JavaScript
 * [Brad Traversy's JavaScript Course](https://www.udemy.com/course/modern-javascript-from-the-beginning/) - <i>uDemy</i>

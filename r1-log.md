@@ -477,6 +477,25 @@
   <summary>Day 25: Feb 7, 2024</summary>
 
   ### Today's Progress: 
+  * Started and completed Frontend Mentor's QR Code Component challenge
+
+  ### Link to work:
+  * [Repo](https://github.com/kylecreate/QRCode) | [Live Preview](https://kylecreate.github.io/QRCode/) | [Solution Result](https://www.frontendmentor.io/solutions/qr-code-card-component-xyANUCzb3y)
+
+  ### New thing(s) learned:
+  * Learned about creating components and centering them to a webpage.
+
+  ### Thoughts:
+  * I think I'm going to enjoy this challenge site!
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 26: Feb 8, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
