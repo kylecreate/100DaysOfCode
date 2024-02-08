@@ -496,6 +496,26 @@
   <summary>Day 26: Feb 8, 2024</summary>
 
   ### Today's Progress: 
+  * After receiving feedback from [solvman](https://www.frontendmentor.io/profile/solvman), I made some changes to my QR Code Component. <i>Check yesterday's log for the project link</i>
+  * Started working on the [3-Column Preview Card Component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub) project
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * These projects are exactly what I was looking for. Learning so much from these as well as what I've learned so far.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 27: Feb 9, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
