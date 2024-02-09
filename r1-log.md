@@ -516,6 +516,26 @@
   <summary>Day 27: Feb 9, 2024</summary>
 
   ### Today's Progress: 
+  * Completed the [3-Column Preview Card](https://github.com/kylecreate/3ColumnCard) project from Frontend Mentor
+  * Started working on the [Single Price Grid Component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub) project
+
+  ### Link to work:
+  * [3-Column Preview Card](https://github.com/kylecreate/3ColumnCard)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * These projects are indeed challenging, which is what I wanted as I learn frontend development!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 28: Feb 12, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

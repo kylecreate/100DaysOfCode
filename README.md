@@ -36,4 +36,5 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 9 | [Card Mini-Project](https://github.com/kylecreate/CardMiniProject) | 1/31/24 | HTML/CSS |
 | 10 | [Little Taco Shop - 2](https://github.com/kylecreate/LTS2) | 2/5/24 | HTML/CSS/JS |
 | 11 | [FEM - QR Code Card](https://github.com/kylecreate/QRCode)| 2/7/24 | HTML/CSS |
-| 12 | | | |
+| 12 | [FEM - 3-Column Preview Card](https://github.com/kylecreate/3ColumnCard) | 2/9/24 | HTML/CSS |
+|  |  |  |  |
