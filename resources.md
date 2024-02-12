@@ -51,8 +51,8 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 #### Completed Projects
 * <i>Future Project Here</i>
 
-### ReactJS
-* [freeCodeCamp's ReactJS for Beginners](https://www.youtube.com/watch?v=bMknfKXIFA8) - <i>YouTube</i>
+### VueJS
+* [Brad Traversy's VueJS Crash Course for Beginners](https://www.youtube.com/watch?v=qZXt1Aom3Cs) - <i>YouTube</i>
 #### Completed Projects
 * <i>Future Project Here</i>
 
@@ -61,12 +61,12 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 #### Completed Projects
 * <i>Future Project Here</i>
 
-### Tailwind CSS
-* [Dave Gray's Tailwind CSS for Beginners](https://www.youtube.com/watch?v=lCxcTsOHrjo) - <i>YouTube</i>
+### ReactJS
+* [freeCodeCamp's ReactJS for Beginners](https://www.youtube.com/watch?v=bMknfKXIFA8) - <i>YouTube</i>
 #### Completed Projects
 * <i>Future Project Here</i>
 
-### VueJS
-* [Brad Traversy's VueJS Crash Course for Beginners](https://www.youtube.com/watch?v=qZXt1Aom3Cs) - <i>YouTube</i>
+### Tailwind CSS
+* [Dave Gray's Tailwind CSS for Beginners](https://www.youtube.com/watch?v=lCxcTsOHrjo) - <i>YouTube</i>
 #### Completed Projects
 * <i>Future Project Here</i>

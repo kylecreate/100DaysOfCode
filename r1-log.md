@@ -536,6 +536,25 @@
   <summary>Day 28: Feb 12, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on the [Single Price Grid Component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub) project from Frontend Mentor.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Getting the hang of things for this project. Just need to adjust some colors and padding. Should be finished sometime tomorrow.
+
+  ### Time spent working
+  * 1.2 hrs
+</details>
+
+<details>
+  <summary>Day 29: Feb 13, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

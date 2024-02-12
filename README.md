@@ -6,9 +6,9 @@ This challenge for 100 days is to make a habit of coding to develop my skill set
 
 I started during late-2023, but found that my path wasn't very successful. So, I'm going to restart my progress and hopefully gain better knowldge.
 
-|  Start Date | End Date |
-| ------------ | ------------ |
-| Jan 2, 2024 | --------|
+|Round |  Start Date | End Date |
+| ------------ | ------------ | ------------ |
+| 1 | Jan 2, 2024 | --------|
 
 [Daily Log](https://github.com/kylecreate/100DaysOfCode/blob/main/r1-log.md) | [Personal Resources](https://github.com/kylecreate/100DaysOfCode/blob/main/resources.md)
 
@@ -37,4 +37,4 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 10 | [Little Taco Shop - 2](https://github.com/kylecreate/LTS2) | 2/5/24 | HTML/CSS/JS |
 | 11 | [FEM - QR Code Card](https://github.com/kylecreate/QRCode)| 2/7/24 | HTML/CSS |
 | 12 | [FEM - 3-Column Preview Card](https://github.com/kylecreate/3ColumnCard) | 2/9/24 | HTML/CSS |
-|  |  |  |  |
+| 13 |  |  |  |
