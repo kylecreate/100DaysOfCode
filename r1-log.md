@@ -555,6 +555,26 @@
   <summary>Day 29: Feb 13, 2024</summary>
 
   ### Today's Progress: 
+  * Completed the Single Price Grid Component from Frontend Mentor
+  * Started working on the Order Summary Component from Frontend Mentor
+
+  ### Link to work:
+  * [Single Price Grid Component](https://github.com/kylecreate/PriceGrid)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I enjoyed working on this project as it's the one I feel closely resembles the original design.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 30: Feb 14, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
