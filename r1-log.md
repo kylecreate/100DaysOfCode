@@ -575,6 +575,26 @@
   <summary>Day 30: Feb 14, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on the Order Summary Component from Frontend Mentor
+  * Started to read Coding for Dummies (7 books in 1) about Frontend Web Dev of course. Excited to learn more and actually read a book away from the computer. Completed the first book on "What is Coding?"
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about different sandbox websites for coding and more about programming that I knew before.
+
+  ### Thoughts:
+  * I haven't read a book in a long time, but thought this might be a nice change of pace. Reading to take a brake from the computer might be nice. Also, tons of notes!
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 31: Feb 14, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

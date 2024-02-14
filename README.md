@@ -20,6 +20,7 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 - Gain enough knowledge and create projects to get a job
 - ~~Complete the [FCC Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification~~
 - Complete the [FCC JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) certification
+- Complete reading of [Coding All-In-One for Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/coding/coding-all-in-one-for-dummies-281666/)
 
 ## Completed Projects
 

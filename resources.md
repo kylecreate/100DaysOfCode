@@ -21,6 +21,9 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 
 ## Learning Resources
 
+### Books
+* [Coding All-In-One for Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/coding/coding-all-in-one-for-dummies-281666/)
+
 ### HTML
 * [freeCodeCamp Responsive Web Design (Assignment #1)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 * [Dave Gray's Complete HTML Course](https://www.youtube.com/watch?v=mJgBOIoGihA) - <i>YouTube</i>
