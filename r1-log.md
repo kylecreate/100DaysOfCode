@@ -592,7 +592,27 @@
 </details>
 
 <details>
-  <summary>Day 31: Feb 14, 2024</summary>
+  <summary>Day 31: Feb 15, 2024</summary>
+
+  ### Today's Progress: 
+  * Completed working on the Order Summary Component from Frontend Mentor
+  * Started getting notes together from yesterday's reading. Going to complete this later today or tomorrow.
+
+  ### Link to work:
+  * [FEM - Order Summary Component](https://github.com/kylecreate/OrderSummary)
+
+  ### New thing(s) learned:
+  * Learned more about debugging a problem I was having that was making the grey box in the order summary not working.
+
+  ### Thoughts:
+  * Some of these projects are killers, but they're teaching me a lot.
+
+  ### Time spent working
+  * 1.8 hrs
+</details>
+
+<details>
+  <summary>Day 32: Feb 16, 2024</summary>
 
   ### Today's Progress: 
   * 

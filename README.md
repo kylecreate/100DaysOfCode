@@ -39,4 +39,5 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 11 | [FEM - QR Code Card](https://github.com/kylecreate/QRCode)| 2/7/24 | HTML/CSS |
 | 12 | [FEM - 3-Column Preview Card](https://github.com/kylecreate/3ColumnCard) | 2/9/24 | HTML/CSS |
 | 13 | [FEM - Single Price Grid](https://github.com/kylecreate/PriceGrid) | 2/13/24 | HTML/CSS  |
-| 14 | | | |
+| 14 | [FEM - Order Summary Component](https://github.com/kylecreate/OrderSummary) | 2/15/24 | HTML/CSS |
+| 15 | | | |
