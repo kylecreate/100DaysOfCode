@@ -614,6 +614,27 @@
 <details>
   <summary>Day 32: Feb 16, 2024</summary>
 
+  ### Today's Progress:
+  * Recieved feedback for my Order Summary Component challenge that I completed yestrday and made the necessary changes that were posted.
+  * Started working on the Stats Preview Card Component challenge from Frontend Mentor.
+  * Continued working on my notes from reading the first book of Coding for Dummies.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * There's so many programming languages...
+
+  ### Thoughts:
+  * I'm enjoying my reading and coding time. Makes a difference to learn a few things while reading and coding which is nice.
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 33: Feb 17, 2024</summary>
+
   ### Today's Progress: 
   * 
 
