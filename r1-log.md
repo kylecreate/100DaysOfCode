@@ -633,7 +633,27 @@
 </details>
 
 <details>
-  <summary>Day 33: Feb 17, 2024</summary>
+  <summary>Day 33: Feb 19, 2024</summary>
+
+  ### Today's Progress: 
+  * Completed [Statis Preview Card Component](https://github.com/kylecreate/StatsPreview) from Frontend Mentor
+  * Started working on the Product Preview Card Component
+
+  ### Link to work:
+  * [Stats Preview Card](https://github.com/kylecreate/StatsPreview)
+
+  ### New thing(s) learned:
+  * I learned with this project about how to overlay a color above an image using CSS.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 34: Feb 20, 2024</summary>
 
   ### Today's Progress: 
   * 
