@@ -656,6 +656,26 @@
   <summary>Day 34: Feb 20, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on the Product Preview Card Component from Frontend Mentor
+  * Continued reading Coding (All-in-One) for Dummies, read Book 2 Ch.1.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * While reading my book, it mentions that you can have a hidden attribute on an HTML tag and it won't show up on the page at all. How interesting...
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.2 hrs
+</details>
+
+<details>
+  <summary>Day 35: Feb 21, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
