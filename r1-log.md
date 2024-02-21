@@ -677,7 +677,7 @@
 
   ### Today's Progress: 
   * Continued working on the Product Preview Card Component from Frontend Mentor
-  Continued reading Coding (All-in-One) for Dummies, read Book 2 Ch.2.
+  * Continued reading Coding (All-in-One) for Dummies, read Book 2 Ch.2.
 
   ### Link to work:
   * None
