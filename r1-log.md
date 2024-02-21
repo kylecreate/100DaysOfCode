@@ -676,6 +676,26 @@
   <summary>Day 35: Feb 21, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on the Product Preview Card Component from Frontend Mentor
+  Continued reading Coding (All-in-One) for Dummies, read Book 2 Ch.2.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about tables and lists
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 36: Feb 22, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
