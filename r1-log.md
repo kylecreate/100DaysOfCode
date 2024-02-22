@@ -677,7 +677,7 @@
 
   ### Today's Progress: 
   * Continued working on the Product Preview Card Component from Frontend Mentor
-  Continued reading Coding (All-in-One) for Dummies, read Book 2 Ch.2.
+  * Continued reading Coding (All-in-One) for Dummies, read Book 2 Ch.2.
 
   ### Link to work:
   * None
@@ -694,6 +694,25 @@
 
 <details>
   <summary>Day 36: Feb 22, 2024</summary>
+
+  ### Today's Progress: 
+  * Completed the Frontend Mentor project of the Product Preview Card
+
+  ### Link to work:
+  * [Product Preview Card Component](https://github.com/kylecreate/ProductPreview)
+
+  ### New thing(s) learned:
+  * Even more HTML and CSS
+
+  ### Thoughts:
+  * I mentioned this in my project repo, but the video from Kevin really helped me finished this project. I see lots of reading and note taking from him in the future!
+
+  ### Time spent working
+  * 2.5 hrs
+</details>
+
+<details>
+  <summary>Day 37: Feb 23, 2024</summary>
 
   ### Today's Progress: 
   * 
