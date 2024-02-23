@@ -715,6 +715,25 @@
   <summary>Day 37: Feb 23, 2024</summary>
 
   ### Today's Progress: 
+  * Continued reading Coding (All-in-One) for Dummies, read Book 2 Ch.3 and Ch.4.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about CSS stylings and flexbox
+
+  ### Thoughts:
+  * I'm enjoying reading this book, would highly reccommend it to beginners like myself.
+
+  ### Time spent working
+  * 1 hr
+</details>
+
+<details>
+  <summary>Day 38: Feb 26, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
