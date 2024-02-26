@@ -734,6 +734,26 @@
   <summary>Day 38: Feb 26, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on the Product Preview Card from Frontend Mentor
+  * Worked on notes from Book 2 Ch.2 of Coding (All-in-One) for Dummies
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Work hard, play hard!
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 39: Feb 27, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
