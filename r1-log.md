@@ -754,6 +754,25 @@
   <summary>Day 39: Feb 27, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on the Product Preview Card from Frontend Mentor
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * This project is pretty tough. Asking for help on it might be the best thing or doing more research on what others have done.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 40: Feb 28, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

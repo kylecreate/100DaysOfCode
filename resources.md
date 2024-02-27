@@ -14,8 +14,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 * [VS Codium](https://vscodium.com/) - Telemetry free version of Microsoft's VS Codium
 * [Pomofocus.io](https://pomofocus.io/) - Pomodoro timer to help me focus, take breaks, and prevent burnout.
     * <i>I'm doing 35 minutes of work time / 6 minute short breaks / 20 minute long breaks</i>
-* [Obsidian](https://obsidian.md/) - Taking notes while learning
-* [Notion](https://www.notion.so/) - Keeping track of potential projects ideas and links to all courses
+* [AnyType](https://anytype.io/) - Similair to Notion and Obsidian, it's a combonation of the two pretty much. Using to take notes and keep track of everything.
 * [Google Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Web Browsers
 * [Frontend Roadmap](https://roadmap.sh/frontend) | [JavaScript Roadmap](https://roadmap.sh/javascript) | [ReactJS Roadmap](https://roadmap.sh/react) | [VueJS Roadmap](https://roadmap.sh/vue)
 
