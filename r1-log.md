@@ -773,6 +773,45 @@
   <summary>Day 40: Feb 28, 2024</summary>
 
   ### Today's Progress: 
+  * * Continued working on the Product Preview Card from Frontend Mentor
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Found a video from Kevin Powell that I'm following along with. I enjoy that he explains everything in detail and it just makes sense to me.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 41: Feb 29, 2024</summary>
+
+  ### Today's Progress: 
+  * Completed working on the Product Preview Card from Frontend Mentor
+  * Started working on notes from Book 2 Ch.3 of Coding (All-in-One) for Dummies
+
+  ### Link to work:
+  * [Four Card Preview](https://github.com/kylecreate/4CardPreview)
+
+  ### New thing(s) learned:
+  * The Product Preview Card project taught me a lot of things I wasn't sure about. Thanksfully, Kevin's video on the project helped me out a ton!
+
+  ### Thoughts:
+  * Really need to find a mentor, I'm getting to the point where I feel like I'm stuck sometimes.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 42: Mar 1, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

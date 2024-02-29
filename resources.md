@@ -44,9 +44,13 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 * [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio)
 * [Cards Mini-Project](https://github.com/kylecreate/CardMiniProject)
 * [Little Taco Shop - 2](https://github.com/kylecreate/LTS2)
-* [FEM - QR Code Card](https://github.com/kylecreate/QRCode)
-* [FEM - 3-Column Preview Card](https://github.com/kylecreate/3ColumnCard)
-* [FEM - Single Price Grid](https://github.com/kylecreate/PriceGrid)
+* [FEM - QR Code Card](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
+* [FEM - 3-Column Preview Card](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub)
+* [FEM - Single Price Grid](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub)
+* [FEM - Order Summary](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub)
+* [FEM - Stats Preview Card](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub)
+* [FEM - Product Preview](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
+* [FEM - Four Card Feature](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub)
 
 ### JavaScript
 * [Brad Traversy's JavaScript Course](https://www.udemy.com/course/modern-javascript-from-the-beginning/) - <i>uDemy</i>
