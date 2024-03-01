@@ -812,6 +812,25 @@
   <summary>Day 42: Mar 1, 2024</summary>
 
   ### Today's Progress: 
+  * Completed working on notes from Book 2 Ch.3 of Coding (All-in-One) for Dummies
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * This chapter talks more about CSS, but about images and text.
+
+  ### Thoughts:
+  * This book is very good!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 43: Mar 4, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
