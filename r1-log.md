@@ -831,6 +831,25 @@
   <summary>Day 43: Mar 4, 2024</summary>
 
   ### Today's Progress: 
+  * Started working on the Social Proof Section on Frontend Mentor
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * This one is also though. I started with the mobile design before moving to the Desktop design.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 44: Mar 5, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
