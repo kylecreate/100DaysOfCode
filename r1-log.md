@@ -850,6 +850,26 @@
   <summary>Day 44: Mar 5, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on the Social Proof Project from Frontend Mentor
+  * Checked out the new Learning Paths from Frontend Mentor. After the above project is finished, I'm going to start looking into this to see if I can learn more.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm glad I found some help with this project. Hopefully I can learn more and understand what I've been doing wrong in the past to hopefully make future projects better.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 45: Mar 6, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
