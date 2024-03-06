@@ -870,6 +870,25 @@
   <summary>Day 45: Mar 6, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on the Social Proof Project from Frontend Mentor
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Taking my time with this project is a good thing. Gained some help from some nice users on the Frontend Mentor discord.
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 46: Mar 7, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
