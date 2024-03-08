@@ -889,6 +889,44 @@
   <summary>Day 46: Mar 7, 2024</summary>
 
   ### Today's Progress: 
+  * Continued working on the Social Proof Project from Frontend Mentor
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 47: Mar 7, 2024</summary>
+
+  ### Today's Progress: 
+  * Completed working on the Social Proof Project from Frontend Mentor
+
+  ### Link to work:
+  * [FEM - Social Proof Section](https://github.com/kylecreate/SocialProoof)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Going to work on this project again in the future. Followed a video tutorial for this one since I had a lot of trouble.
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 48: Mar 11, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
