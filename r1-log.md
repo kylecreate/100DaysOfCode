@@ -927,6 +927,27 @@
   <summary>Day 48: Mar 11, 2024</summary>
 
   ### Today's Progress: 
+  * Restarted and completed the QR Code challenge by Frontend Mentor as I started with the Learning Path on their website.
+  * Started and completed the Blog Preview Card challenge by Frontend Mentor
+
+  ### Link to works:
+  * [QR Code Card](https://github.com/kylecreate/QRCode)
+  * [FEM - Blog Preview Card](https://github.com/kylecreate/BlogPreview)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Gave feedback to someone that was suggested by the website. I did my best to give them some helpful feedback and hope it helps them out in the future.
+
+  ### Time spent working
+  * 2.25 hrs
+</details>
+
+<details>
+  <summary>Day 49: Mar 12, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

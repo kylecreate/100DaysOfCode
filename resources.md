@@ -51,6 +51,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 * [FEM - Stats Preview Card](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub)
 * [FEM - Product Preview](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
 * [FEM - Four Card Feature](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub)
+* [FEM - Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
 ### JavaScript
 * [Brad Traversy's JavaScript Course](https://www.udemy.com/course/modern-javascript-from-the-beginning/) - <i>uDemy</i>

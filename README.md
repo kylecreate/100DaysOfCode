@@ -36,12 +36,13 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 8 | [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio) | 1/22/24 | HTML/CSS |
 | 9 | [Card Mini-Project](https://github.com/kylecreate/CardMiniProject) | 1/31/24 | HTML/CSS |
 | 10 | [Little Taco Shop - 2](https://github.com/kylecreate/LTS2) | 2/5/24 | HTML/CSS/JS |
-| 11 | [FEM - QR Code Card](https://github.com/kylecreate/QRCode)| 2/7/24 | HTML/CSS |
-| 12 | [FEM - 3-Column Preview Card](https://github.com/kylecreate/3ColumnCard) | 2/9/24 | HTML/CSS |
-| 13 | [FEM - Single Price Grid](https://github.com/kylecreate/PriceGrid) | 2/13/24 | HTML/CSS  |
-| 14 | [FEM - Order Summary Component](https://github.com/kylecreate/OrderSummary) | 2/15/24 | HTML/CSS |
-| 15 | [FEM - Stats Preview Card](https://github.com/kylecreate/StatsPreview) | 2/19/24 | HTML/CSS |
-| 16 | [FEM - Product Preview Card Component](https://github.com/kylecreate/ProductPreview) | 2/22/24 | HTML/CSS |
-| 17 | [FEM - Four Card Preview](https://github.com/kylecreate/4CardPreview) | 2/29/24 | HTML/CSS |
-| 18 | [FEM - Social Proof Section](https://github.com/kylecreate/SocialProoof) | 3/8/24 | HTML/CSS |
-| 19 | | | |
+| 11 | [FEM - 3-Column Preview Card](https://github.com/kylecreate/3ColumnCard) | 2/9/24 | HTML/CSS |
+| 12 | [FEM - Single Price Grid](https://github.com/kylecreate/PriceGrid) | 2/13/24 | HTML/CSS  |
+| 13 | [FEM - Order Summary Component](https://github.com/kylecreate/OrderSummary) | 2/15/24 | HTML/CSS |
+| 14 | [FEM - Stats Preview Card](https://github.com/kylecreate/StatsPreview) | 2/19/24 | HTML/CSS |
+| 15 | [FEM - Product Preview Card Component](https://github.com/kylecreate/ProductPreview) | 2/22/24 | HTML/CSS |
+| 16 | [FEM - Four Card Preview](https://github.com/kylecreate/4CardPreview) | 2/29/24 | HTML/CSS |
+| 17 | [FEM - Social Proof Section](https://github.com/kylecreate/SocialProoof) | 3/8/24 | HTML/CSS |
+| 18 | [FEM - QR Code Card](https://github.com/kylecreate/QRCode)| 3/11/24 | HTML/CSS |
+| 19 | [FEM - Blog Preview Card](https://github.com/kylecreate/BlogPreview) | 3/11/24 | HTML/CSS |
+| 20 | | | |
