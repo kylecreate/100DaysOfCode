@@ -948,6 +948,26 @@
   <summary>Day 49: Mar 12, 2024</summary>
 
   ### Today's Progress: 
+  * Updated the QR Code and Blog Preview Cards projects from yesterday with feedback recieved on Frontend Mentor.
+  * Started on the Social Links Profile project from Frontend Mentor
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Turning things from EM to REM when needed
+
+  ### Thoughts:
+  * Working hard, learning a lot, and playing hard!
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 50: Mar 13, 2024 🎉</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
