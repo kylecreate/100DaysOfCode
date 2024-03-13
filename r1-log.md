@@ -968,17 +968,37 @@
   <summary>Day 50: Mar 13, 2024 🎉</summary>
 
   ### Today's Progress: 
-  * 
+  * Completed the Social Links Profile project from Frontend Mentor
+  * Started working on the Recipe Page project from Frontend Mentor.
 
   ### Link to work:
-  * 
+  * [FEM - Social Links Profile](https://github.com/kylecreate/SocialLinks)
 
   ### New thing(s) learned:
-  * 
+  * There's a difference between max-width and width...
 
   ### Thoughts:
-  * 
+  * Enjoying learning through these projects
 
   ### Time spent working
-  * 
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 51: Mar 14, 2024</summary>
+
+  ### Today's Progress: 
+
+
+  ### Link to work:
+
+
+  ### New thing(s) learned:
+
+
+  ### Thoughts:
+
+
+  ### Time spent working
+  
 </details>
