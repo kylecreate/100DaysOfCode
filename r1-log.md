@@ -988,17 +988,39 @@
   <summary>Day 51: Mar 14, 2024</summary>
 
   ### Today's Progress: 
-
+  * Completed working on the Recipe Page project from Frontend Mentor.
+  * Completed the "Getting Started on Frontend Mentor" learning path
+  * Started working on the "Building Responsive Layouts" learning path
+  * Started working on the Product Preview Card component project from Frontend Mentor
 
   ### Link to work:
-
+  * [FEM - Recipe Page](https://github.com/kylecreate/RecipePage)
 
   ### New thing(s) learned:
-
+  * None
 
   ### Thoughts:
-
+  * None
 
   ### Time spent working
-  
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 52: Mar 15, 2024</summary>
+
+  ### Today's Progress: 
+  * 
+
+  ### Link to work:
+  * 
+
+  ### New thing(s) learned:
+  * 
+
+  ### Thoughts:
+  * 
+
+  ### Time spent working
+  * 
 </details>
