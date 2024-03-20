@@ -1007,7 +1007,45 @@
 </details>
 
 <details>
-  <summary>Day 52: Mar 15, 2024</summary>
+  <summary>Day 52: Mar 19, 2024</summary>
+
+  ### Today's Progress: 
+  * Returned to Recipe Page project from Frontend Mentor, re-wrote the HTML
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Wasn't happy with the HTMK during a few days break, so I went back and fixed it up.
+
+  ### Time spent working
+  * 0.5 hrs
+</details>
+
+<details>
+  <summary>Day 53: Mar 20, 2024</summary>
+
+  ### Today's Progress: 
+  * Continued on re-working the Recipe Page project from Frontend Mentor
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Worked more on the HTML and CSS part of the project. Started with Mobile First since that makes the most sense in this project.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 54: Mar 21, 2024</summary>
 
   ### Today's Progress: 
   * 

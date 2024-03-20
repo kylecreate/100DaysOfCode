@@ -45,5 +45,4 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 17 | [FEM - QR Code Card](https://github.com/kylecreate/QRCode)| 3/11/24 | HTML/CSS |
 | 18 | [FEM - Blog Preview Card](https://github.com/kylecreate/BlogPreview) | 3/11/24 | HTML/CSS |
 | 19 | [FEM - Social Links Profile](https://github.com/kylecreate/SocialLinks) | 3/13/24 | HTML/CSS |
-| 20 | [FEM - Recipe Page](https://github.com/kylecreate/RecipePage) | 3/14/24 | HTML/CSS |
-| 21 |  |  |  |
+| 20 |  |  |  |
