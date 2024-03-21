@@ -1048,6 +1048,26 @@
   <summary>Day 54: Mar 21, 2024</summary>
 
   ### Today's Progress: 
+  * Completed working on the Recipe page from Frontend Mentor. Re-wrote the whole thing pretty much.
+  * Started working on the Product Preview Card from Frontend Mentor
+
+  ### Link to work:
+  * [FEM - Recipe Page](https://github.com/kylecreate/RecipePage)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Getting back into the swing of coding and enjoying it!
+
+  ### Time spent working
+  * 1.8 hrs
+</details>
+
+<details>
+  <summary>Day 55: Mar 22, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
