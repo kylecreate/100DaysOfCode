@@ -1068,6 +1068,26 @@
   <summary>Day 55: Mar 22, 2024</summary>
 
   ### Today's Progress: 
+  * Completed working on the Product Preview component from Frontend Mentor
+  * Started working on the 4-Card Feature component from Frontend Mentor.
+
+  ### Link to work:
+  * [FEM - Product Preview](https://github.com/kylecreate/ProductPreview)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 56: Mar 25, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
