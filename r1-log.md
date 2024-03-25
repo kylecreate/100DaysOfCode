@@ -1088,6 +1088,25 @@
   <summary>Day 56: Mar 25, 2024</summary>
 
   ### Today's Progress: 
+  * Completed working on the 4-Card Feature component from Frontend Mentor.
+
+  ### Link to work:
+  * [FEM - Four Card Feature](https://github.com/kylecreate/FourCardFeature)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Originally watched Kevin Powell's video and then re-wrote the code entirely on my own. I'm happy with it, but still looking for feedback.
+
+  ### Time spent working
+  * 1.8 hrs
+</details>
+
+<details>
+  <summary>Day 57: Mar 26, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
