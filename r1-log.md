@@ -1107,6 +1107,25 @@
   <summary>Day 57: Mar 26, 2024</summary>
 
   ### Today's Progress: 
+  * Started working on the Testimonials Grid Section project from Frontend Mentor.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * This whole project I'm working on is a learning experience in itself.
+
+  ### Thoughts:
+  * I feel as if I watch a video of a project someone did from Frontend Mentor, code along with them, and then go back and re-write the whole thing to how I think it should be written is pretty helpful for me and a good starting place.
+
+  ### Time spent working
+  * 1.2 hrs
+</details>
+
+<details>
+  <summary>Day 58: Mar 27, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

@@ -11,8 +11,8 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 </details>
 
 ## Programs Using
-* [VS Codium](https://vscodium.com/) - Telemetry free version of Microsoft's VS Codium
-* [Pomofocus.io](https://pomofocus.io/) - Pomodoro timer to help me focus, take breaks, and prevent burnout.
+* [VS Code](https://code.visualstudio.com/)
+* [Pomatez](https://github.com/zidoro/pomatez) - Pomodoro timer to help me focus, take breaks, and prevent burnout. (FOSS)
     * <i>I'm doing 35 minutes of work time / 6 minute short breaks / 20 minute long breaks</i>
 * [AnyType](https://anytype.io/) - Similair to Notion and Obsidian, it's a combonation of the two pretty much. Using to take notes and keep track of everything.
 * [Google Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Web Browsers
@@ -50,6 +50,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 * [FEM - Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 * [FEM - Product Preview](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
 * [FEM - Four Card Feature](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
+* [FEM - Testiomonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub)
 
 ### JavaScript
 * [Brad Traversy's JavaScript Course](https://www.udemy.com/course/modern-javascript-from-the-beginning/) - <i>uDemy</i>
