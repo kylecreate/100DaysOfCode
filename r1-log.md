@@ -1126,6 +1126,26 @@
   <summary>Day 58: Mar 27, 2024</summary>
 
   ### Today's Progress: 
+  * Completed the Testimonials Grid Section from Frontend Mentor
+  * Started creating pages and getting files for Brad Traversy's course on JavaScript
+
+  ### Link to work:
+  * [FEM - Testiomonials Grid Section](https://github.com/kylecreate/TestimonialsGrid)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Off to JavaScript I go...!
+
+  ### Time spent working
+  * 1.3 hrs
+</details>
+
+<details>
+  <summary>Day 59: Mar 28, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
