@@ -1146,6 +1146,25 @@
   <summary>Day 59: Mar 28, 2024</summary>
 
   ### Today's Progress: 
+  * Started working on Brad Traversy's course on JavaScript on uDemy (video 1 - video 12, section 1 and 2)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about how logging to the console works and indepth on different shortcuts for VSCode
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.45 hrs
+</details>
+
+<details>
+  <summary>Day 60: Apr 1, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
