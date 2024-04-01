@@ -1165,6 +1165,26 @@
   <summary>Day 60: Apr 1, 2024</summary>
 
   ### Today's Progress: 
+  * Read Book 2 Chapter 5 (Responsive Layouts with Flexbox) and Book 3 Chapters 1 (Intro to JavaScript) from Coding for Dummies (7 books in 1).
+  * Started working on notes for Book 1 Chapter 4 (Next Steps with CSS)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more indepth about Flexbox for CSS and the intro f JavaScript.
+
+  ### Thoughts:
+  * I forgot to work on my notes for Ch.4 when I read that a while back. Whoops!
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 61: Apr 2, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

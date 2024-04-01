@@ -7,7 +7,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 <details>
     <summary>My learning path</summary>
         <img src="https://github.com/kylecreate/100DaysOfCode/blob/main/imgs/LearningPath.png" alt="Personal Learning roadmap" title="Personal Learning roadmap">
-        <p style="font-size: 12">Path last updated: 2/8/24</p>
+        <p style="font-size: 12">Path last updated: 4/1/24</p>
 </details>
 
 ## Programs Using
