@@ -14,7 +14,7 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 
 ## Goals
 - Make it a habit of coding during the week and learning something new
-- Revisit HTML and CSS for deeper knowledge
+- ~~Revisit HTML and CSS for deeper knowledge~~
 - Learn more and in-depth about JavaScript, ReactJS, Tailwind CSS, Figma, and VueJS
 - Create real world projects to use in my portfolio
 - Gain enough knowledge and create projects to get a job

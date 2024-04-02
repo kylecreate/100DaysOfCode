@@ -1185,6 +1185,25 @@
   <summary>Day 61: Apr 2, 2024</summary>
 
   ### Today's Progress: 
+  * Completed working on notes for Book 1 Chapter 4 and Chapter 5.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more indepth about flexbox and responsive layouts in CSS/web development.
+
+  ### Thoughts:
+  * I'm surprised that in the book it mentions that not all web developers would go for a mobile-first design website. That's what my plan is for the future.
+
+  ### Time spent working
+  * 1 hr
+</details>
+
+<details>
+  <summary>Day 62: Apr 3, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
