@@ -1185,7 +1185,7 @@
   <summary>Day 61: Apr 2, 2024</summary>
 
   ### Today's Progress: 
-  * Completed working on notes for Book 1 Chapter 4 and Chapter 5.
+  * Completed working on notes for Book 2 Chapter 4 and Chapter 5.
 
   ### Link to work:
   * None
@@ -1202,6 +1202,26 @@
 
 <details>
   <summary>Day 62: Apr 3, 2024</summary>
+
+  ### Today's Progress: 
+  * Completed working on notes for Book 3 Chapter 1.
+  * Continued working on Brad Traversey's JavaScript course on uDemy, video 11 and 12.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more and indepth about JavaScript from a history perspective.
+
+  ### Thoughts:
+  * I've very much enjoyed reading the Coding for Dummies book. Hopefully I can follow along with Brad's course to get a better understanding of everything.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 63: Apr 4, 2024</summary>
 
   ### Today's Progress: 
   * 
