@@ -1224,6 +1224,25 @@
   <summary>Day 63: Apr 4, 2024</summary>
 
   ### Today's Progress: 
+  * Moved to Jonas Schmedtmann's JavaScript course (completed first 8 videos)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Re-learned what JavaScript is, how it works, and writing code in Chrome/Firefox console.
+
+  ### Thoughts:
+  * Brad's course was a little too fast for me and he dived into topics that weren't relevant for a beginner such as myself. I then remembered about Jonas' course and have been enjoying it so far.
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 64: Apr 5, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

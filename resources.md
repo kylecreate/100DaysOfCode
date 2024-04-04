@@ -53,7 +53,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 * [FEM - Testiomonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub)
 
 ### JavaScript
-* [Brad Traversy's JavaScript Course](https://www.udemy.com/course/modern-javascript-from-the-beginning/) - <i>uDemy</i>
+* [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) - <i>uDemy</i>
 * [30 JavaScript projects in 30 Days](https://javascript30.com/) - By Wes Bos
 #### Completed Projects
 * <i>Future Project Here</i>
