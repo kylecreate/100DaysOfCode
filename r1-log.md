@@ -1243,6 +1243,25 @@
   <summary>Day 64: Apr 5, 2024</summary>
 
   ### Today's Progress: 
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 8 - 12)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Still learning the very basics of JavaScript
+
+  ### Thoughts:
+  * I'm enjoying taking my time with notes, the practice assignments provided, and learning slowly. This makes everything about this language just a little easier to understand!
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 65: Apr 8, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
