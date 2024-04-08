@@ -1262,6 +1262,25 @@
   <summary>Day 65: Apr 8, 2024</summary>
 
   ### Today's Progress: 
+  * * Continued to work on Jonas Schmedtmann's JavaScript course (video 12 - 17)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned about the basics of Operators and Operator Precedence.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.15 hrs
+</details>
+
+<details>
+  <summary>Day 66: Apr 9, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:

@@ -7,14 +7,14 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 <details>
     <summary>My learning path</summary>
         <img src="https://github.com/kylecreate/100DaysOfCode/blob/main/imgs/LearningPath.png" alt="Personal Learning roadmap" title="Personal Learning roadmap">
-        <p style="font-size: 12">Path last updated: 4/1/24</p>
+        <p style="font-size: 12">Path last updated: 4/8/24</p>
 </details>
 
 ## Programs Using
 * [VS Code](https://code.visualstudio.com/)
-* [Pomatez](https://github.com/zidoro/pomatez) - Pomodoro timer to help me focus, take breaks, and prevent burnout. (FOSS)
+* [Pomatez](https://github.com/zidoro/pomatez) - Pomodoro timer to help me focus, take breaks, and prevent mental burnout. (FOSS)
     * <i>I'm doing 35 minutes of work time / 6 minute short breaks / 20 minute long breaks</i>
-* [AnyType](https://anytype.io/) - Similair to Notion and Obsidian, it's a combonation of the two pretty much. Using to take notes and keep track of everything.
+* [AnyType](https://anytype.io/) - Similair to Notion and Obsidian. Using to take notes and keep track of everything I do.
 * [Google Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Web Browsers
 * [Frontend Roadmap](https://roadmap.sh/frontend) | [JavaScript Roadmap](https://roadmap.sh/javascript) | [ReactJS Roadmap](https://roadmap.sh/react) | [VueJS Roadmap](https://roadmap.sh/vue)
 
@@ -54,6 +54,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 
 ### JavaScript
 * [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) - <i>uDemy</i>
+* [JavaScript for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg) - <i>YouTube</i>
 * [30 JavaScript projects in 30 Days](https://javascript30.com/) - By Wes Bos
 #### Completed Projects
 * <i>Future Project Here</i>
