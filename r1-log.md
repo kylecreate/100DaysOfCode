@@ -1281,6 +1281,26 @@
   <summary>Day 66: Apr 9, 2024</summary>
 
   ### Today's Progress: 
+  * Completed reading Book 3 Chapter 3 (Working with Variables) from Coding for Dummies
+  * Started working on notes for this chapter.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about variables and got a better understanding of them.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 67: Apr 10, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
