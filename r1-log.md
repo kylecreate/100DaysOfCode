@@ -1262,7 +1262,7 @@
   <summary>Day 65: Apr 8, 2024</summary>
 
   ### Today's Progress: 
-  * * Continued to work on Jonas Schmedtmann's JavaScript course (video 12 - 17)
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 12 - 17)
 
   ### Link to work:
   * None
@@ -1299,6 +1299,26 @@
 
 <details>
   <summary>Day 67: Apr 10, 2024</summary>
+
+  ### Today's Progress: 
+  * Completed working on notes for Book 3 Chapter 3 (Working with Variables) from Coding for Dummies.
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 17 - 20)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about String/Template Literals, if/else statements, and Type Conversion/Coercion.
+
+  ### Thoughts:
+  * Going to take some time and make up some problems for myself to get the hang of most of these.
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 68: Apr 11, 2024</summary>
 
   ### Today's Progress: 
   * 
