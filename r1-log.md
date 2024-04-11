@@ -1321,6 +1321,25 @@
   <summary>Day 68: Apr 11, 2024</summary>
 
   ### Today's Progress: 
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 20 - 25)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about Truthy/Falsy values, Equality Operators, Boolean Logic, and Logical Operators.
+
+  ### Thoughts:
+  * Going to take some time and make up some problems for myself to get the hang of most of these.
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 69: Apr 12, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
