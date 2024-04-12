@@ -1340,6 +1340,25 @@
   <summary>Day 69: Apr 12, 2024</summary>
 
   ### Today's Progress: 
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 25 - 27)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned about the Switch Statement and the differences between a Statement and an Expression.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 0.75 hrs
+</details>
+
+<details>
+  <summary>Day 70: Apr 15, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
