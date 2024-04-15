@@ -1359,6 +1359,25 @@
   <summary>Day 70: Apr 15, 2024</summary>
 
   ### Today's Progress: 
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 27 - 31)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more abou the Ternary Operator and how releases of modern JavaScript work.
+
+  ### Thoughts:
+  * Next section of the fundamentals, woo!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 71: Apr 16, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
