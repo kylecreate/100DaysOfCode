@@ -1365,7 +1365,7 @@
   * None
 
   ### New thing(s) learned:
-  * Learned more abou the Ternary Operator and how releases of modern JavaScript work.
+  * Learned more about the Ternary Operator and how releases of modern JavaScript work.
 
   ### Thoughts:
   * Next section of the fundamentals, woo!
@@ -1376,6 +1376,25 @@
 
 <details>
   <summary>Day 71: Apr 16, 2024</summary>
+
+  ### Today's Progress: 
+  * Continued reading Coding for Dummies book Book 3 Chapters 5 and 6.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I got more of a understanding for operators, expressions, statements, loops (haven't learned quite yet), and branches.
+
+  ### Thoughts:
+  * Going back and forth between the course and book has been very nice!
+
+  ### Time spent working
+  * 0.75 hrs
+</details>
+
+<details>
+  <summary>Day 72: Apr ??, 2024</summary>
 
   ### Today's Progress: 
   * 
