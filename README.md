@@ -15,7 +15,7 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 ## Goals
 - Make it a habit of coding during the week and learning something new
 - ~~Revisit HTML and CSS for deeper knowledge~~
-- Learn more and in-depth about JavaScript, ReactJS, Tailwind CSS, Figma, and VueJS
+- Learn more and in-depth about JavaScript, VueJS, Figma, and Tailwind CSS
 - Create real world projects to use in my portfolio
 - Gain enough knowledge and create projects to get a job
 - ~~Complete the [FCC Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification~~

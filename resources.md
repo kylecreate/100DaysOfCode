@@ -60,17 +60,13 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 * <i>Future Project Here</i>
 
 ### VueJS
-* [Brad Traversy's VueJS Crash Course for Beginners](https://www.youtube.com/watch?v=qZXt1Aom3Cs) - <i>YouTube</i>
+* [VueMastery - VueJS 3 for Beginners (Learning Path)](https://www.vuemastery.com/learning-path/beginner)
+* [VueMastery Beginner Videos](https://www.youtube.com/@VueMastery/search?query=beginner) - <i>YouTube</i>
 #### Completed Projects
 * <i>Future Project Here</i>
 
 ### Figma
 * [Figma Crash Course for Beginners](https://www.youtube.com/watch?v=o1nCmiW6auE)
-#### Completed Projects
-* <i>Future Project Here</i>
-
-### ReactJS
-* [freeCodeCamp's ReactJS for Beginners](https://www.youtube.com/watch?v=bMknfKXIFA8) - <i>YouTube</i>
 #### Completed Projects
 * <i>Future Project Here</i>
 

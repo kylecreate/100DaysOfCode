@@ -20,7 +20,7 @@
   * There's a lot to learn about HTML when you get back into it after so long. I took Web Design in High School and everything was slow to learn. But, using something like YouTube or freeCodeCamp to help teach me makes things a lot faster. Everything seems a lot more interesting than it did before.
 
   ### Time spent working
-  * 2.3 hours
+  * 2.3 hrs
 </details>
 
 <details>
@@ -1197,7 +1197,7 @@
   * I'm surprised that in the book it mentions that not all web developers would go for a mobile-first design website. That's what my plan is for the future.
 
   ### Time spent working
-  * 1 hr
+  * 1 hrs
 </details>
 
 <details>
@@ -1394,7 +1394,27 @@
 </details>
 
 <details>
-  <summary>Day 72: Apr ??, 2024</summary>
+  <summary>Day 72: Apr 18, 2024</summary>
+
+  ### Today's Progress: 
+  * Completed working on notes for Book 3 Chapter 5 (Working with Operators, Expressions, and Statements) and Chapter 6 (Getting into the Flow with Loops and Branches) from Coding for Dummies.
+  * Added folder to add my notes to should someone in the future want to see them or use them for something else.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 73: Apr 19, 2024</summary>
 
   ### Today's Progress: 
   * 
