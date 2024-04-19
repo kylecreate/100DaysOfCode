@@ -1417,6 +1417,25 @@
   <summary>Day 73: Apr 19, 2024</summary>
 
   ### Today's Progress: 
+  * Completed reading and working on notes for Book 3 Chapter 8 (Making and Using Objects) from Coding for Dummies.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about creating objects and seeing what they can do for a program.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 74: Apr 22, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
