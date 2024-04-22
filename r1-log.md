@@ -1436,6 +1436,25 @@
   <summary>Day 74: Apr 22, 2024</summary>
 
   ### Today's Progress: 
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 31 - 36)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned about the basics of Function Declarations, Expressions, and Arrow Functions
+
+  ### Thoughts:
+  * I feel like I'm starting to get the hang of this...
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 75: Apr 23, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
