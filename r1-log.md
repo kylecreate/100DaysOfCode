@@ -1474,6 +1474,25 @@
   <summary>Day 76: Apr 24, 2024</summary>
 
   ### Today's Progress: 
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 39 - 40)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned the basics about arrays and their operations (methods).
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 77: Apr 25, 2024</summary>
+
+  ### Today's Progress: 
   * 
 
   ### Link to work:
