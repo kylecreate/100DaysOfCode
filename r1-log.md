@@ -27,7 +27,7 @@
   <summary>Day 2: Jan 3, 2024</summary>
 
   ### Today's Progress: 
-  * Continued working on Dave Gray's Course on HTML (Ch.2 - Ch.5)
+  * Continued working on Dave Gray's Course on HTML (Ch.2 → Ch.5)
 
   ### Link to work:
   * None
@@ -46,7 +46,7 @@
   <summary>Day 3: Jan 4, 2024</summary>
 
   ### Today's Progress: 
-  * Continued working on Dave Gray's Course on HTML (Ch.5 - Ch.6) *still working on Ch.6*
+  * Continued working on Dave Gray's Course on HTML (Ch.5 → Ch.6) *still working on Ch.6*
 
   ### Link to work:
   * None
@@ -66,7 +66,7 @@
   <summary>Day 4: Jan 8, 2024</summary>
 
   ### Today's Progress: 
-  * Continued working on Dave Gray's Course on HTML (Ch.6 - Ch.9)
+  * Continued working on Dave Gray's Course on HTML (Ch.6 → Ch.9)
 
   ### Link to work:
   * None
@@ -1146,7 +1146,7 @@
   <summary>Day 59: Mar 28, 2024</summary>
 
   ### Today's Progress: 
-  * Started working on Brad Traversy's course on JavaScript on uDemy (video 1 - video 12, section 1 and 2)
+  * Started working on Brad Traversy's course on JavaScript on uDemy (video 1 → video 12, section 1 and 2)
 
   ### Link to work:
   * None
@@ -1243,7 +1243,7 @@
   <summary>Day 64: Apr 5, 2024</summary>
 
   ### Today's Progress: 
-  * Continued to work on Jonas Schmedtmann's JavaScript course (video 8 - 12)
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 8 → 12)
 
   ### Link to work:
   * None
@@ -1262,7 +1262,7 @@
   <summary>Day 65: Apr 8, 2024</summary>
 
   ### Today's Progress: 
-  * Continued to work on Jonas Schmedtmann's JavaScript course (video 12 - 17)
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 12 → 17)
 
   ### Link to work:
   * None
@@ -1302,7 +1302,7 @@
 
   ### Today's Progress: 
   * Completed working on notes for Book 3 Chapter 3 (Working with Variables) from Coding for Dummies.
-  * Continued to work on Jonas Schmedtmann's JavaScript course (video 17 - 20)
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 17 → 20)
 
   ### Link to work:
   * None
@@ -1321,7 +1321,7 @@
   <summary>Day 68: Apr 11, 2024</summary>
 
   ### Today's Progress: 
-  * Continued to work on Jonas Schmedtmann's JavaScript course (video 20 - 25)
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 20 → 25)
 
   ### Link to work:
   * None
@@ -1340,7 +1340,7 @@
   <summary>Day 69: Apr 12, 2024</summary>
 
   ### Today's Progress: 
-  * Continued to work on Jonas Schmedtmann's JavaScript course (video 25 - 27)
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 25 → 27)
 
   ### Link to work:
   * None
@@ -1359,7 +1359,7 @@
   <summary>Day 70: Apr 15, 2024</summary>
 
   ### Today's Progress: 
-  * Continued to work on Jonas Schmedtmann's JavaScript course (video 27 - 31)
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 27 → 31)
 
   ### Link to work:
   * None
@@ -1436,7 +1436,7 @@
   <summary>Day 74: Apr 22, 2024</summary>
 
   ### Today's Progress: 
-  * Continued to work on Jonas Schmedtmann's JavaScript course (video 31 - 36)
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 31 → 36)
 
   ### Link to work:
   * None
@@ -1455,7 +1455,7 @@
   <summary>Day 75: Apr 23, 2024</summary>
 
   ### Today's Progress: 
-  * Continued to work on Jonas Schmedtmann's JavaScript course (video 36 - 38)
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 36 → 38)
 
   ### Link to work:
   * None
@@ -1474,7 +1474,7 @@
   <summary>Day 76: Apr 24, 2024</summary>
 
   ### Today's Progress: 
-  * Continued to work on Jonas Schmedtmann's JavaScript course (video 39 - 40)
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 39 → 40)
 
   ### Link to work:
   * None
@@ -1491,6 +1491,25 @@
 
 <details>
   <summary>Day 77: Apr 25, 2024</summary>
+
+  ### Today's Progress: 
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 41 → 45)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned about the basics of Objects, Object Methods, and Dot vs. Bracket Notation for Objects.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.4 hrs
+</details>
+
+<details>
+  <summary>Day 78: Apr 26, 2024</summary>
 
   ### Today's Progress: 
   * 
