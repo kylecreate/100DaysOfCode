@@ -11,10 +11,10 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 </details>
 
 ## Programs Using
-* [VS Code](https://code.visualstudio.com/)
+* [VSCodium](https://vscodium.com/)
 * [Pomatez](https://github.com/zidoro/pomatez) - Pomodoro timer to help me focus, take breaks, and prevent mental burnout. (FOSS)
     * <i>I'm doing 35 minutes of work time / 6 minute short breaks / 20 minute long breaks</i>
-* [AnyType](https://anytype.io/) - Similair to Notion and Obsidian. Using to take notes and keep track of everything I do.
+* [Obsidian](https://obsidian.md/) | [Notion](https://www.notion.so/) - Keeping track of notes and progress
 * [Google Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Web Browsers
 * [Frontend Roadmap](https://roadmap.sh/frontend) | [JavaScript Roadmap](https://roadmap.sh/javascript) | [ReactJS Roadmap](https://roadmap.sh/react) | [VueJS Roadmap](https://roadmap.sh/vue)
 

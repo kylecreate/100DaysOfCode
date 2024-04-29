@@ -26,7 +26,7 @@
 <details>
   <summary>Day 2: Jan 3, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on Dave Gray's Course on HTML (Ch.2 → Ch.5)
 
   ### Link to work:
@@ -45,7 +45,7 @@
 <details>
   <summary>Day 3: Jan 4, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on Dave Gray's Course on HTML (Ch.5 → Ch.6) *still working on Ch.6*
 
   ### Link to work:
@@ -65,7 +65,7 @@
 <details>
   <summary>Day 4: Jan 8, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on Dave Gray's Course on HTML (Ch.6 → Ch.9)
 
   ### Link to work:
@@ -85,7 +85,7 @@
 <details>
   <summary>Day 5: Jan 9, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed Dave Gray's course on HTML by completing the final project
 
   ### Link to work:
@@ -104,7 +104,7 @@
 <details>
   <summary>Day 6: Jan 10, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Started and completed the MDN project of creating a table of planets data
 
   ### Link to work:
@@ -123,7 +123,7 @@
 <details>
   <summary>Day 7: Jan 12, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed building a registration form on Responsive Web Design (fCC)
   * Completed certification project #1 or 5 on Responsive Web Design (fCC)
 
@@ -143,7 +143,7 @@
 <details>
   <summary>Day 8: Jan 15, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed Rothko Painting (CSS Box Model) on Responsive Web Design (fCC)
   * Completed Photo Gallery (CSS Flexbox) on Responsive Web Design (fCC)
   * Completed Nutrition Label on Responsive Web Design (fCC)
@@ -164,7 +164,7 @@
 <details>
   <summary>Day 9: Jan 16, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed learning about Accessibility by building a HTML/CSS Quiz on Responsive Web Design (fCC)
   * Started on the 2nd certification project for Responsive Web Design (fCC)
 
@@ -184,7 +184,7 @@
 <details>
   <summary>Day 10: Jan 17, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed certification project #2 or 5 on Responsive Web Design (fCC)
   * Completed building a Balance Sheet on fCC
   * Completed building a Cat Painting on fCC
@@ -205,7 +205,7 @@
 <details>
   <summary>Day 11: Jan 18, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed building a responsive piano (fCC)
   * Completed certification project #3 or 5 on Responsive Web Design (fCC)
   * Completed building a city skyline (fCC)
@@ -226,7 +226,7 @@
 <details>
   <summary>Day 12: Jan 19, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed building a magazine (fCC)
   * Completed certification project #4 or 5 on Responsive Web Design (fCC)
 
@@ -246,7 +246,7 @@
 <details>
   <summary>Day 13: Jan 22, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed building a Ferris Wheel using CSS Animations
   * Completed building a Penguin using CSS Transformations
   * Completed certification project #5 or 5 on Responsive Web Design (fCC) - Recived my certification from the site! 🎉
@@ -267,7 +267,7 @@
 <details>
   <summary>Day 14: Jan 23, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Started Dave Gray's CSS Course on YouTube (Ch.1 → Ch.2, starting Ch.3 tomorrow)
 
   ### Link to work:
@@ -286,7 +286,7 @@
 <details>
   <summary>Day 15: Jan 24, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on Dave Gray's CSS Course on YouTube (Ch.3 → Ch.5, starting Ch.5 tomorrow)
 
   ### Link to work:
@@ -305,7 +305,7 @@
 <details>
   <summary>Day 16: Jan 25, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on Dave Gray's CSS Course on YouTube (Ch.5 → Ch.7, starting Ch.7 tomorrow)
 
   ### Link to work:
@@ -324,7 +324,7 @@
 <details>
   <summary>Day 17: Jan 26, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on Dave Gray's CSS Course on YouTube (Ch.7 → Ch.12, starting Ch.13 next week)
 
   ### Link to work:
@@ -343,7 +343,7 @@
 <details>
   <summary>Day 18: Jan 29, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on Dave Gray's CSS Course on YouTube (Ch.13 → Ch.14, starting Ch.15 tomorrow)
 
   ### Link to work:
@@ -362,7 +362,7 @@
 <details>
   <summary>Day 19: Jan 30, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on Dave Gray's CSS Course on YouTube (Ch.15 → Ch.16, starting Ch.17 tomorrow)
 
   ### Link to work:
@@ -381,7 +381,7 @@
 <details>
   <summary>Day 20: Jan 31, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on Dave Gray's CSS Course on YouTube (Ch.17 → Ch.20, starting Ch.20 tomorrow)
 
   ### Link to work:
@@ -400,7 +400,7 @@
 <details>
   <summary>Day 21: Feb 1, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on Dave Gray's CSS Course on YouTube (Ch.20 → Ch.21, starting Ch.22 tomorrow)
 
   ### Link to work:
@@ -419,7 +419,7 @@
 <details>
   <summary>Day 22: Feb 2, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on Dave Gray's CSS Course on YouTube (Ch.22 → Final Project, will complete the project next week)
 
   ### Link to work:
@@ -438,7 +438,7 @@
 <details>
   <summary>Day 23: Feb 5, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued and completed Dave Gray's CSS Course on YouTube (Final Project)
 
   ### Link to work:
@@ -457,7 +457,7 @@
 <details>
   <summary>Day 24: Feb 6, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Resarched and learning about Frontend Mentor's first project of the QR Code.
 
   ### Link to work:
@@ -476,7 +476,7 @@
 <details>
   <summary>Day 25: Feb 7, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Started and completed Frontend Mentor's QR Code Component challenge
 
   ### Link to work:
@@ -495,7 +495,7 @@
 <details>
   <summary>Day 26: Feb 8, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * After receiving feedback from [solvman](https://www.frontendmentor.io/profile/solvman), I made some changes to my QR Code Component. <i>Check yesterday's log for the project link</i>
   * Started working on the [3-Column Preview Card Component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub) project
 
@@ -515,7 +515,7 @@
 <details>
   <summary>Day 27: Feb 9, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed the [3-Column Preview Card](https://github.com/kylecreate/3ColumnCard) project from Frontend Mentor
   * Started working on the [Single Price Grid Component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub) project
 
@@ -535,7 +535,7 @@
 <details>
   <summary>Day 28: Feb 12, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on the [Single Price Grid Component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub) project from Frontend Mentor.
 
   ### Link to work:
@@ -554,7 +554,7 @@
 <details>
   <summary>Day 29: Feb 13, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed the Single Price Grid Component from Frontend Mentor
   * Started working on the Order Summary Component from Frontend Mentor
 
@@ -574,7 +574,7 @@
 <details>
   <summary>Day 30: Feb 14, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on the Order Summary Component from Frontend Mentor
   * Started to read Coding for Dummies (7 books in 1) about Frontend Web Dev of course. Excited to learn more and actually read a book away from the computer. Completed the first book on "What is Coding?"
 
@@ -594,7 +594,7 @@
 <details>
   <summary>Day 31: Feb 15, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on the Order Summary Component from Frontend Mentor
   * Started getting notes together from yesterday's reading. Going to complete this later today or tomorrow.
 
@@ -635,7 +635,7 @@
 <details>
   <summary>Day 33: Feb 19, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed [Statis Preview Card Component](https://github.com/kylecreate/StatsPreview) from Frontend Mentor
   * Started working on the Product Preview Card Component
 
@@ -655,7 +655,7 @@
 <details>
   <summary>Day 34: Feb 20, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on the Product Preview Card Component from Frontend Mentor
   * Continued reading Coding (All-in-One) for Dummies, read Book 2 Ch.1.
 
@@ -675,7 +675,7 @@
 <details>
   <summary>Day 35: Feb 21, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on the Product Preview Card Component from Frontend Mentor
   * Continued reading Coding (All-in-One) for Dummies, read Book 2 Ch.2.
 
@@ -695,7 +695,7 @@
 <details>
   <summary>Day 36: Feb 22, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed the Frontend Mentor project of the Product Preview Card
 
   ### Link to work:
@@ -714,7 +714,7 @@
 <details>
   <summary>Day 37: Feb 23, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued reading Coding (All-in-One) for Dummies, read Book 2 Ch.3 and Ch.4.
 
   ### Link to work:
@@ -733,7 +733,7 @@
 <details>
   <summary>Day 38: Feb 26, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on the Product Preview Card from Frontend Mentor
   * Worked on notes from Book 2 Ch.2 of Coding (All-in-One) for Dummies
 
@@ -753,7 +753,7 @@
 <details>
   <summary>Day 39: Feb 27, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on the Product Preview Card from Frontend Mentor
 
   ### Link to work:
@@ -772,7 +772,7 @@
 <details>
   <summary>Day 40: Feb 28, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * * Continued working on the Product Preview Card from Frontend Mentor
 
   ### Link to work:
@@ -791,7 +791,7 @@
 <details>
   <summary>Day 41: Feb 29, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on the Product Preview Card from Frontend Mentor
   * Started working on notes from Book 2 Ch.3 of Coding (All-in-One) for Dummies
 
@@ -811,7 +811,7 @@
 <details>
   <summary>Day 42: Mar 1, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on notes from Book 2 Ch.3 of Coding (All-in-One) for Dummies
 
   ### Link to work:
@@ -830,7 +830,7 @@
 <details>
   <summary>Day 43: Mar 4, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Started working on the Social Proof Section on Frontend Mentor
 
   ### Link to work:
@@ -849,7 +849,7 @@
 <details>
   <summary>Day 44: Mar 5, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on the Social Proof Project from Frontend Mentor
   * Checked out the new Learning Paths from Frontend Mentor. After the above project is finished, I'm going to start looking into this to see if I can learn more.
 
@@ -869,7 +869,7 @@
 <details>
   <summary>Day 45: Mar 6, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on the Social Proof Project from Frontend Mentor
 
   ### Link to work:
@@ -888,7 +888,7 @@
 <details>
   <summary>Day 46: Mar 7, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued working on the Social Proof Project from Frontend Mentor
 
   ### Link to work:
@@ -907,7 +907,7 @@
 <details>
   <summary>Day 47: Mar 7, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on the Social Proof Project from Frontend Mentor
 
   ### Link to work:
@@ -926,7 +926,7 @@
 <details>
   <summary>Day 48: Mar 11, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Restarted and completed the QR Code challenge by Frontend Mentor as I started with the Learning Path on their website.
   * Started and completed the Blog Preview Card challenge by Frontend Mentor
 
@@ -947,7 +947,7 @@
 <details>
   <summary>Day 49: Mar 12, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Updated the QR Code and Blog Preview Cards projects from yesterday with feedback recieved on Frontend Mentor.
   * Started on the Social Links Profile project from Frontend Mentor
 
@@ -967,7 +967,7 @@
 <details>
   <summary>Day 50: Mar 13, 2024 🎉</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed the Social Links Profile project from Frontend Mentor
   * Started working on the Recipe Page project from Frontend Mentor.
 
@@ -987,7 +987,7 @@
 <details>
   <summary>Day 51: Mar 14, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on the Recipe Page project from Frontend Mentor.
   * Completed the "Getting Started on Frontend Mentor" learning path
   * Started working on the "Building Responsive Layouts" learning path
@@ -1009,7 +1009,7 @@
 <details>
   <summary>Day 52: Mar 19, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Returned to Recipe Page project from Frontend Mentor, re-wrote the HTML
 
   ### Link to work:
@@ -1028,7 +1028,7 @@
 <details>
   <summary>Day 53: Mar 20, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued on re-working the Recipe Page project from Frontend Mentor
 
   ### Link to work:
@@ -1047,7 +1047,7 @@
 <details>
   <summary>Day 54: Mar 21, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on the Recipe page from Frontend Mentor. Re-wrote the whole thing pretty much.
   * Started working on the Product Preview Card from Frontend Mentor
 
@@ -1067,7 +1067,7 @@
 <details>
   <summary>Day 55: Mar 22, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on the Product Preview component from Frontend Mentor
   * Started working on the 4-Card Feature component from Frontend Mentor.
 
@@ -1087,7 +1087,7 @@
 <details>
   <summary>Day 56: Mar 25, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on the 4-Card Feature component from Frontend Mentor.
 
   ### Link to work:
@@ -1106,7 +1106,7 @@
 <details>
   <summary>Day 57: Mar 26, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Started working on the Testimonials Grid Section project from Frontend Mentor.
 
   ### Link to work:
@@ -1125,7 +1125,7 @@
 <details>
   <summary>Day 58: Mar 27, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed the Testimonials Grid Section from Frontend Mentor
   * Started creating pages and getting files for Brad Traversy's course on JavaScript
 
@@ -1145,7 +1145,7 @@
 <details>
   <summary>Day 59: Mar 28, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Started working on Brad Traversy's course on JavaScript on uDemy (video 1 → video 12, section 1 and 2)
 
   ### Link to work:
@@ -1164,7 +1164,7 @@
 <details>
   <summary>Day 60: Apr 1, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Read Book 2 Chapter 5 (Responsive Layouts with Flexbox) and Book 3 Chapters 1 (Intro to JavaScript) from Coding for Dummies (7 books in 1).
   * Started working on notes for Book 1 Chapter 4 (Next Steps with CSS)
 
@@ -1184,7 +1184,7 @@
 <details>
   <summary>Day 61: Apr 2, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on notes for Book 2 Chapter 4 and Chapter 5.
 
   ### Link to work:
@@ -1203,7 +1203,7 @@
 <details>
   <summary>Day 62: Apr 3, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on notes for Book 3 Chapter 1.
   * Continued working on Brad Traversey's JavaScript course on uDemy, video 11 and 12.
 
@@ -1223,7 +1223,7 @@
 <details>
   <summary>Day 63: Apr 4, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Moved to Jonas Schmedtmann's JavaScript course (completed first 8 videos)
 
   ### Link to work:
@@ -1242,7 +1242,7 @@
 <details>
   <summary>Day 64: Apr 5, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 8 → 12)
 
   ### Link to work:
@@ -1261,7 +1261,7 @@
 <details>
   <summary>Day 65: Apr 8, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 12 → 17)
 
   ### Link to work:
@@ -1280,7 +1280,7 @@
 <details>
   <summary>Day 66: Apr 9, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed reading Book 3 Chapter 3 (Working with Variables) from Coding for Dummies
   * Started working on notes for this chapter.
 
@@ -1300,7 +1300,7 @@
 <details>
   <summary>Day 67: Apr 10, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on notes for Book 3 Chapter 3 (Working with Variables) from Coding for Dummies.
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 17 → 20)
 
@@ -1320,7 +1320,7 @@
 <details>
   <summary>Day 68: Apr 11, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 20 → 25)
 
   ### Link to work:
@@ -1339,7 +1339,7 @@
 <details>
   <summary>Day 69: Apr 12, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 25 → 27)
 
   ### Link to work:
@@ -1358,7 +1358,7 @@
 <details>
   <summary>Day 70: Apr 15, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 27 → 31)
 
   ### Link to work:
@@ -1377,7 +1377,7 @@
 <details>
   <summary>Day 71: Apr 16, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued reading Coding for Dummies book Book 3 Chapters 5 and 6.
 
   ### Link to work:
@@ -1396,7 +1396,7 @@
 <details>
   <summary>Day 72: Apr 18, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed working on notes for Book 3 Chapter 5 (Working with Operators, Expressions, and Statements) and Chapter 6 (Getting into the Flow with Loops and Branches) from Coding for Dummies.
   * Added folder to add my notes to should someone in the future want to see them or use them for something else.
 
@@ -1416,7 +1416,7 @@
 <details>
   <summary>Day 73: Apr 19, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Completed reading and working on notes for Book 3 Chapter 8 (Making and Using Objects) from Coding for Dummies.
 
   ### Link to work:
@@ -1435,7 +1435,7 @@
 <details>
   <summary>Day 74: Apr 22, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 31 → 36)
 
   ### Link to work:
@@ -1454,7 +1454,7 @@
 <details>
   <summary>Day 75: Apr 23, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 36 → 38)
 
   ### Link to work:
@@ -1473,7 +1473,7 @@
 <details>
   <summary>Day 76: Apr 24, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 39 → 40)
 
   ### Link to work:
@@ -1492,7 +1492,7 @@
 <details>
   <summary>Day 77: Apr 25, 2024</summary>
 
-  ### Today's Progress: 
+  ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 41 → 45)
 
   ### Link to work:
@@ -1509,20 +1509,40 @@
 </details>
 
 <details>
-  <summary>Day 78: Apr 26, 2024</summary>
+  <summary>Day 78: Apr 29, 2024</summary>
 
-  ### Today's Progress: 
-  * 
+  ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 45 → 50)
+  * Decided to move back to Obsidian from AnyType
 
   ### Link to work:
-  * 
+  * None
 
   ### New thing(s) learned:
-  * 
+  * I learned more about for loops, looping arrays, breaking and continuing loops, creating backwards loops, and the while loop.
 
   ### Thoughts:
-  * 
+  * Loop hoop loop hoop???
 
   ### Time spent working
-  * 
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 79: Apr 30, 2024</summary>
+
+  ### Today's Progress:
+  *
+
+  ### Link to work:
+  *
+
+  ### New thing(s) learned:
+  *
+
+  ### Thoughts:
+  *
+
+  ### Time spent working
+  *
 </details>
