@@ -1532,6 +1532,25 @@
   <summary>Day 79: Apr 30, 2024</summary>
 
   ### Today's Progress:
+  * Completed reading and working on notes for Book 3 Chapter 4 (Understanding Arrays) from Coding for Dummies.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about how arrays work in JavaScript and how to make many different lists from them.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.16 hrs
+</details>
+
+<details>
+  <summary>Day 80: May 1, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
