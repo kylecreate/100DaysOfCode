@@ -1551,6 +1551,44 @@
   <summary>Day 80: May 1, 2024</summary>
 
   ### Today's Progress:
+  * Completed reading Book 3 Chapter 7 (Getting Functional) from Coding for Dummies, still working on my notes.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about the basics of functions and the differences between the few that are used in JavaScript.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.16 hrs
+</details>
+
+<details>
+  <summary>Day 81: May 2, 2024</summary>
+
+  ### Today's Progress:
+  * Completed working on my notes for Book 3 Chapter 7 (Getting Functional) from Coding for Dummies.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about Functions and how to create a function inside of a function.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1 hr
+</details>
+
+<details>
+  <summary>Day 82: May 3, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
