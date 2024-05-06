@@ -1586,7 +1586,26 @@
 </details>
 
 <details>
-  <summary>Day 82: May 3, 2024</summary>
+  <summary>Day 82: May 6, 2024</summary>
+
+  ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 68 → 75)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I started to learn about the basics of Document Object Manipulation.
+
+  ### Thoughts:
+  * This is pretty cool!
+
+  ### Time spent working
+  * 1.91 hrs
+</details>
+
+<details>
+  <summary>Day 82: May 7, 2024</summary>
 
   ### Today's Progress:
   *
