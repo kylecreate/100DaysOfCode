@@ -1608,6 +1608,26 @@
   <summary>Day 82: May 7, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 75 → 80)
+  * Used the Rubber Duck Theory to explain code in my notes
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about a real world example of cleaning up repeated code and making everything work how it should.
+
+  ### Thoughts:
+  * I'm really enjoying learning JavaScript. I plan on looking for more resources to help me understand different parts of it.
+
+  ### Time spent working
+  * 1.16 hrs
+</details>
+
+<details>
+  <summary>Day 83: May 8, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
