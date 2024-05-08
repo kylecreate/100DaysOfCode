@@ -1628,6 +1628,25 @@
   <summary>Day 83: May 8, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 80 → 82)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned how to do keypress events using the DOM to hide/show certain objects of a webpage.
+
+  ### Thoughts:
+  * This will become very useful with some projects that I have in mind. I also understand pop-up ads now...
+
+  ### Time spent working
+  * 1.16 hrs
+</details>
+
+<details>
+  <summary>Day 84: May 9, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
