@@ -1647,6 +1647,25 @@
   <summary>Day 84: May 9, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 82 → 86), completed section 7 (DOM Fundamentals)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned a lot about game functionallity and more.
+
+  ### Thoughts:
+  * These were some very fun projects. I will upload them sometime soon.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 85: May 10, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
