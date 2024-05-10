@@ -1605,7 +1605,7 @@
 </details>
 
 <details>
-  <summary>Day 82: May 7, 2024</summary>
+  <summary>Day 83: May 7, 2024</summary>
 
   ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 75 → 80)
@@ -1625,7 +1625,7 @@
 </details>
 
 <details>
-  <summary>Day 83: May 8, 2024</summary>
+  <summary>Day 84: May 8, 2024</summary>
 
   ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 80 → 82)
@@ -1644,7 +1644,7 @@
 </details>
 
 <details>
-  <summary>Day 84: May 9, 2024</summary>
+  <summary>Day 85: May 9, 2024</summary>
 
   ### Today's Progress:
   * Continued to work on Jonas Schmedtmann's JavaScript course (video 82 → 86), completed section 7 (DOM Fundamentals)
@@ -1663,7 +1663,26 @@
 </details>
 
 <details>
-  <summary>Day 85: May 10, 2024</summary>
+  <summary>Day 86: May 10, 2024</summary>
+
+  ### Today's Progress:
+  * Completed reading and taking notes on Book 3 Chapter 10 (Manipulating Documents with the DOM) from Coding for Dummies.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about how the DOM works, the different methods and objects used for working with it, and the different examples that made it easier to understand.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 87: May 13, 2024</summary>
 
   ### Today's Progress:
   *
