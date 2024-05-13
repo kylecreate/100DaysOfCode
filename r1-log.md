@@ -1685,6 +1685,26 @@
   <summary>Day 87: May 13, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 87 → 90), starting on how JavaScript works from Behind the Scenes.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  1. The High-level overview of what JavaScript is and how it works
+  2. The JavaScript Engine and Runtime
+
+  ### Thoughts:
+  * This section will have a lot of notes, I can sense it. Looking forward to learning more about JavaScript from an indepth point of view.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 88: May 14, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
