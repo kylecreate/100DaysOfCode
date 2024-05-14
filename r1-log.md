@@ -1705,6 +1705,25 @@
   <summary>Day 88: May 14, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 91)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learning more about Execution Context and Call Stacks
+
+  ### Thoughts:
+  * I'm going to back to the first video of this section to hand write my notes since it would be much easier instead of trying to write it out by typing everything. I'm unable to do this until I get a bluetooth stylus for my laptop which comes soon-ish, hopefully...
+
+  ### Time spent working
+  * 0.5 hrs
+</details>
+
+<details>
+  <summary>Day 89: May 15, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
