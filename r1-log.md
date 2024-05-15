@@ -1724,6 +1724,25 @@
   <summary>Day 89: May 15, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 101 → 104)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the basics of Destructuring Arrays and the different ways that are possible to do so.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1 hr
+</details>
+
+<details>
+  <summary>Day 90: May 16, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
