@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"1bc8adcb7b7e5fec","type":"text","text":" HTML Document","x":-160,"y":-140,"width":185,"height":50},
+		{"id":"b1beddf1d7977e00","type":"text","text":"Element\n`<html>`","x":-130,"y":-20,"width":125,"height":60,"color":"6"},
+		{"id":"f40cdb9579d1f368","type":"text","text":"Element\n`<body>`","x":120,"y":60,"width":130,"height":60,"color":"5"},
+		{"id":"50042e111cb928ed","type":"text","text":"Element\n`<head>`","x":-380,"y":60,"width":125,"height":60,"color":"5"},
+		{"id":"a51ee64bbabdd991","type":"text","text":"Element\n`<title>`","x":-387,"y":180,"width":140,"height":60,"color":"4"},
+		{"id":"b587407373fe86fb","type":"text","text":"Element\n`<section>`","x":-43,"y":180,"width":163,"height":60,"color":"4"},
+		{"id":"4ef0b8deb0442a0f","type":"text","text":"Element\n`<section>`","x":250,"y":180,"width":158,"height":60,"color":"4"},
+		{"id":"c3e088a476054ea2","type":"text","text":"Element\n`<p>`","x":-130,"y":300,"width":126,"height":60,"color":"3"},
+		{"id":"6dba74f3b4bca6b1","type":"text","text":"Element\n`<p>`","x":80,"y":300,"width":126,"height":60,"color":"3"},
+		{"id":"b11ff3437cf01c8a","x":264,"y":300,"width":130,"height":60,"color":"3","type":"text","text":"Element\n`<img>`"},
+		{"id":"a621409c8185f6fc","x":-236,"y":427,"width":148,"height":60,"color":"1","type":"text","text":"Element\n`<a>`"},
+		{"id":"4d1d18fea48ff95a","x":-54,"y":427,"width":185,"height":60,"color":"3","type":"text","text":"Element\n\"A paragraph ...\""},
+		{"id":"8674b943a8fcc0e4","x":185,"y":427,"width":249,"height":60,"color":"3","type":"text","text":"Text\n\"A second paragraph...\""},
+		{"id":"6934c827dd197991","x":-236,"y":536,"width":148,"height":60,"color":"1","type":"text","text":"Text\n\"Link\""},
+		{"id":"9567f104bc5b0a36","type":"text","text":"Text\n\"A simple page\"","x":-398,"y":300,"width":162,"height":60,"color":"4"},
+		{"id":"b6126f6ec28b0c14","x":80,"y":-525,"width":640,"height":465,"type":"text","text":"```HTML file:example-code-for-tree fold\n<html>\n\t<head>\n\t\t<title>A Simple Page</title>\n\t</head>\n\n\t<body>\n\t\t<section>\n\t\t\t<p>A paragraph with a <a>Link</a></p>\n\t\t\t<p>A second paragraph</p>\n\t\t</section>\n\n\t\t<section>\n\t\t\t<img src=\"dom.png\" alt=\"The DOM\" />\n\t\t<section>\n\t</body>\n\t\n</html>\n```"}
+	],
+	"edges":[
+		{"id":"1c5e8b337f65e675","fromNode":"1bc8adcb7b7e5fec","fromSide":"bottom","toNode":"b1beddf1d7977e00","toSide":"top"},
+		{"id":"aa488d1e06ab7431","fromNode":"b1beddf1d7977e00","fromSide":"left","toNode":"50042e111cb928ed","toSide":"right"},
+		{"id":"4cbfa434bbd60605","fromNode":"b1beddf1d7977e00","fromSide":"right","toNode":"f40cdb9579d1f368","toSide":"left"},
+		{"id":"8128cecf95d9ef21","fromNode":"50042e111cb928ed","fromSide":"bottom","toNode":"a51ee64bbabdd991","toSide":"top"},
+		{"id":"71e296816e68235f","fromNode":"a51ee64bbabdd991","fromSide":"bottom","toNode":"9567f104bc5b0a36","toSide":"top"},
+		{"id":"68c6e62cc48f338a","fromNode":"f40cdb9579d1f368","fromSide":"bottom","toNode":"b587407373fe86fb","toSide":"top"},
+		{"id":"0d2ced19bd48111e","fromNode":"f40cdb9579d1f368","fromSide":"bottom","toNode":"4ef0b8deb0442a0f","toSide":"top"},
+		{"id":"81dc0fcec0ce2e7e","fromNode":"b587407373fe86fb","fromSide":"bottom","toNode":"c3e088a476054ea2","toSide":"top"},
+		{"id":"1d18b93ad2f7ceb0","fromNode":"b587407373fe86fb","fromSide":"bottom","toNode":"6dba74f3b4bca6b1","toSide":"top"},
+		{"id":"02665a1292d5d060","fromNode":"4ef0b8deb0442a0f","fromSide":"bottom","toNode":"b11ff3437cf01c8a","toSide":"top"},
+		{"id":"eb1b7515eec5148e","fromNode":"c3e088a476054ea2","fromSide":"bottom","toNode":"a621409c8185f6fc","toSide":"top"},
+		{"id":"33ff893668cabfa9","fromNode":"c3e088a476054ea2","fromSide":"bottom","toNode":"4d1d18fea48ff95a","toSide":"top"},
+		{"id":"8a4b2b326bb1c9b2","fromNode":"6dba74f3b4bca6b1","fromSide":"bottom","toNode":"8674b943a8fcc0e4","toSide":"top"},
+		{"id":"f221b39bb17caaaa","fromNode":"a621409c8185f6fc","fromSide":"bottom","toNode":"6934c827dd197991","toSide":"top"}
+	]
+}

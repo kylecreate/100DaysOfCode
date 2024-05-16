@@ -1743,6 +1743,25 @@
   <summary>Day 90: May 16, 2024</summary>
 
   ### Today's Progress:
+  * Took the day to work on my notes to upload to my Repo should anyone want to use them or just look at them.
+
+  ### Link to work:
+  * None...yet
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * You don't realize how many notes you take until you gather them all in one place...
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 91: May 17, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:

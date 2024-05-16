@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"d95dd61387faa6f4","type":"text","text":"User rolls dice","x":-125,"y":-30,"width":165,"height":60,"color":"3"},
+		{"id":"9974ec2160041e1f","type":"text","text":"Generate random dice roll","x":100,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"1e993c99e6ae0236","type":"text","text":"Display dice roll","x":400,"y":-30,"width":220,"height":60,"color":"4"},
+		{"id":"40d3047dfb075af2","type":"text","text":"Is the dice roll a 1?","x":860,"y":-29,"width":200,"height":60,"color":"5"},
+		{"id":"03946b260a43e5d5","type":"text","text":"NO","x":1040,"y":-119,"width":106,"height":50,"color":"1"},
+		{"id":"09aad51cc7114bfb","type":"text","text":"Add dice roll to current score","x":1120,"y":-29,"width":250,"height":60,"color":"4"},
+		{"id":"e1ad4bcb10c376d4","type":"text","text":"Display new score","x":1440,"y":-29,"width":250,"height":60,"color":"4"},
+		{"id":"588e81a03bc806f3","type":"text","text":"User resets game","x":-125,"y":360,"width":165,"height":60,"color":"3"},
+		{"id":"c87b5150f576e45e","type":"text","text":"Set all scores to 0","x":100,"y":360,"width":250,"height":60,"color":"4"},
+		{"id":"aa5e2fa0f9e27d07","type":"text","text":"Set player 1 as starting player","x":408,"y":360,"width":212,"height":60,"color":"4"},
+		{"id":"11ac1972e0e738a5","type":"text","text":"[^ Yes?]\nSwitch Player","x":860,"y":120,"width":200,"height":60,"color":"4"},
+		{"id":"fca5fb8fdcaa8a08","type":"text","text":"Score >= 100?","x":408,"y":120,"width":212,"height":60,"color":"5"},
+		{"id":"c424ccdea82f8c8e","type":"text","text":"Yes?\nCurrent Player Wins!","x":408,"y":224,"width":212,"height":60,"color":"1"},
+		{"id":"6705281139b6459e","type":"text","text":"No?","x":680,"y":120,"width":101,"height":60,"color":"1"},
+		{"id":"7a7274d7e008608c","type":"text","text":"User holds score","x":-125,"y":120,"width":165,"height":60,"color":"3"},
+		{"id":"f414cd0d4d59c9ee","type":"text","text":"Add current score to total score","x":100,"y":120,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"7622d5392f746ef4","fromNode":"d95dd61387faa6f4","fromSide":"right","toNode":"9974ec2160041e1f","toSide":"left"},
+		{"id":"8cadcf6c2046cbbd","fromNode":"9974ec2160041e1f","fromSide":"right","toNode":"1e993c99e6ae0236","toSide":"left"},
+		{"id":"3d928375fccea370","fromNode":"1e993c99e6ae0236","fromSide":"right","toNode":"40d3047dfb075af2","toSide":"left"},
+		{"id":"29d9f22a14304f50","fromNode":"09aad51cc7114bfb","fromSide":"right","toNode":"e1ad4bcb10c376d4","toSide":"left"},
+		{"id":"adc0fa7a70684f6d","fromNode":"40d3047dfb075af2","fromSide":"top","toNode":"03946b260a43e5d5","toSide":"left"},
+		{"id":"0342ea69740e8ae6","fromNode":"03946b260a43e5d5","fromSide":"right","toNode":"09aad51cc7114bfb","toSide":"top"},
+		{"id":"7f727dfb1037cc55","fromNode":"7a7274d7e008608c","fromSide":"right","toNode":"f414cd0d4d59c9ee","toSide":"left"},
+		{"id":"7a20794e37f2aed5","fromNode":"f414cd0d4d59c9ee","fromSide":"right","toNode":"fca5fb8fdcaa8a08","toSide":"left"},
+		{"id":"1882bb392f0f7e6a","fromNode":"fca5fb8fdcaa8a08","fromSide":"bottom","toNode":"c424ccdea82f8c8e","toSide":"top"},
+		{"id":"9ca160c5c7c0e65a","fromNode":"40d3047dfb075af2","fromSide":"bottom","toNode":"11ac1972e0e738a5","toSide":"top"},
+		{"id":"8e7690f7bd7d1477","fromNode":"fca5fb8fdcaa8a08","fromSide":"right","toNode":"6705281139b6459e","toSide":"left"},
+		{"id":"24cb89e276e827d5","fromNode":"6705281139b6459e","fromSide":"right","toNode":"11ac1972e0e738a5","toSide":"left"},
+		{"id":"79edaadaf458561d","fromNode":"588e81a03bc806f3","fromSide":"right","toNode":"c87b5150f576e45e","toSide":"left"},
+		{"id":"825d658fa3e402fb","fromNode":"c87b5150f576e45e","fromSide":"right","toNode":"aa5e2fa0f9e27d07","toSide":"left"}
+	]
+}

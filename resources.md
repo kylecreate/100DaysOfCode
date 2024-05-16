@@ -54,7 +54,7 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 
 ### JavaScript
 * [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) - <i>uDemy</i>
-* [JavaScript for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg) - <i>YouTube</i>
+* [JavaScript for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=Zi-Q0t4gMC8) - <i>YouTube</i>
 * [30 JavaScript projects in 30 Days](https://javascript30.com/) - By Wes Bos
 #### Completed Projects
 * <i>Future Project Here</i>
