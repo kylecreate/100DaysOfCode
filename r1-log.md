@@ -1762,6 +1762,25 @@
   <summary>Day 91: May 17, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on and take notes of Jonas Schmedtmann's JavaScript course (video 89 → 92)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about Scope and the Scope Chain
+
+  ### Thoughts:
+  * At first, I was using my stylus to take notes. Then, I realized with Obsidian that I can use Excildraw to just copy what I see in the slides to my notes. That's what I'm planning on doing now!
+
+  ### Time spent working
+  * 2.2 hrs
+</details>
+
+<details>
+  <summary>Day 92: May 20, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
