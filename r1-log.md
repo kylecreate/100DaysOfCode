@@ -1781,6 +1781,25 @@
   <summary>Day 92: May 20, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on and take notes of Jonas Schmedtmann's JavaScript course (video 93 → 97)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about Hoisting, The TDZ, and the 'this' keyword.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 93: May 21, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
