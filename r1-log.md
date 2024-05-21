@@ -1800,7 +1800,7 @@
   <summary>Day 93: May 21, 2024</summary>
 
   ### Today's Progress:
-  * Continued to work on and take notes of Jonas Schmedtmann's JavaScript course (video 98 → 100) completing section 8 of how JavaScript works behind the scenes.
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 98 → 100) completing section 8 of how JavaScript works behind the scenes.
 
   ### Link to work:
   * None
