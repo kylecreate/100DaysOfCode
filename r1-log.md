@@ -1800,6 +1800,25 @@
   <summary>Day 93: May 21, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on and take notes of Jonas Schmedtmann's JavaScript course (video 98 → 100) completing section 8 of how JavaScript works behind the scenes.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about how Regular Functions and Arrow Functions work differently and the difference of how Primitive and Object Types work.
+
+  ### Thoughts:
+  * Some of this felt super advanced for me and I'm glad I took visual and written notes. I plan on going back and fixing up my notes a bit to have better colors and just look better overall.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 94: May 22, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
