@@ -1819,6 +1819,25 @@
   <summary>Day 94: May 22, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 101 → 105) starting on Data Structures, Modern Operators, and Strings section.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about how to destructure arrays and objects using the ES6(ES2015) way.
+
+  ### Thoughts:
+  * This can be very useful for sure.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 95: May 23, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
