@@ -1838,6 +1838,25 @@
   <summary>Day 95: May 23, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 105 → 107).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the Spread Operator and Rest Patterns/Parameters.
+
+  ### Thoughts:
+  * This was super advanced, so I did my best to take notes and find some real life examples online.
+
+  ### Time spent working
+  * 1.42 hrs
+</details>
+
+<details>
+  <summary>Day 96: May 24, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
