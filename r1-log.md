@@ -1857,6 +1857,25 @@
   <summary>Day 96: May 24, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 108 → 112).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about short circuting with &&, ||, and ??, Logical Assignment Operators, and the for..of loop.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2.1 hrs
+</details>
+
+<details>
+  <summary>Day 97: May 28, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
