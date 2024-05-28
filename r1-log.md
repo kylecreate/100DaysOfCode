@@ -1876,6 +1876,25 @@
   <summary>Day 97: May 28, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 113 → 114).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about Enhanced Object Literals and Optional Chaining.
+
+  ### Thoughts:
+  * I can totally see how these 2 different features can make things shorter to write instead of the examples I saw of writing everything out that's needed.
+
+  ### Time spent working
+  * 1.1 hr
+</details>
+
+<details>
+  <summary>Day 98: May 29, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
