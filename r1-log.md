@@ -1895,6 +1895,25 @@
   <summary>Day 98: May 29, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 115 → 117).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about how to loop through objects using their methods and how to create sets from the ES6 (ES2015) update.
+
+  ### Thoughts:
+  * Now that I'm learning about the advanced and newer things from JavaScript, I understand how these can be very useful in different situations.
+
+  ### Time spent working
+  * 1.3 hrs
+</details>
+
+<details>
+  <summary>Day 99: May 30, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
