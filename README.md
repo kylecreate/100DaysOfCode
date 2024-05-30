@@ -6,10 +6,10 @@ This challenge for 100 days is to make a habit of coding to develop my skill set
 
 I started during late-2023, but found that my path wasn't very successful. So, I'm going to restart my progress and hopefully gain better knowldge.
 
-|Round |  Start Date | End Date |
-| ------------ | ------------ | ------------ |
-| 1 | Jan 2, 2024 | --------|
-| 2 | --------| --------|
+|Round |  Start Date | End Date | Total Hours |
+| ------------ | ------------ | ------------ | ------------ |
+| 1 | Jan 2, 2024 | --------| x |
+| 2 | --------| --------|  |
 
 [Daily Log R1](https://github.com/kylecreate/100DaysOfCode/blob/main/r1-log.md) | [Personal Resources](https://github.com/kylecreate/100DaysOfCode/blob/main/resources.md)
 

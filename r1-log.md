@@ -1914,6 +1914,25 @@
   <summary>Day 99: May 30, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 118 → 121).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about Maps (fundamentals and iteration) and which one to choose when working with either of them.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 100: May 31, 2024 🎉</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
