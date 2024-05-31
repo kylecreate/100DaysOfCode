@@ -8,7 +8,7 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 
 |Round |  Start Date | End Date | Total Hours |
 | ------------ | ------------ | ------------ | ------------ |
-| 1 | Jan 2, 2024 | --------| x |
+| 1 | Jan 2, 2024 | May 31, 2024| 151.97 hrs |
 | 2 | --------| --------|  |
 
 [Daily Log R1](https://github.com/kylecreate/100DaysOfCode/blob/main/r1-log.md) | [Personal Resources](https://github.com/kylecreate/100DaysOfCode/blob/main/resources.md)

@@ -1933,17 +1933,17 @@
   <summary>Day 100: May 31, 2024 🎉</summary>
 
   ### Today's Progress:
-  *
+  * Continued to work on Jonas Schmedtmann's JavaScript course (video 122 → 126).
 
   ### Link to work:
-  *
+  * None
 
   ### New thing(s) learned:
-  *
+  * I learned more about working with strings in an advanced way and some real life examples.
 
   ### Thoughts:
-  *
+  * 100 days down! Many more to go. Time for a break and to re-arrange my learning/projects.
 
   ### Time spent working
-  *
+  * 1.75 hrs
 </details>
