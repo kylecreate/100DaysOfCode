@@ -4,24 +4,29 @@
 
 This challenge for 100 days is to make a habit of coding to develop my skill sets to become a Frontend Developer. I was inspired by others completing the #100DaysOfCode challenge on Twitter and Discord. More details about this challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").
 
-I started during late-2023, but found that my path wasn't very successful. So, I'm going to restart my progress and hopefully gain better knowldge.
+I started in late-2023, but found that my path wasn't very successful. So, I restarted my progress from the beginning to hopefully gain better knowledge.
 
 |Round |  Start Date | End Date | Total Hours |
 | ------------ | ------------ | ------------ | ------------ |
 | 1 | Jan 2, 2024 | May 31, 2024| 151.97 hrs |
-| 2 | --------| --------|  |
+| 2 | Jun 10, 2024 | -------- | -------- |
 
-[Daily Log R1](https://github.com/kylecreate/100DaysOfCode/blob/main/r1-log.md) | [Personal Resources](https://github.com/kylecreate/100DaysOfCode/blob/main/resources.md)
+[Daily Log R1](https://github.com/kylecreate/100DaysOfCode/blob/main/r1-log.md) | [Daily Log R2](https://github.com/kylecreate/100DaysOfCode/blob/main/r2-log.md) | [Personal Resources](https://github.com/kylecreate/100DaysOfCode/blob/main/resources.md)
 
 ## Goals
 - Make it a habit of coding during the week and learning something new
-- ~~Revisit HTML and CSS for deeper knowledge~~
-- Learn more and in-depth about JavaScript, VueJS, Figma, and Tailwind CSS
+- Learn more and in-depth about JavaScript, Figma, ReactJS, and Tailwind CSS
 - Create real world projects to use in my portfolio
-- Gain enough knowledge and create projects to get a job
-- ~~Complete the [FCC Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification~~
 - Complete the [FCC JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) certification
 - Complete reading of [Coding All-In-One for Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/coding/coding-all-in-one-for-dummies-281666/)
+
+<details>
+    <summary>Completed Goals</summary>
+    <ul>
+        <li>Revisit HTML and CSS for deeper knowledge</li>
+        <li>Complete the <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">FCC Responsive Web Design</a> certification</li>
+    </ul>
+</details>
 
 ## Completed Projects
 
@@ -37,11 +42,11 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | 8 | [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio) | 1/22/24 | HTML/CSS |
 | 9 | [Card Mini-Project](https://github.com/kylecreate/CardMiniProject) | 1/31/24 | HTML/CSS |
 | 10 | [Little Taco Shop - 2](https://github.com/kylecreate/LTS2) | 2/5/24 | HTML/CSS/JS |
-| 11 | [FEM - QR Code Card](https://github.com/kylecreate/QRCode)| 3/11/24 | HTML/CSS |
-| 12 | [FEM - Blog Preview Card](https://github.com/kylecreate/BlogPreview) | 3/11/24 | HTML/CSS |
-| 13 | [FEM - Social Links Profile](https://github.com/kylecreate/SocialLinks) | 3/13/24 | HTML/CSS |
-| 14 | [FEM - Recipe Page](https://github.com/kylecreate/RecipePage) | 3/21/24  | HTML/CSS |
-| 15 | [FEM - Product Preview](https://github.com/kylecreate/ProductPreview) | 3/22/24 | HTML/CSS |
-| 16 | [FEM - Four Card Feature](https://github.com/kylecreate/FourCardFeature) | 3/25/24 | HTML/CSS |
-| 17 | [FEM - Testiomonials Grid Section](https://github.com/kylecreate/TestimonialsGrid) | 3/27/24 | HTML/CSS |
+| 11 | [Frontend Mentor - QR Code Card](https://github.com/kylecreate/QRCode)| 3/11/24 | HTML/CSS |
+| 12 | [Frontend Mentor - Blog Preview Card](https://github.com/kylecreate/BlogPreview) | 3/11/24 | HTML/CSS |
+| 13 | [Frontend Mentor - Social Links Profile](https://github.com/kylecreate/SocialLinks) | 3/13/24 | HTML/CSS |
+| 14 | [Frontend Mentor - Recipe Page](https://github.com/kylecreate/RecipePage) | 3/21/24  | HTML/CSS |
+| 15 | [Frontend Mentor - Product Preview](https://github.com/kylecreate/ProductPreview) | 3/22/24 | HTML/CSS |
+| 16 | [Frontend Mentor - Four Card Feature](https://github.com/kylecreate/FourCardFeature) | 3/25/24 | HTML/CSS |
+| 17 | [Frontend Mentor - Testiomonials Grid Section](https://github.com/kylecreate/TestimonialsGrid) | 3/27/24 | HTML/CSS |
 | 18 | | | |

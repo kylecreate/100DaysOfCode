@@ -1,4 +1,4 @@
-# Daily Log
+# Daily Log Round 1
 
 <details>
   <summary>Day 1: Jan 2, 2024</summary>

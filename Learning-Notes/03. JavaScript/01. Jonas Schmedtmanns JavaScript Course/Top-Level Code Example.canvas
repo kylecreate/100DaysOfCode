@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3575019d9b4979db","x":-340,"y":-220,"width":660,"height":380,"type":"text","text":"```JS file:top-level-code-example\nconst name = 'Jonas'; // TOP LEVEL CODE\n\nconst first = () => { // DECLARED AND CALLED LATER\n\tlet a = 1; // INSIDE WILL BE CALLED WHEN FUNCTION CALLED\n\tconst b = second();\n\ta = a + b;\n\treturn a;\n};\n\nfunction second() { // DECLARED AND CALLED LATER\n\tvar c = 2; // INSIDE WILL BE CALLED WHEN FUNCTION CALLED\n\treturn c;\n}\n```"},
+		{"id":"2c8e774efc4189c9","x":-135,"y":-340,"width":250,"height":60,"color":"4","type":"text","text":"Human Readable Code"}
+	],
+	"edges":[
+		{"id":"2a817d51f406bb93","fromNode":"2c8e774efc4189c9","fromSide":"bottom","toNode":"3575019d9b4979db","toSide":"top"}
+	]
+}

@@ -1,22 +1,22 @@
-# Learning Resources and Path
+# Learning Path and Resources
 
 ## My Personal Learning Path
 
-I created this learning path using [roadmap.sh](https://roadmap.sh/) and took some suggestions from Google/Reddit/YouTube. Using Obsidian's Canvas Map, it made the path look more viable to me and achievable.
+I created my learning path using [roadmap.sh](https://roadmap.sh/) and took suggestions from Google/Reddit/YouTube. Using Figma, I made my path look more viable achievable to me.
 
 <details>
     <summary>My learning path</summary>
         <img src="https://github.com/kylecreate/100DaysOfCode/blob/main/imgs/LearningPath.png" alt="Personal Learning roadmap" title="Personal Learning roadmap">
-        <p style="font-size: 12">Path last updated: 4/8/24</p>
+        <p style="font-size: 12">Path last updated: 6/3/24</p>
 </details>
 
 ## Programs Using
 * [VSCodium](https://vscodium.com/)
-* [Pomatez](https://github.com/zidoro/pomatez) - Pomodoro timer to help me focus, take breaks, and prevent mental burnout. (FOSS)
-    * <i>I'm doing 35 minutes of work time / 6 minute short breaks / 20 minute long breaks</i>
-* [Obsidian](https://obsidian.md/) | [Notion](https://www.notion.so/) - Keeping track of notes and progress
-* [Google Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Web Browsers
-* [Frontend Roadmap](https://roadmap.sh/frontend) | [JavaScript Roadmap](https://roadmap.sh/javascript) | [ReactJS Roadmap](https://roadmap.sh/react) | [VueJS Roadmap](https://roadmap.sh/vue)
+* [Pomatez (FOSS)](https://github.com/zidoro/pomatez) - Pomodoro timer to help me focus, take breaks, and prevent mental burnout.
+    * <i>I'm doing 35 minutes of work / 6 minute short breaks / 20 minute long breaks</i>
+* [Obsidian](https://obsidian.md/)
+* [Google Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+* [Frontend Roadmap](https://roadmap.sh/frontend) | [JavaScript Roadmap](https://roadmap.sh/javascript) | [ReactJS Roadmap](https://roadmap.sh/react)
 
 ## Learning Resources
 
@@ -44,29 +44,28 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and took so
 * [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio)
 * [Cards Mini-Project](https://github.com/kylecreate/CardMiniProject)
 * [Little Taco Shop - 2](https://github.com/kylecreate/LTS2)
-* [FEM - QR Code Card](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
-* [FEM - Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
-* [FEM - Social Links Profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
-* [FEM - Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
-* [FEM - Product Preview](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
-* [FEM - Four Card Feature](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
-* [FEM - Testiomonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub)
+* [FrontEnd Mentor - QR Code Card](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
+* [FrontEnd Mentor - Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+* [FrontEnd Mentor - Social Links Profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
+* [FrontEnd Mentor - Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
+* [FrontEnd Mentor - Product Preview](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
+* [FrontEnd Mentor - Four Card Feature](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
+* [FrontEnd Mentor - Testiomonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub)
 
 ### JavaScript
 * [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) - <i>uDemy</i>
 * [JavaScript for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=Zi-Q0t4gMC8) - <i>YouTube</i>
-* [30 JavaScript projects in 30 Days](https://javascript30.com/) - By Wes Bos
-#### Completed Projects
-* <i>Future Project Here</i>
-
-### VueJS
-* [VueMastery - VueJS 3 for Beginners (Learning Path)](https://www.vuemastery.com/learning-path/beginner)
-* [VueMastery Beginner Videos](https://www.youtube.com/@VueMastery/search?query=beginner) - <i>YouTube</i>
+* [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 #### Completed Projects
 * <i>Future Project Here</i>
 
 ### Figma
 * [Figma Crash Course for Beginners](https://www.youtube.com/watch?v=o1nCmiW6auE)
+#### Completed Projects
+* <i>Future Project Here</i>
+
+### ReactJS
+* [ReactJS for Beginners with Bro Code](https://www.youtube.com/watch?v=CgkZ7MvWUAA) - <i>YouTube</i>
 #### Completed Projects
 * <i>Future Project Here</i>
 
