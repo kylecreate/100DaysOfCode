@@ -41,7 +41,26 @@
 </details>
 
 <details>
-  <summary>Day 103: Jun 12, 2024</summary>
+  <summary>Day 103: Jun 14, 2024</summary>
+
+  ### Today's Progress:
+  * Started working on building a Role Playing Game while learning basic JavaScript (steps 1 → 69).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm slowly getting the hang of this
+
+  ### Time spent working
+  * 1.16 hrs
+</details>
+
+<details>
+  <summary>Day 104: Jun 17, 2024</summary>
 
   ### Today's Progress:
   *
