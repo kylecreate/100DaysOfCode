@@ -82,19 +82,20 @@
   <summary>Day 105: Jun 18, 2024</summary>
 
   ### Today's Progress:
-  *
+  * Started and completed the basic debugging challenge for a background color changer using JavaScript on freeCodeCamp.
+  * Started working on the Calorie Counter app by learning about form validation for JavaScript on freeCodeCamp
 
   ### Link to work:
-  *
+  * None
 
   ### New thing(s) learned:
-  *
+  * I've never heard of regex, I'm going to have to take some time and learn about that.
 
   ### Thoughts:
-  *
+  * None
 
   ### Time spent working
-  *
+  * 0.75 hrs
 </details>
 
 <details>
