@@ -4,7 +4,7 @@
   <summary>Day 101: Jun 10, 2024</summary>
 
   ### Today's Progress:
-  * Started and completed on learning Introductory JS by building a Prymaind Generator on freeCodeCamp.
+  * Started and completed on learning Introductory JavaScript by building a Prymaind Generator on freeCodeCamp.
 
   ### Link to work:
   * None
@@ -25,7 +25,7 @@
   <summary>Day 102: Jun 11, 2024</summary>
 
   ### Today's Progress:
-  * Started and completed building a gradebook app using JavaScript on freeCodeCamp.
+  * Started and completed building a Gradebook App using JavaScript on freeCodeCamp.
 
   ### Link to work:
   * None
@@ -44,7 +44,7 @@
   <summary>Day 103: Jun 14, 2024</summary>
 
   ### Today's Progress:
-  * Started working on building a Role Playing Game while learning basic JavaScript (steps 1 → 69) on freeCodeCamp.
+  * Started working on building a Role Playing Game while learning Basic JavaScript (steps 1 → 69) on freeCodeCamp.
 
   ### Link to work:
   * None
@@ -63,7 +63,7 @@
   <summary>Day 104: Jun 17, 2024</summary>
 
   ### Today's Progress:
-  * Continued working on and completed building a Role Playing Game while learning basic JavaScript (steps 69 → 172) on freeCodeCamp.
+  * Continued working on and completed building a Role Playing Game while learning Basic JavaScript (steps 69 → 172) on freeCodeCamp.
 
   ### Link to work:
   * None
@@ -83,7 +83,7 @@
 
   ### Today's Progress:
   * Started and completed the basic debugging challenge for a background color changer using JavaScript on freeCodeCamp.
-  * Started working on the Calorie Counter app by learning about form validation for JavaScript on freeCodeCamp
+  * Started working on the Calorie Counter app by learning about Form Validation for JavaScript (steps 1 → 24) on freeCodeCamp
 
   ### Link to work:
   * None
@@ -100,6 +100,25 @@
 
 <details>
   <summary>Day 106: Jun 20, 2024</summary>
+
+  ### Today's Progress:
+  * Completed building the Calorie Counter app by learning about Form Validation for JavaScript on freeCodeCamp
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about Form Validation and how page doesn't change to something else when clicking on the "submit" or "clear form" button.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.8 hrs
+</details>
+
+<details>
+  <summary>Day 107: Jun 21, 2024</summary>
 
   ### Today's Progress:
   *
