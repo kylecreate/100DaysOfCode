@@ -121,6 +121,25 @@
   <summary>Day 107: Jun 21, 2024</summary>
 
   ### Today's Progress:
+  * Completed reviewing DOM manipulation by building a Rock, Paper, Scissors Game on freeCodeCamp
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 0.75 hrs
+</details>
+
+<details>
+  <summary>Day 108: Jun 24, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
