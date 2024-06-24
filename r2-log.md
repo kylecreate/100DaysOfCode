@@ -140,6 +140,25 @@
   <summary>Day 108: Jun 24, 2024</summary>
 
   ### Today's Progress:
+  * Moved to working on the Legacy JavaScript course after doing a bit of research. Completed steps 1 → 69 on learning Basic JavaScript on freeCodeCamp.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.16 hrs
+</details>
+
+<details>
+  <summary>Day 109: Jun 25, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
