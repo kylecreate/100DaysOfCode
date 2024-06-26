@@ -178,6 +178,25 @@
   <summary>Day 110: Jun 26, 2024</summary>
 
   ### Today's Progress:
+  * Continued and completed working on learning Basic JavaScript (Legacy Version) from freeCodeCamp (steps 82 → 113).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.16 hrs
+</details>
+
+<details>
+  <summary>Day 111: Jun 28, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
