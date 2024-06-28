@@ -197,6 +197,25 @@
   <summary>Day 111: Jun 28, 2024</summary>
 
   ### Today's Progress:
+  * Started and completed working on learning about ES6 (ES2015) from freeCodeCamp.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * This took a bit of time for sure, now I'll debate on what I want to do next.
+
+  ### Time spent working
+  * 1.16 hrs
+</details>
+
+<details>
+  <summary>Day 112: Jul 1, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
