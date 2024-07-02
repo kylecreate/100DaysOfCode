@@ -235,6 +235,26 @@
   <summary>Day 113: Jul 2, 2024</summary>
 
   ### Today's Progress:
+  * Started and completed learning about Basic Data Structures in Legacy JavaScript on freeCodeCamp
+  * Started working on Basic Algorithm Scripting in Legacy JavaScript on freeCodeCamp (steps 1 → 3)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned the basics about data structures in JavaScript.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.16 hrs
+</details>
+
+<details>
+  <summary>Day 114: Jul 3, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:

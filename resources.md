@@ -14,7 +14,7 @@ I created my learning path using [roadmap.sh](https://roadmap.sh/) and took sugg
 * [VSCodium](https://vscodium.com/)
 * [Pomatez (FOSS)](https://github.com/zidoro/pomatez) - Pomodoro timer to help me focus, take breaks, and prevent mental burnout.
     * <i>I'm doing 35 minutes of work / 6 minute short breaks / 20 minute long breaks</i>
-* [Obsidian](https://obsidian.md/)
+* [AnyType](https://anytype.io/) - *Similiar to Obsidian/Notion*
 * [Google Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [Frontend Roadmap](https://roadmap.sh/frontend) | [JavaScript Roadmap](https://roadmap.sh/javascript) | [ReactJS Roadmap](https://roadmap.sh/react)
 
@@ -54,8 +54,8 @@ I created my learning path using [roadmap.sh](https://roadmap.sh/) and took sugg
 
 ### JavaScript
 * [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) - <i>uDemy</i>
-* [JavaScript for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=Zi-Q0t4gMC8) - <i>YouTube</i>
 * [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+* [JavaScript for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=Zi-Q0t4gMC8) - <i>YouTube</i>
 #### Completed Projects
 * <i>Future Project Here</i>
 
