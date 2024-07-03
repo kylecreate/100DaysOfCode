@@ -255,6 +255,25 @@
   <summary>Day 114: Jul 3, 2024</summary>
 
   ### Today's Progress:
+  * Started working on the Frontend Mentor project of the Article Preview Component.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Watching a tutorial and following along before I create it on my own to get an understanding of the project. This way, I can make cleaner code and have a better understanding of the project as I do it a few times.
+
+  ### Time spent working
+  * 1.16 hrs
+</details>
+
+<details>
+  <summary>Day 115: Jul 5, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
