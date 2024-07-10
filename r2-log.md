@@ -290,7 +290,26 @@
 </details>
 
 <details>
-  <summary>Day 116: Jul 8, 2024</summary>
+  <summary>Day 116: Jul 10, 2024</summary>
+
+  ### Today's Progress:
+  * Started researching and working on my personal Portfolio
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I took a few days for myself after the holiday which made me realize I was stuck and wasn't sure what to do. After asking for some advice from Kevin Powell's Discord server, it was suggested that I should instead focus on my portfolio. In the past few weeks, I haven't really been challenging myself and cheating while working on Frontend Mentor projects by watching YouTube videos of other people's work. This project, I'm going to do my best to do none of that.
+
+  ### Time spent working
+  *
+</details>
+
+<details>
+  <summary>Day 117: Jul 11, 2024</summary>
 
   ### Today's Progress:
   *
