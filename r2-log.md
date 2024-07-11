@@ -312,6 +312,25 @@
   <summary>Day 117: Jul 11, 2024</summary>
 
   ### Today's Progress:
+  * Gathered, researched and started sketching out my Portfolio in Penpot.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Penpot being similair to Figma, just need to get the hang of things now.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1hr
+</details>
+
+<details>
+  <summary>Day 118: Jul 12, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
