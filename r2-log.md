@@ -324,11 +324,30 @@
   * None
 
   ### Time spent working
-  * 1hr
+  * 1 hr
 </details>
 
 <details>
   <summary>Day 118: Jul 12, 2024</summary>
+
+  ### Today's Progress:
+  * Decided to switch back to Figma and continue working on researching and gathering materials for my plans/moodboard.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * How to scale/crop images in Figma
+
+  ### Thoughts:
+  * Penpot is nice, but using Figma as a desktop application is much easier than relying on a website to load. Wish Penpot had a desktop application.
+
+  ### Time spent working
+  * 1.4 hrs
+</details>
+
+<details>
+  <summary>Day 119: Jul 15, 2024</summary>
 
   ### Today's Progress:
   *
