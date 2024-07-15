@@ -350,6 +350,25 @@
   <summary>Day 119: Jul 15, 2024</summary>
 
   ### Today's Progress:
+  * Completed gather materials and inspiration for my moodboard for my portfolio. The next thing to do is work on Wireframes.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the different screensize options for different interfaces (IE: Mobile phones, Desktop, and Mobile) for Figma.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.4 hrs
+</details>
+
+<details>
+  <summary>Day 120: Jul 16, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
