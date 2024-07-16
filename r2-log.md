@@ -369,6 +369,25 @@
   <summary>Day 120: Jul 16, 2024</summary>
 
   ### Today's Progress:
+  * Started and completed taking notes on a YouTube video by Creative Director Explains called My actual web design process for clients (Freelance and Agency)
+
+  ### Link to work:
+  * [YouTube Video](https://www.youtube.com/watch?v=Jz_wyVdWKm8)
+
+  ### New thing(s) learned:
+  * How the process of creating a website works and the explanation
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 121: Jul 17, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
