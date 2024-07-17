@@ -388,6 +388,25 @@
   <summary>Day 121: Jul 17, 2024</summary>
 
   ### Today's Progress:
+  * Continued working on planning and wireframing my personal portfolio.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I've decided to go with a single page site and then maybe in the future I'll do a multi-page site or keep it a single page. I'll have to see where the wind blows.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 122: Jul 18, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
