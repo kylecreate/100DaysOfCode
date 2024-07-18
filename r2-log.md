@@ -407,6 +407,25 @@
   <summary>Day 122: Jul 18, 2024</summary>
 
   ### Today's Progress:
+  * Started and completed wireframing the desktop version of my portfolio and started wireframing the tablet version of my portfolio.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm enjoying planning out how I want it to look in a responsive way.
+
+  ### Time spent working
+  * 1.4 hrs
+</details>
+
+<details>
+  <summary>Day 123: Jul 19, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
