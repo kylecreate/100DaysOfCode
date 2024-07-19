@@ -426,6 +426,25 @@
   <summary>Day 123: Jul 19, 2024</summary>
 
   ### Today's Progress:
+  * Completed wireframing/sketching out my Tablet/Mobile view of my portfolio. Next week, I'll start properly designing my site in Figma.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Excited to actually start designing my website. Should make it more fun to code when I get started with that!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 124: Jul 22, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
