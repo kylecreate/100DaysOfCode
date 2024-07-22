@@ -445,6 +445,25 @@
   <summary>Day 124: Jul 22, 2024</summary>
 
   ### Today's Progress:
+  * Started and completed working on the design of my Portfolio for Desktop view.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I just need to find some more images to use for certain parts of the site. I'm missing AnyType and a few others.
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 125: Jul 23, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
