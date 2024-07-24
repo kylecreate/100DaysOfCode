@@ -464,6 +464,26 @@
   <summary>Day 125: Jul 23, 2024</summary>
 
   ### Today's Progress:
+  * Completed designing the Tablet and Moble views of my Portfolio in Figma.
+  * Started coding the navigation bar for my portfolio.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm excited to start coding my portfolio and I'm going to have to learn a lot of new things. First off will be the navigation bar.
+
+  ### Time spent working
+  * 1.3 hrs
+</details>
+
+<details>
+  <summary>Day 126: Jul 25, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
