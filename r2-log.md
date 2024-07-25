@@ -484,6 +484,25 @@
   <summary>Day 126: Jul 25, 2024</summary>
 
   ### Today's Progress:
+  * Started to work on the navigation bar of my portfolio.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I need to figure out how to make the navigation bar look more resopnsive and similair to the one I created in Figma.
+
+  ### Time spent working
+  * 1.1 hrs
+</details>
+
+<details>
+  <summary>Day 127: Jul 26, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
