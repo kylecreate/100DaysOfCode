@@ -503,6 +503,25 @@
   <summary>Day 127: Jul 26, 2024</summary>
 
   ### Today's Progress:
+  * Re-started on the navigation bar and started to work on the hero section of my portfolio.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I need to figure out how to make a proper circle image to use for the picture of myself in the hero section.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 128: Jul 29, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
