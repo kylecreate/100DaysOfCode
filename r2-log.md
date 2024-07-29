@@ -522,6 +522,25 @@
   <summary>Day 128: Jul 29, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on the hero section of my portfolio and got started on the about section.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Instead of using Font Awesome, I'm going to use SVGRepo.com to get the icons that I need for certain sections of my portfolio.
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 129: Jul 30, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
