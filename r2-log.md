@@ -541,6 +541,25 @@
   <summary>Day 129: Jul 30, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on my portfolio as a whole.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I somehow messed up my navigation bar and more within the code, so I just decided to restart from scratch...again. This time, I'm going to just code everything out in HTML first and then go into CSS and JS.
+
+  ### Time spent working
+  * 1.1 hrs
+</details>
+
+<details>
+  <summary>Day 130: Jul 31, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
