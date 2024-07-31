@@ -560,6 +560,25 @@
   <summary>Day 130: Jul 31, 2024</summary>
 
   ### Today's Progress:
+  * Re-wrote my entire HTML from scratch and completed all my sections. Added images, links, and accessibility features that were needed.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Excited to get started on the CSS part of my website. I'm going to do my bes to start from a mobile-user POV and then work my way to a desktop-user POV.
+
+  ### Time spent working
+  * 1.3 hrs
+</details>
+
+<details>
+  <summary>Day 131: Aug 1, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
