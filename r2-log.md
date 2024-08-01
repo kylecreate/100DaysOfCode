@@ -579,6 +579,25 @@
   <summary>Day 131: Aug 1, 2024</summary>
 
   ### Today's Progress:
+  * Started working (and hopefully finished) on the CSS sections of my navigation bar, hero section, and about section.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Tomorrow I'm going to take some time to write my about section of myself and then hopefully jump into the projects section once I feel comfortable enough. This is coming along slowly but surely!
+
+  ### Time spent working
+  * 1.83 hrs
+</details>
+
+<details>
+  <summary>Day 132: Aug 2, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
