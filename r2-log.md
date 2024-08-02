@@ -598,6 +598,25 @@
   <summary>Day 132: Aug 2, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on the mobile version of my portoflio using CSS.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * So many lines of CSS...
+
+  ### Time spent working
+  * 2.42 hrs
+</details>
+
+<details>
+  <summary>Day 133: Aug 5, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
