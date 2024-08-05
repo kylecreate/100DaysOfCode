@@ -617,6 +617,25 @@
   <summary>Day 133: Aug 5, 2024</summary>
 
   ### Today's Progress:
+  * Continuned to work on my Personal Portfolio site and completed working on the Tablet and Desktop media queries.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Uploaded my project to GitHub finally and made a Netlify site out of it to test it out for a bit before I go public with it. There's a lot of changes and additions that need to be made.
+
+  ### Time spent working
+  * 2.6 hrs
+</details>
+
+<details>
+  <summary>Day 134: Aug 6, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
