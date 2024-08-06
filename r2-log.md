@@ -636,6 +636,25 @@
   <summary>Day 134: Aug 6, 2024</summary>
 
   ### Today's Progress:
+  * Fixed an issue with the hamburger menu not showing itself on multiple breakpoints. What a small pain to fix...
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * How not to break something and wonder what happened or where I went wrong.
+
+  ### Thoughts:
+  * Taking a break for the day, too angry and annoyed to work on this
+
+  ### Time spent working
+  * 1 hrs
+</details>
+
+<details>
+  <summary>Day 135: Aug 7, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
