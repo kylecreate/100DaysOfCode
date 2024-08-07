@@ -655,6 +655,25 @@
   <summary>Day 135: Aug 7, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on the CSS of my portfolio. It's slowly coming along...
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * This is a pain, but I will get it right...
+
+  ### Time spent working
+  * 2.6 hrs
+</details>
+
+<details>
+  <summary>Day 136: Aug 8, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
