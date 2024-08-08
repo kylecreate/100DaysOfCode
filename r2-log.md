@@ -674,6 +674,25 @@
   <summary>Day 136: Aug 8, 2024</summary>
 
   ### Today's Progress:
+  * Continued to re-write my CSS, worked on my HTML for accessibility, and wrote some JavaScript.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * How to make a hamburger menu and contact form not refresh the page using JavaScript.
+
+  ### Thoughts:
+  * I'm almost done with my website. I just need to make a few changes, add in some projects, and put my social media in a few places. It should be ready to go then!
+
+  ### Time spent working
+  * 3.05 hrs
+</details>
+
+<details>
+  <summary>Day 137: Aug 9, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
