@@ -693,6 +693,27 @@
   <summary>Day 137: Aug 9, 2024</summary>
 
   ### Today's Progress:
+  * Continued to work on my portfolio
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned how Web3Forms.com works for contact forms
+
+  ### Thoughts:
+  * Completed working on the contact form and used Web3Forms to use as a backend should someone send me a message.
+  * Created and added my personal logo to the site.
+  * Updated all text that made the site seem silly into slightly professional text.
+
+  ### Time spent working
+  * 2.1 hrs
+</details>
+
+<details>
+  <summary>Day 138: Aug 12, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
