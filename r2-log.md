@@ -714,6 +714,26 @@
   <summary>Day 138: Aug 12, 2024</summary>
 
   ### Today's Progress:
+  * Completed working on my portfolio. I made a few changes to the site and now I just need to add my projects and purchase a domain to host it on.
+  * Taking the rest of the time to find out what I want to do/learn next.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm not feeling comfrtable with CSS still and JavaScript even after completeing my portfolio. I'm happy with how I've made it and how it looks, but I'm in a fork in the road of learning. Asked for some advice on Kevin Powell's discord again.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 139: Aug 13, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
