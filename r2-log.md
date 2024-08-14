@@ -738,7 +738,7 @@
   * I started working on Scrimba's CSS course on Grids (video 11/17).
 
   ### Link to work:
-  * []
+  * [Learning Path v2](https://github.com/kylecreate/100DaysOfCode/blob/main/imgs/LearningPath-v2.png)
 
   ### New thing(s) learned:
   * Understanding CSS Grid from a beginner stand point.
