@@ -731,7 +731,27 @@
 </details>
 
 <details>
-  <summary>Day 139: Aug 13, 2024</summary>
+  <summary>Day 139: Aug 14, 2024</summary>
+
+  ### Today's Progress:
+  * I took some time yesterday (8/13) to figure out what I wanted to do next. I decided that I would refresh myself with some CSS subjects and projects, re-learn/understand JavaScript, learn ReactJS, learn TailwindCSS, learn Git/GitHub, and job hunting (this will be after I feel comfortable with JavaScript and CSS).
+  * I started working on Scrimba's CSS course on Grids (video 11/17).
+
+  ### Link to work:
+  * []
+
+  ### New thing(s) learned:
+  * Understanding CSS Grid from a beginner stand point.
+
+  ### Thoughts:
+  * Everything is slowly coming back to me now as I watch these videos. They're very helpful. I'm debating if I want to buy PRO for Scrimba or just work on what resources I've collected.
+
+  ### Time spent working
+  * 1.3 hrs
+</details>
+
+<details>
+  <summary>Day 140: Aug 15, 2024</summary>
 
   ### Today's Progress:
   *
