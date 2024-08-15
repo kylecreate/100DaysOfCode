@@ -754,6 +754,25 @@
   <summary>Day 140: Aug 15, 2024</summary>
 
   ### Today's Progress:
+  * I purchased a Scrimba PRO subscription and got started on their Frontend Carrer Path. I've completed the Welcome module and building & deploying your first website module.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Basics of HTML...again
+
+  ### Thoughts:
+  * Why am I doing this? Because with the interactivity of this website and the way they teach students/people, it helps me out to understand as well. I'm just going in order since the certification will be nice even though it won't mean much.
+
+  ### Time spent working
+  * 2.6 hrs
+</details>
+
+<details>
+  <summary>Day 141: Aug 16, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
