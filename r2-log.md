@@ -773,6 +773,25 @@
   <summary>Day 141: Aug 16, 2024</summary>
 
   ### Today's Progress:
+  * I worked on learning about CSS Grid Layouts on Scrimba, YouTube (Kevin Powell), MDN, and CSS Grid Garden
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned how CSS grid systems work.
+
+  ### Thoughts:
+  * I'm going to take some time next week to learn more about Grids with some (hopefully) newly found videos/articles that can explain things.
+
+  ### Time spent working
+  * 2.7 hrs
+</details>
+
+<details>
+  <summary>Day 142: Aug 19, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
