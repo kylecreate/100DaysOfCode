@@ -6,14 +6,14 @@ I created my learning path using [roadmap.sh](https://roadmap.sh/) and took sugg
 
 <details>
     <summary>My learning path</summary>
-        <img src="https://github.com/kylecreate/100DaysOfCode/blob/main/imgs/LearningPath.png" alt="Personal Learning roadmap" title="Personal Learning roadmap">
         <p style="font-size: 12">Path last updated: 6/3/24</p>
+        <img src="https://github.com/kylecreate/100DaysOfCode/blob/main/imgs/LearningPath.png" alt="Personal Learning roadmap" title="Personal Learning roadmap">
 </details>
 
 ## Programs Using
 * [VSCodium](https://vscodium.com/)
 * [Pomatez (FOSS)](https://github.com/zidoro/pomatez) - Pomodoro timer to help me focus, take breaks, and prevent mental burnout.
-    * <i>I'm doing 35 minutes of work / 6 minute short breaks / 20 minute long breaks</i>
+    * <i>I'm doing 40 minutes of work blocks / 6 minute short breaks / 20 minute long breaks</i>
 * [AnyType](https://anytype.io/) - *Similiar to Obsidian/Notion*
 * [Google Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [Frontend Roadmap](https://roadmap.sh/frontend) | [JavaScript Roadmap](https://roadmap.sh/javascript) | [ReactJS Roadmap](https://roadmap.sh/react)
@@ -34,6 +34,14 @@ I created my learning path using [roadmap.sh](https://roadmap.sh/) and took sugg
 ### CSS
 * [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) <i>(Rest of assignments and more)</i>
 * [Dave Gray's Complete CSS Course](https://www.youtube.com/watch?v=n4R2E7O-Ngo) - <i>YouTube</i>
+* [Learning CSS Grid](https://v2.scrimba.com/learn-css-grid-c02k) - <i>Scrimba</i>
+* [Getting Started with Grid WITHOUT being overwheled](https://www.youtube.com/watch?v=8QSqwbSztnA) - <i>Kevin Powell YouTube</i>
+* [Learning CSS Grid the Easy Way](https://www.youtube.com/watch?v=rg7Fvvl3taU) - <i>Kevin Powell YouTube</i>
+* [Learning CSS Flexbox](https://v2.scrimba.com/learn-flexbox-c0k) - <i>Scrimba</i>
+* [Learn Flexbox the Easy Way](https://www.youtube.com/watch?v=u044iM9xsWU) - <i>Kevin Powell YouTube</i>
+* [CSS Selectors Beyond the Basics](https://www.youtube.com/watch?v=a69OMEJXaJo) - <i>Kevin Powell YouTube</i>
+* [The Secret to mastering CSS Layouts](https://www.youtube.com/watch?v=vHuSz4fRM88) - <i>Kevin Powell YouTube</i>
+* [Learning Responsive Web Design](https://v2.scrimba.com/learn-responsive-web-design-c029) - <i>Scrimba</i>
 * [CSS Grid Garden Game](https://cssgridgarden.com/)
 * [CSS Flexbox Froggy Game](https://flexboxfroggy.com/)
 #### Completed Projects
@@ -42,34 +50,24 @@ I created my learning path using [roadmap.sh](https://roadmap.sh/) and took sugg
 * [FCC Technical Documentation](https://github.com/kylecreate/FCC-TechDoc)
 * [FCC Product Landing Page](https://github.com/kylecreate/FCC-ProductLanding)
 * [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio)
-* [Cards Mini-Project](https://github.com/kylecreate/CardMiniProject)
-* [Little Taco Shop - 2](https://github.com/kylecreate/LTS2)
-* [FrontEnd Mentor - QR Code Card](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
-* [FrontEnd Mentor - Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
-* [FrontEnd Mentor - Social Links Profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
-* [FrontEnd Mentor - Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
-* [FrontEnd Mentor - Product Preview](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
-* [FrontEnd Mentor - Four Card Feature](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
-* [FrontEnd Mentor - Testiomonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub)
+* [Testing CSS Grid Skills using MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills)
+* [Testing CSS Flexbox Skills using MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills)
 
 ### JavaScript
-* [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) - <i>uDemy</i>
-* [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
-* [JavaScript for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=Zi-Q0t4gMC8) - <i>YouTube</i>
+* [Learning JavaScript](https://v2.scrimba.com/learn-javascript-c0v)- <i>Scrimba</i>
+* [Introduction to ES6+](https://v2.scrimba.com/introduction-to-es6-c0t) - <i>Scrimba</i>
 #### Completed Projects
 * <i>Future Project Here</i>
 
-### Figma
-* [Figma Crash Course for Beginners](https://www.youtube.com/watch?v=o1nCmiW6auE)
-#### Completed Projects
-* <i>Future Project Here</i>
+### Git/GitHub
+* [Git Tutorial for Beginners](https://www.youtube.com/watch?v=8JJ101D3knE) - <i>Programming with Mosh YouTube</i>
 
 ### ReactJS
-* [ReactJS for Beginners with Bro Code](https://www.youtube.com/watch?v=CgkZ7MvWUAA) - <i>YouTube</i>
+* [Learning ReactJS](https://v2.scrimba.com/learn-react-c0e) - <i>Scrimba</i>
 #### Completed Projects
 * <i>Future Project Here</i>
 
 ### Tailwind CSS
-* [Dave Gray's Tailwind CSS for Beginners](https://www.youtube.com/watch?v=lCxcTsOHrjo) - <i>YouTube</i>
+* [Learning Tailwind CSS](https://v2.scrimba.com/learn-tailwind-css-c010) - <i>Scrimba</i>
 #### Completed Projects
 * <i>Future Project Here</i>

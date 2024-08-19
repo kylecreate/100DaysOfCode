@@ -1,6 +1,6 @@
 # 100 Days of Code
 
-**Main target:** ***I will code for at least an one hour every weekday for the next 100 days.***
+**Main target and goal:** ***I will code for at least an one hour every weekday for the next 100 days.***
 
 This challenge for 100 days is to make a habit of coding to develop my skill sets to become a Frontend Developer. I was inspired by others completing the #100DaysOfCode challenge on Twitter and Discord. More details about this challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").
 
@@ -15,8 +15,8 @@ I started in late-2023, but found that my path wasn't very successful. So, I res
 
 ## Goals
 - Make it a habit of coding during the week and learning something new
-- Learn more and in-depth about JavaScript, Figma, ReactJS, and Tailwind CSS
-- Create real world projects to use in my portfolio
+- Learn more and in-depth about JavaScript, Figma/Penpot, ReactJS, and Tailwind CSS
+- Create and add real world projects to use in my portfolio
 - Complete the [FCC JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) certification
 - Complete reading of [Coding All-In-One for Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/coding/coding-all-in-one-for-dummies-281666/)
 

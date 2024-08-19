@@ -792,6 +792,25 @@
   <summary>Day 142: Aug 19, 2024</summary>
 
   ### Today's Progress:
+  * Started watching/working on Learning CSS Grid the Easy Way with Kevin Powell on YouTube using a Frontend Mentor project as an example.
+
+  ### Link to work:
+  * [Link to video](https://www.youtube.com/watch?v=rg7Fvvl3taU)
+
+  ### New thing(s) learned:
+  * CSS Grid using a Frontend Mentor project
+
+  ### Thoughts:
+  * Later on, my plan is to re-work this project from the ground up with no help and on my own to better understand CSS Grid.
+
+  ### Time spent working
+  * 1.3 hrs
+</details>
+
+<details>
+  <summary>Day 143: Aug 20, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
