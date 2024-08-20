@@ -811,6 +811,30 @@
   <summary>Day 143: Aug 20, 2024</summary>
 
   ### Today's Progress:
+  * Completed watching Kevin Powell's video on learning CSS Grid the easy way.
+  * Started and completed working on learning CSS Flexbox with Scrimba
+  * Started and completed watching Kevin Powell's video on learning Flexbox the easy way.
+  * Started and completed testing out my flexbox skills using different tasks from MDN.
+  * Completed all levels (except for Lv.24) of Flexbox Froggy.
+  * Attended my first Scrimba Town Hall where they discussed CSS and answered questions.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned a lot about CSSBattles, CSS Flexbox, and CSS Grid.
+
+  ### Thoughts:
+  * What a busy but good day! I will upload my new learning path soon that covers things I want to learn. I also have a few new projects in mind for the future.
+
+  ### Time spent working
+  * 3.4 hrs
+</details>
+
+<details>
+  <summary>Day 144: Aug 21, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
