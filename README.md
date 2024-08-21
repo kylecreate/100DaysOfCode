@@ -42,11 +42,4 @@ I started in late-2023, but found that my path wasn't very successful. So, I res
 | 8 | [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio) | 1/22/24 | HTML/CSS |
 | 9 | [Card Mini-Project](https://github.com/kylecreate/CardMiniProject) | 1/31/24 | HTML/CSS |
 | 10 | [Little Taco Shop - 2](https://github.com/kylecreate/LTS2) | 2/5/24 | HTML/CSS/JS |
-| 11 | [Frontend Mentor - QR Code Card](https://github.com/kylecreate/QRCode)| 3/11/24 | HTML/CSS |
-| 12 | [Frontend Mentor - Blog Preview Card](https://github.com/kylecreate/BlogPreview) | 3/11/24 | HTML/CSS |
-| 13 | [Frontend Mentor - Social Links Profile](https://github.com/kylecreate/SocialLinks) | 3/13/24 | HTML/CSS |
-| 14 | [Frontend Mentor - Recipe Page](https://github.com/kylecreate/RecipePage) | 3/21/24  | HTML/CSS |
-| 15 | [Frontend Mentor - Product Preview](https://github.com/kylecreate/ProductPreview) | 3/22/24 | HTML/CSS |
-| 16 | [Frontend Mentor - Four Card Feature](https://github.com/kylecreate/FourCardFeature) | 3/25/24 | HTML/CSS |
-| 17 | [Frontend Mentor - Testiomonials Grid Section](https://github.com/kylecreate/TestimonialsGrid) | 3/27/24 | HTML/CSS |
-| 18 | | | |
+| 11 | |  |  |

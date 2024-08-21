@@ -835,6 +835,26 @@
   <summary>Day 144: Aug 21, 2024</summary>
 
   ### Today's Progress:
+  * Started and completed watching Kevin Powell's videos on CSS Selectors (beyond the basics) and The Secret to mastering CSS Layouts.
+  * Started working on learning Responsive Web Design on Scrimba which is also taught by Kevin Powell. (Overall: 5% complete | CSS Fundamentals Section: 32% complete)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * The intermediate side of CSS selectors and the use of inline/inline-block elements in CSS.
+
+  ### Thoughts:
+  * I'm really enjoying this!
+
+  ### Time spent working
+  * 1.3 hrs
+</details>
+
+<details>
+  <summary>Day 145: Aug 22, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
