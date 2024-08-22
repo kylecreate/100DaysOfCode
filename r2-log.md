@@ -855,6 +855,25 @@
   <summary>Day 145: Aug 22, 2024</summary>
 
   ### Today's Progress:
+  * Continued and completed working on learning Responsive Web Design on Scrimba which is also taught by Kevin Powell. (Overall: 14% complete | CSS Fundamentals Section: 100% complete, next up is Starting to Think Responsively)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about the basics of CSS and some of the fundamentals to make learning responsive design easier.
+
+  ### Thoughts:
+  * I'm really enjoying jumping back into CSS, Kevin makes it fun!
+
+  ### Time spent working
+  * 2.85 hrs
+</details>
+
+<details>
+  <summary>Day 146: Aug 23, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
