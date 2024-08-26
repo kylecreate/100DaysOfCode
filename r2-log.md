@@ -874,7 +874,7 @@
   <summary>Day 146: Aug 23, 2024</summary>
 
   ### Today's Progress:
-  * Continued working on learning Responsive Web Design on Scrimba which is taught by Kevin Powell. (Overall: 29% complete | Starting to Think Responsively: 56%)
+  * Continued working on learning Responsive Web Design on Scrimba which is taught by Kevin Powell. (Overall: 29% complete | Starting to Think Responsively: 56% complete)
 
   ### Link to work:
   * None
@@ -891,6 +891,25 @@
 
 <details>
   <summary>Day 147: Aug 26, 2024</summary>
+
+  ### Today's Progress:
+  * Continued working on learning Responsive Web Design on Scrimba which is taught by Kevin Powell. (Overall: 40% complete | Starting to Think Responsively: 100% complete! Next up will be Stepping up our style)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * After I finish the next section in this course, I'm going to re-code the website we're working on from scratch to see if I'm able to do it on my own and hopefully make it look better (design and code wise).
+
+  ### Time spent working
+  * 2.3 hrs
+</details>
+
+<details>
+  <summary>Day 148: Aug 28, 2024</summary>
 
   ### Today's Progress:
   *

@@ -6,8 +6,13 @@ I created my learning path using [roadmap.sh](https://roadmap.sh/) and took sugg
 
 <details>
     <summary>My learning path</summary>
-        <p style="font-size: 12">Path last updated: 6/3/24</p>
+        <p style="font-size: 12">Path last updated: 8/24/24</p>
         <img src="https://github.com/kylecreate/100DaysOfCode/blob/main/imgs/LearningPath.png" alt="Personal Learning roadmap" title="Personal Learning roadmap">
+</details>
+<details>
+    <summary>My detailed learning path</summary>
+        <p style="font-size: 12">Path last updated: 8/24/24</p>
+        <img src="" alt="" title="Personal detailed learning path">
 </details>
 
 ## Programs Using
