@@ -912,6 +912,25 @@
   <summary>Day 148: Aug 28, 2024</summary>
 
   ### Today's Progress:
+  * Continued working on learning Responsive Web Design on Scrimba which is taught by Kevin Powell. (Overall: 52% complete | Stepping up our style 53% complete)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about background-images and viewport units
+
+  ### Thoughts:
+  * I'm enjoying these projects as I work along with Kevin. The BBQ splash page will be another project that I work on after completeing this course.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 149: Aug 29, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
