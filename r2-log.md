@@ -921,7 +921,7 @@
   * Learned more about background-images and viewport units
 
   ### Thoughts:
-  * I'm enjoying these projects as I work along with Kevin. The BBQ splash page will be another project that I work on after completeing this course.
+  * I'm enjoying these projects as I work along with Kevin. The BBQ splash page will be another project that I work on after completing this course.
 
   ### Time spent working
   * 2 hrs
@@ -929,6 +929,25 @@
 
 <details>
   <summary>Day 149: Aug 29, 2024</summary>
+
+  ### Today's Progress:
+  * Continued working on learning Responsive Web Design on Scrimba which is taught by Kevin Powell. (Overall: 69% complete | Stepping up our style (100% complete), started Taking flexbox to the next level section (71% complete))
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned a lot more about flexbox and proper stylings
+
+  ### Thoughts:
+  * Other than having problems with the site today, I managed to get a lot done. I'm writing down in my Notion (soon to switch to AppFlowy) the projects that I'm going to re-work when I finish from this section.
+
+  ### Time spent working
+  * 2.6 hrs
+</details>
+
+<details>
+  <summary>Day 150: Aug 30, 2024</summary> 🎉
 
   ### Today's Progress:
   *
