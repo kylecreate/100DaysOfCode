@@ -950,6 +950,25 @@
   <summary>Day 150: Aug 30, 2024</summary> 🎉
 
   ### Today's Progress:
+  * Continued working on learning Responsive Web Design on Scrimba which is taught by Kevin Powell. (Overall: 83% complete | continued and completed Taking flexbox to the next level section (100% complete) and CSS Grid: The ultimate layout tool (100% complete)).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more indepth about CSS Flexbox and CSS Grid.
+
+  ### Thoughts:
+  * As Kevin was showing a Portfolio work example of CSS Grid, I said in my head "This man is doing witchcraft...". I see a lot of changes to my portfolio and future work already without even touching anything.
+
+  ### Time spent working
+  * 2.4 hrs
+</details>
+
+<details>
+  <summary>Day 151: Sept 2, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
