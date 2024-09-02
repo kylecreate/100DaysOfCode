@@ -956,7 +956,7 @@
   * None
 
   ### New thing(s) learned:
-  * I learned more indepth about CSS Flexbox and CSS Grid.
+  * I learned more in-depth about CSS Flexbox and CSS Grid.
 
   ### Thoughts:
   * As Kevin was showing a Portfolio work example of CSS Grid, I said in my head "This man is doing witchcraft...". I see a lot of changes to my portfolio and future work already without even touching anything.
@@ -966,7 +966,26 @@
 </details>
 
 <details>
-  <summary>Day 151: Sept 2, 2024</summary>
+  <summary>Day 151: Sept 1, 2024</summary>
+
+  ### Today's Progress:
+  * Continued working on learning Responsive Web Design on Scrimba which is taught by Kevin Powell. (Overall: 100% complete | started and completed Taking it the next level (100% complete)).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about using CSS grid/flexbox for a real-life style website.
+
+  ### Thoughts:
+  * I'm surprised I finished this course in a single day. Next, I'm going to watch the Space Travel Website course from Scrimba. After that, I plan on doing some reading of CSS to see what else I can learn.
+
+  ### Time spent working
+  * 2.7 hrs
+</details>
+
+<details>
+  <summary>Day 152: Sept 2, 2024</summary>
 
   ### Today's Progress:
   *
