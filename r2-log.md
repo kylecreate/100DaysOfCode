@@ -969,7 +969,7 @@
   <summary>Day 151: Sept 1, 2024</summary>
 
   ### Today's Progress:
-  * Continued working on learning Responsive Web Design on Scrimba which is taught by Kevin Powell. (Overall: 100% complete | started and completed Taking it the next level (100% complete)).
+  * Continued and completed working on learning Responsive Web Design on Scrimba which is taught by Kevin Powell. (Overall: 100% complete | started and completed Taking it the next level (100% complete)).
 
   ### Link to work:
   * None
@@ -986,6 +986,25 @@
 
 <details>
   <summary>Day 152: Sept 2, 2024</summary>
+
+  ### Today's Progress:
+  * Started working on Kevin Powell's Space Travel Website course on Scrimba. I started with the module of The design system (43% complete).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * How to do a complete CSS reset for a new webpage and how to create a design system from scratch using the classes we've created so far.
+
+  ### Thoughts:
+  * The design system is actually kind of fun to work on before starting on the website itself. Also, with all the classes that have been used so far, I find this to be a really good idea for HUGE projects in the future.
+
+  ### Time spent working
+  * 1.3 hrs
+</details>
+
+<details>
+  <summary>Day 153: Sept 3, 2024</summary>
 
   ### Today's Progress:
   *
