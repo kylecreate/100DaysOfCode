@@ -1013,7 +1013,7 @@
   * None
 
   ### New thing(s) learned:
-  * I'm learning how to use multiple classes within CSS on HTML to create some cool componets.
+  * I'm learning how to use multiple classes within CSS on HTML to create some cool components.
 
   ### Thoughts:
   * So many lines of CSS and create such cool and small things!
@@ -1024,6 +1024,25 @@
 
 <details>
   <summary>Day 154: Sept 5, 2024</summary>
+
+  ### Today's Progress:
+  * Continued working on Kevin Powell's Space Travel Website course on Scrimba. I completed the module of The design system (100% complete), completed the modile of The homepage (100%), and started on the Navigation module (69%).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I've learned a lot about how to do a navigation bar and how to make the homepage of this project look similair to the Figma design.
+
+  ### Thoughts:
+  * This is a tough project, but will be re-done in the future when I'm comfortable with CSS and JavaScript.
+
+  ### Time spent working
+  * 2.7 hrs
+</details>
+
+<details>
+  <summary>Day 155: Sept 6, 2024</summary>
 
   ### Today's Progress:
   *
