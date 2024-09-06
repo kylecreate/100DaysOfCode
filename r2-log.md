@@ -1026,13 +1026,13 @@
   <summary>Day 154: Sept 5, 2024</summary>
 
   ### Today's Progress:
-  * Continued working on Kevin Powell's Space Travel Website course on Scrimba. I completed the module of The design system (100% complete), completed the modile of The homepage (100%), and started on the Navigation module (69%).
+  * Continued working on Kevin Powell's Space Travel Website course on Scrimba. I completed the module of The design system (100% complete), completed the module of The homepage (100%), and started on the Navigation module (69%).
 
   ### Link to work:
   * None
 
   ### New thing(s) learned:
-  * I've learned a lot about how to do a navigation bar and how to make the homepage of this project look similair to the Figma design.
+  * I've learned a lot about how to do a navigation bar and how to make the homepage of this project look similar to the Figma design.
 
   ### Thoughts:
   * This is a tough project, but will be re-done in the future when I'm comfortable with CSS and JavaScript.
@@ -1043,6 +1043,25 @@
 
 <details>
   <summary>Day 155: Sept 6, 2024</summary>
+
+  ### Today's Progress:
+  * Continued working on Kevin Powell's Space Travel Website course on Scrimba. I completed the Navigation module (100%), the destination page module (100%), and started working on the tabs module (23%).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about how to style different HTML tags with similair styles of other tags. Also, I learned a lot about JavaScript even if I haven't gotten that far yet.
+
+  ### Thoughts:
+  * I'm happy I'm almost done with this project. I believe that I'll work on this again after I learn JavaScript and get comfortable with that.
+
+  ### Time spent working
+  * 2.6 hrs
+</details>
+
+<details>
+  <summary>Day 156: Sept 9, 2024</summary>
 
   ### Today's Progress:
   *
