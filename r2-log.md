@@ -1051,7 +1051,7 @@
   * None
 
   ### New thing(s) learned:
-  * I learned more about how to style different HTML tags with similair styles of other tags. Also, I learned a lot about JavaScript even if I haven't gotten that far yet.
+  * I learned more about how to style different HTML tags with similar styles of other tags. Also, I learned a lot about JavaScript even if I haven't gotten that far yet.
 
   ### Thoughts:
   * I'm happy I'm almost done with this project. I believe that I'll work on this again after I learn JavaScript and get comfortable with that.
@@ -1062,6 +1062,26 @@
 
 <details>
   <summary>Day 156: Sept 9, 2024</summary>
+
+  ### Today's Progress:
+  * Continued working on and completed Kevin Powell's Space Travel Website course on Scrimba. I completed the tabs module (100%).
+  * Started working on Frontend Mentor's Product Preview Card Component challenge.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm happy to have finally finished the Space Travel site and now going to start working on Frontend Mentor/real-life style projects for a while.
+
+  ### Time spent working
+  * 2.7 hrs
+</details>
+
+<details>
+  <summary>Day 157: Sept 10, 2024</summary>
 
   ### Today's Progress:
   *
