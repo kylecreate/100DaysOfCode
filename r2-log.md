@@ -1084,6 +1084,26 @@
   <summary>Day 157: Sept 10, 2024</summary>
 
   ### Today's Progress:
+  * Completed working on the Product Preview Card challenge from Frontend Mentor.
+  * Started and completed the first CSS challenge from Scrimba's CSS Challenges course.
+
+  ### Link to work:
+  * [FEM - Product Preview Card](https://github.com/kylecreate/FEM-ProductCard)
+
+  ### New thing(s) learned:
+  * How to create a spoiler using HTML and CSS.
+
+  ### Thoughts:
+  * I think I'll enjoy the CSS challenges from Scrimba. These will be different things to work on and hopefully help my CSS skills get better.
+
+  ### Time spent working
+  * 1.2 hrs
+</details>
+
+<details>
+  <summary>Day 158: Sept 11, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
