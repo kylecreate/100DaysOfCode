@@ -1104,6 +1104,26 @@
   <summary>Day 158: Sept 11, 2024</summary>
 
   ### Today's Progress:
+  * Started and completed working on the CSS Challenges from Scrimba of the Colorful Button and Expanding Search Bar.
+
+  ### Link to work:
+  * [Scrimba Projects](https://github.com/kylecreate/Scrimba-Projects)
+
+  ### New thing(s) learned:
+  * How to create a border around a button to grow when hovered.
+  * How to expand a search bar and hide things only screen readers can hear/say.
+
+  ### Thoughts:
+  * These challenges are fun! I'm looking forward to working on more of these in the future!
+
+  ### Time spent working
+  * 1.2 hrs
+</details>
+
+<details>
+  <summary>Day 159: Sept 12, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
