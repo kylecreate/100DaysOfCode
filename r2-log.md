@@ -1124,6 +1124,25 @@
   <summary>Day 159: Sept 12, 2024</summary>
 
   ### Today's Progress:
+  * Started on the CSS Challenge from Scrimba of the Codepen Tile.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Didn't get too much done today. Going to try and restart with a fresh mind tomorrow.
+
+  ### Time spent working
+  * 1 hrs
+</details>
+
+<details>
+  <summary>Day 160: Sept 13, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
