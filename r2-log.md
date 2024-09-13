@@ -1143,6 +1143,28 @@
   <summary>Day 160: Sept 13, 2024</summary>
 
   ### Today's Progress:
+  * Re-started and completed the Codepen Tile CSS Challenge from Scrimba.
+  * Started and completed the first Loading Animation CSS Challenge from Scrimba.
+  * Made some changes to the Product Preview card from Frontend Mentor after receiving feedback.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned how to animate a loading sequence for a website.
+  * I learned how to show something under a card by using the hover psuedo class.
+
+  ### Thoughts:
+  * Work hard, play hard as always!
+
+  ### Time spent working
+  * 2.05 hrs
+</details>
+
+<details>
+  <summary>Day 161: Sept 16, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
