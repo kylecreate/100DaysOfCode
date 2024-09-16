@@ -1165,6 +1165,28 @@
   <summary>Day 161: Sept 16, 2024</summary>
 
   ### Today's Progress:
+  * Started and completed the CSS challenge of creating another Loading Animation on Scrimba.
+  * Started and completed the CSS challenge of creating a Archery Target on Scrimba.
+  * Continued working on the Frontend Developer Career Path by building the Google.com clone project. (Overall: 4% complete)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned how to create an archery target using CSS and figuring out how to center the circles within the window.
+  * I learned more about centering buttons/items on a page while working on the Google.com clone project from Scrimba.
+
+  ### Thoughts:
+  * I think going back and forth between the CSS challenges and the Career Path courses is a good idea. This way, I can challenge myself while also re-learning the basics as I go along.
+
+  ### Time spent working
+  * 2.6 hrs
+</details>
+
+<details>
+  <summary>Day 162: Sept 17, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
