@@ -1187,6 +1187,25 @@
   <summary>Day 162: Sept 17, 2024</summary>
 
   ### Today's Progress:
+  * Started and completed building a Digital Business Card on Scrimba. Frontend Developer Career Path (6% Complete)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I more about linking items, files, and other assests by using a single period, double period, or just the backslash.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.3 hrs
+</details>
+
+<details>
+  <summary>Day 163: Sept 18, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
