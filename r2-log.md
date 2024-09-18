@@ -1193,7 +1193,7 @@
   * None
 
   ### New thing(s) learned:
-  * I more about linking items, files, and other assests by using a single period, double period, or just the backslash.
+  * I more about linking items, files, and other assets by using a single period, double period, or just the backslash.
 
   ### Thoughts:
   * None
@@ -1204,6 +1204,27 @@
 
 <details>
   <summary>Day 163: Sept 18, 2024</summary>
+
+  ### Today's Progress:
+  * Continued working on the Frontend Developer Career Path on Scrimba (9% complete)
+    * Started and completed building a Space Exploration site on Scrimba
+    * Started working on building a Birthday GIFt site on Scrimba (54% complete)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about adding GIFs to a site and how to position different images on a site by setting the flex-direction to either row or column.
+
+  ### Thoughts:
+  * I'm starting to enjoy myself again! Really enjoying all the learning I'm doing.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 164: Sept 19, 2024</summary>
 
   ### Today's Progress:
   *
