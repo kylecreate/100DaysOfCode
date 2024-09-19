@@ -43,4 +43,5 @@ I started in late-2023, but found that my path wasn't very successful. So, I res
 | 9 | [Card Mini-Project](https://github.com/kylecreate/CardMiniProject) | 1/31/24 | HTML/CSS |
 | 10 | [Little Taco Shop - 2](https://github.com/kylecreate/LTS2) | 2/5/24 | HTML/CSS/JS |
 | 11 | [FEM - Product Preview Card](https://github.com/kylecreate/FEM-ProductCard) | 9/10/24 | HTML/CSS |
-| 12 |  |  |  |
+| 12 | [Scrimba Birthday GIFt](https://github.com/kylecreate/Scrimba-Birthday) | 9/19/24 | HTML/CSS |
+| 13 |   |   |   |

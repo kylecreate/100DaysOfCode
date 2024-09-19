@@ -1227,6 +1227,28 @@
   <summary>Day 164: Sept 19, 2024</summary>
 
   ### Today's Progress:
+  * Continued working on the Frontend Developer Career Path on Scrimba (10% complete)
+    * Continued working on the Birthday GIFt site on Scrimba
+    * Started working on the Solo Project: Hometown Homepage.
+
+  ### Link to work:
+  * [Scrimba Birthday GIFt Project](https://github.com/kylecreate/Scrimba-Birthday)
+
+  ### New thing(s) learned:
+  * I learned how adding an image inside of a div tag without using the image tag.
+  * I learned more about adding audio/video to a website.
+
+  ### Thoughts:
+  * Now we're getting our hands dirty, and I like it! Should I wash my hands or keep them dirty?
+
+  ### Time spent working
+  * 2.7 hrs
+</details>
+
+<details>
+  <summary>Day 165: Sept 20, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
