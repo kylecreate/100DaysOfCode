@@ -1228,7 +1228,7 @@
 
   ### Today's Progress:
   * Continued working on the Frontend Developer Career Path on Scrimba (10% complete)
-    * Continued working on the Birthday GIFt site on Scrimba
+    * Continued and completed working on the Birthday GIFt site on Scrimba
     * Started working on the Solo Project: Hometown Homepage.
 
   ### Link to work:
@@ -1247,6 +1247,27 @@
 
 <details>
   <summary>Day 165: Sept 20, 2024</summary>
+
+  ### Today's Progress:
+  * Continued working on the Frontend Developer Career Path on Scrimba (10% complete)
+    * Conintued and completed working on the Solo Project: Hometown Homepage.
+  * Started working on the Frontend Mentor Four Card Feature project.
+
+  ### Link to work:
+  * [Scrimba Hometown](https://github.com/kylecreate/Scrimba-Hometown)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm very happy with how the Hometown project came out. I posted it to the code-reviews channel in their discord server. Now, I'm starting on the Four Card Feature project from Frontend Mentor now. Taking my time to learn everything instead of speedrunning it like a demon has really helped me a ton!
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 166: Sept 23, 2024</summary>
 
   ### Today's Progress:
   *
