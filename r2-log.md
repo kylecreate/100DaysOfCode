@@ -1270,6 +1270,28 @@
   <summary>Day 166: Sept 23, 2024</summary>
 
   ### Today's Progress:
+  * Continued working on and completed the Frontend Mentor Four Card Feature project.
+  * Started and completed the Word Carousel and Flag of France CSS challenges on Scrimba
+  * Organized my projects from freeCodeCamp, Scrimba, and Frontend Mentor into seperate repos.
+
+  ### Link to work:
+  * [Scrimba Projects](https://github.com/kylecreate/Scrimba-Projects) | [Frontend Mentor Projects](https://github.com/kylecreate/FrontendMentor-Projects) | [freeCodeCamp Projects](https://github.com/kylecreate/FCC-Projects)
+
+  ### New thing(s) learned:
+  * I learned how to use CSS animations to show different words one at a time using keyframes.
+  * I learned how to create a flag in CSS in 2 different ways (flex and grid).
+
+  ### Thoughts:
+  * I think having all my projects in one place for each of the sites I use might be a good thing. In the future, I'll probably switch them all over to my Portfolio website once that's finished. In the meantime, I'm going to continue working on doing more CSS projects from Scrimba and Frontend Mentor before starting JavaScript.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 167: Sept 24, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
