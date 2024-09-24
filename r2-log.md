@@ -1272,7 +1272,7 @@
   ### Today's Progress:
   * Continued working on and completed the Frontend Mentor Four Card Feature project.
   * Started and completed the Word Carousel and Flag of France CSS challenges on Scrimba
-  * Organized my projects from freeCodeCamp, Scrimba, and Frontend Mentor into seperate repos.
+  * Organized my projects from freeCodeCamp, Scrimba, and Frontend Mentor into separate repos on GitHub.
 
   ### Link to work:
   * [Scrimba Projects](https://github.com/kylecreate/Scrimba-Projects) | [Frontend Mentor Projects](https://github.com/kylecreate/FrontendMentor-Projects) | [freeCodeCamp Projects](https://github.com/kylecreate/FCC-Projects)
@@ -1290,6 +1290,25 @@
 
 <details>
   <summary>Day 167: Sept 24, 2024</summary>
+
+  ### Today's Progress:
+  * Started working on a template for my 3 GitHub Repos (freeCodeCamp Projects, Scrimba Projects, and fCC Projects) that way I can make a site out of everything and not have a ton of sites.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Hopefully this will be helpful for myself and others once I finish it!
+
+  ### Time spent working
+  * 1.2 hrs
+</details>
+
+<details>
+  <summary>Day 168: Sept 25, 2024</summary>
 
   ### Today's Progress:
   *
