@@ -28,21 +28,13 @@ I started in late-2023, but found that my path wasn't very successful. So, I res
     </ul>
 </details>
 
-## Completed Projects
+## Projects
 
 | No.  |  Project Title  |  Completed On | Languages Used
 | :------------: | ------------ | :------------: | :------------: |
 | 1  | [Little Taco Shop](https://github.com/kylecreate/LTS) | 1/9/24 | HTML |
 | 2 | [Tables of Planets](https://github.com/kylecreate/TableOfPlanets) | 1/10/24 | HTML |
 | 3 | [Markup Letter](https://github.com/kylecreate/MarkupLetter) | 1/11/24 | HTML |
-| 4 | [FCC Survey](https://github.com/kylecreate/FCC-Survey) | 1/12/24 | HTML/CSS |
-| 5 | [FCC Tribute](https://github.com/kylecreate/FCC-Tribute) | 1/17/24 | HTML/CSS |
-| 6 | [FCC Tech Doc](https://github.com/kylecreate/FCC-TechDoc) | 1/18/24 | HTML/CSS |
-| 7 | [FCC Product Landing](https://github.com/kylecreate/FCC-ProductLanding) | 1/19/24 | HTML/CSS |
-| 8 | [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio) | 1/22/24 | HTML/CSS |
-| 9 | [Card Mini-Project](https://github.com/kylecreate/CardMiniProject) | 1/31/24 | HTML/CSS |
-| 10 | [Little Taco Shop - 2](https://github.com/kylecreate/LTS2) | 2/5/24 | HTML/CSS/JS |
-| 11 | [FEM - Product Preview Card](https://github.com/kylecreate/FEM-ProductCard) | 9/10/24 | HTML/CSS |
-| 12 | [Scrimba Birthday GIFt](https://github.com/kylecreate/Scrimba-Birthday) | 9/19/24 | HTML/CSS |
-| 13 | [Scrimba Hometown](https://github.com/kylecreate/Scrimba-Hometown)  | 9/20/24  | HTML/CSS |
-| 14 |   |   |   |
+| 4 | [FCC Certification Projects](https://github.com/kylecreate/FCC-Projects) | 1/22/24 | HTML/CSS |
+| 5 | [Scrimba Projects](https://github.com/kylecreate/Scrimba-Projects) | 08/24 | |
+| 6 | [Frontend Mentor Projects](https://github.com/kylecreate/FrontendMentor-Projects) | 2024 |

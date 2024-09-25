@@ -1311,6 +1311,26 @@
   <summary>Day 168: Sept 25, 2024</summary>
 
   ### Today's Progress:
+  * Started and completed working on the Three Column Preview Card Component challenge from Frontend Mentor
+  * Started and completed working on the Flag of Germany and Madagascar on Scrimba's CSS Challenges (43% complete)
+
+  ### Link to work:
+  * [Frontend Mentor - 3 Column Preview](https://github.com/kylecreate/FrontendMentor-Projects/tree/main/Three-Column-Preview) | [Scrimba - Germany Flag](https://github.com/kylecreate/Scrimba-Projects/tree/main/CSS%20Challenges/Germany-Flag) | [Scrimba - Madagascar Flag](https://github.com/kylecreate/Scrimba-Projects/tree/main/CSS%20Challenges/Madagascar-Flag)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * These challenges are are helping me get better at CSS!
+
+  ### Time spent working
+  * 1.2 hrs
+</details>
+
+<details>
+  <summary>Day 169: Sept 26, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
