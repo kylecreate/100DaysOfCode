@@ -36,5 +36,6 @@ I started in late-2023, but found that my path wasn't very successful. So, I res
 | 2 | [Tables of Planets](https://github.com/kylecreate/TableOfPlanets) | 1/10/24 | HTML |
 | 3 | [Markup Letter](https://github.com/kylecreate/MarkupLetter) | 1/11/24 | HTML |
 | 4 | [FCC Certification Projects](https://github.com/kylecreate/FCC-Projects) | 1/22/24 | HTML/CSS |
-| 5 | [Scrimba Projects](https://github.com/kylecreate/Scrimba-Projects) | 08/24 | |
-| 6 | [Frontend Mentor Projects](https://github.com/kylecreate/FrontendMentor-Projects) | 2024 |
+| 5 | [Scrimba Projects](https://github.com/kylecreate/Scrimba-Projects) | 2024 | HTML/CSS |
+| 6 | [Frontend Mentor Projects](https://github.com/kylecreate/FrontendMentor-Projects) | 2024 | HTML/CSS |
+| 7 | | | |

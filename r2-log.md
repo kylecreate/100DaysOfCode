@@ -1327,8 +1327,30 @@
   * 1.2 hrs
 </details>
 
+<br>
+<p style="font-size: 12px;">Hurricane Helene and Milton came through. I worked on cleaning up damage, evacuating, and getting things back to "normal".</p>
+
 <details>
-  <summary>Day 169: Sept 26, 2024</summary>
+  <summary>Day 169: Oct 21, 2024</summary>
+
+  ### Today's Progress:
+  * Started working on the Social Proof Challenge of Frontend Mentor.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Today was my first day back into coding after dealing with the recent hurricanes. I need to get back into the swing of things since it's been so long. Feels like I forgot everything but I'll get back to it.
+
+  ### Time spent working
+  * 1.6 hrs
+</details>
+
+<details>
+  <summary>Day 170: Oct 22, 2024</summary>
 
   ### Today's Progress:
   *
