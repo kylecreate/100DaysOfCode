@@ -1353,6 +1353,25 @@
   <summary>Day 170: Oct 22, 2024</summary>
 
   ### Today's Progress:
+  * Continued working on the Social Proof Challenge from Frontend Mentor.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I decided to re-write my HTML and CSS since something felt off about it from yesterday. I put the final image provided into Photoshop and organized everything in containers and what each square meant. This really helps. Also, I got distracted by a big claw truck outside getting my hurricane debris. So, I'm happy about that finally happening as well!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 171: Oct 23, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
