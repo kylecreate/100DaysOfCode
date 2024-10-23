@@ -1372,6 +1372,25 @@
   <summary>Day 171: Oct 23, 2024</summary>
 
   ### Today's Progress:
+  * Continued working on the Social Proof Challenge from Frontend Mentor.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1 hrs
+</details>
+
+<details>
+  <summary>Day 172: Oct 24, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
