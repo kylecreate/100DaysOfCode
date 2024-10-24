@@ -1391,6 +1391,26 @@
   <summary>Day 172: Oct 24, 2024</summary>
 
   ### Today's Progress:
+  * Completed working on the Social Proof Challenge from Frontend Mentor.
+  * Started and completed working on the Flag of Switzerland from Scrimba's CSS Challenges.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm still getting into the swing of things. These small projects are helping after being away for so long.
+
+  ### Time spent working
+  * 1.2 hrs
+</details>
+
+<details>
+  <summary>Day 173: Oct 28, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
