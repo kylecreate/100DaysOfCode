@@ -1411,6 +1411,25 @@
   <summary>Day 173: Oct 28, 2024</summary>
 
   ### Today's Progress:
+  * I started working on making websites interactice (16% complete) to learn about JavaScript by making a passenger counter app.
+
+  ### Link to work:
+  * [Counter App](https://github.com/kylecreate/Scrimba-Projects/tree/main/Frontend%20Path%20Projects/Counter-App)
+
+  ### New thing(s) learned:
+  * I learned about the basics of JavaScript and how to add and remove numbers.
+
+  ### Thoughts:
+  * I'm looking forward to mastering JavaScript! My goals are to complete this course, work on some projects, work on my personal portfolio, and then find a job!
+
+  ### Time spent working
+  * 2.36 hrs
+</details>
+
+<details>
+  <summary>Day 174: Oct 29, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
