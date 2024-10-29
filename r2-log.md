@@ -1411,7 +1411,7 @@
   <summary>Day 173: Oct 28, 2024</summary>
 
   ### Today's Progress:
-  * I started working on making websites interactice (16% complete) to learn about JavaScript by making a passenger counter app.
+  * I started working on making websites interactive (16% complete) to learn about JavaScript by making a passenger counter app (100%). Next up will be making a Blackjack App.
 
   ### Link to work:
   * [Counter App](https://github.com/kylecreate/Scrimba-Projects/tree/main/Frontend%20Path%20Projects/Counter-App)
@@ -1428,6 +1428,26 @@
 
 <details>
   <summary>Day 174: Oct 29, 2024</summary>
+
+  ### Today's Progress:
+  * I continued working on the Making Websites Interactive section (21% complete) of the Frontend Mentor Frontend Dev path (13% complete).
+    * I started working on the JavaScript Challenges Pt.1 section and finished everything until the Solo Project(90%).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * The JavaScript challenges were fun to work on and really made me think. It makes me happy that after having a Rubber Ducky for the past few years finally came in handy when I was trying to explain to myself how a certain challenge worked.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 175: Oct 30, 2024</summary>
 
   ### Today's Progress:
   *
