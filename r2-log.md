@@ -1450,6 +1450,26 @@
   <summary>Day 175: Oct 30, 2024</summary>
 
   ### Today's Progress:
+  * I continued working on the Making Websites Interactive section (21% complete) of the Frontend Mentor Frontend Dev path (13% complete).
+    * I completed working on the JavaScript Challenges Pt.1 section and finished everything(100%).
+
+  ### Link to work:
+  * [Basketball Scoreboard](https://github.com/kylecreate/Scrimba-Projects/tree/main/JavaScript/Basketball-Scoreboard)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * This took me a little bit of time, but I'm so happy I managed to figure this out on my own!
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 176: Oct 31, 2024 🎃</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
