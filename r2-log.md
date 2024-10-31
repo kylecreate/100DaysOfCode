@@ -1470,6 +1470,27 @@
   <summary>Day 176: Oct 31, 2024 🎃</summary>
 
   ### Today's Progress:
+  * I continued working on the Making Websites Interactive section (34% complete) of the Frontend Mentor Frontend Dev path (15% complete).
+    * Started and completed the section of setting up a local dev environment (100%)
+    * Started working on the section of building a Blackjack game (39%)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about creating if/else statements, booleans, variables, and arrays.
+
+  ### Thoughts:
+  * Taking this language slow so I understand everything is really helping me!
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 177: Nov 1, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
