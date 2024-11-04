@@ -1498,7 +1498,7 @@
   * None
 
   ### New thing(s) learned:
-  * I learned more about Arrays, for loops, creating an array based loop, and how to return and gerenate random numbers in a function.
+  * I learned more about Arrays, for loops, creating an array based loop, and how to return and generate random numbers in a function.
 
   ### Thoughts:
   * Everything is slowly starting to make sense for me.
@@ -1511,7 +1511,29 @@
   <summary>Day 178: Nov 4, 2024</summary>
 
   ### Today's Progress:
-  *
+  * I continued working on the Making Websites Interactive section (56% complete) of the Frontend Mentor Frontend Dev path (19% complete) from Scrimba.
+    * Continued and completed working on the section of building a Blackjack game (100% complete)
+    * Started working on JavaScript challenges Pt.2 (88% complete)
+      * Started working on the Password Generator Solo Project
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about Math.random(), Math.floor(), logical operators (AND and OR), creating objects, when to use and not use AI while coding,
+
+  ### Thoughts:
+  * The challenges were fun to work on and this project should really be a challenge for me!
+
+  ### Time spent working
+  * 3 hrs
+</details>
+
+<details>
+  <summary>Day 179: Nov 5, 2024</summary>
+
+  ### Today's Progress:
+
 
   ### Link to work:
   *
