@@ -1520,7 +1520,7 @@
   * None
 
   ### New thing(s) learned:
-  * I learned more about Math.random(), Math.floor(), logical operators (AND and OR), creating objects, when to use and not use AI while coding,
+  * I learned more about Math.random(), Math.floor(), logical operators (AND and OR), creating objects, and when to use and not use AI while coding.
 
   ### Thoughts:
   * The challenges were fun to work on and this project should really be a challenge for me!
@@ -1531,6 +1531,27 @@
 
 <details>
   <summary>Day 179: Nov 5, 2024</summary>
+
+  ### Today's Progress:
+  * I continued working on the Making Websites Interactive section (59% complete) of the Frontend Mentor Frontend Dev path (19% complete) from Scrimba.
+    * I conintued working on and completed the Password Generator Solo Project.
+    * I started working on the section of building a Chrome Extension (12% complete).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the basics of addEventListener().
+
+  ### Thoughts:
+  * My project came out very nicely which I'm happy about. I may have to use the random password generator I created instead of using the one on KeepassXC (I'm kidding...)
+
+  ### Time spent working
+  * 1.3 hrs
+</details>
+
+<details>
+  <summary>Day 180: Nov 6, 2024</summary>
 
   ### Today's Progress:
 
