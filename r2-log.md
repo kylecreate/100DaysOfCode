@@ -1534,7 +1534,7 @@
 
   ### Today's Progress:
   * I continued working on the Making Websites Interactive section (59% complete) of the Frontend Mentor Frontend Dev path (19% complete) from Scrimba.
-    * I conintued working on and completed the Password Generator Solo Project.
+    * I continued working on and completed the Password Generator Solo Project.
     * I started working on the section of building a Chrome Extension (12% complete).
 
   ### Link to work:
@@ -1552,6 +1552,26 @@
 
 <details>
   <summary>Day 180: Nov 6, 2024</summary>
+
+  ### Today's Progress:
+  * I continued working on the Making Websites Interactive section (74% complete) of the Frontend Mentor Frontend Dev path (22% complete) from Scrimba.
+    * I started working on the section of building a Chrome Extension (63% complete).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the difference of when to use let and const, how to use innerHTML, how to use createElement() and append(), how to clear an input value after clicking a button, template strings, localStorage,
+
+  ### Thoughts:
+  * I've never created an extension before, that was fun!
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 181: Nov 7, 2024</summary>
 
   ### Today's Progress:
 
