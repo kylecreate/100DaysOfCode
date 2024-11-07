@@ -1555,13 +1555,13 @@
 
   ### Today's Progress:
   * I continued working on the Making Websites Interactive section (74% complete) of the Frontend Mentor Frontend Dev path (22% complete) from Scrimba.
-    * I started working on the section of building a Chrome Extension (63% complete).
+    * I continued working on the section of building a Chrome Extension (63% complete).
 
   ### Link to work:
   * None
 
   ### New thing(s) learned:
-  * I learned about the difference of when to use let and const, how to use innerHTML, how to use createElement() and append(), how to clear an input value after clicking a button, template strings, localStorage,
+  * I learned about the difference of when to use let and const, how to use innerHTML, how to use createElement() and append(), how to clear an input value after clicking a button, template strings, and localStorage.
 
   ### Thoughts:
   * I've never created an extension before, that was fun!
@@ -1574,7 +1574,27 @@
   <summary>Day 181: Nov 7, 2024</summary>
 
   ### Today's Progress:
+  * I continued working on the Making Websites Interactive section (84% complete) of the Frontend Mentor Frontend Dev path (23% complete) from Scrimba.
+    * I continued working on and completed the section of building a Chrome Extension (100% complete).
 
+  ### Link to work:
+  * [First Chrome Extension](https://github.com/kylecreate/Scrimba-Projects/tree/main/JavaScript/Chrome-Extension)
+
+  ### New thing(s) learned:
+  * I learned more about the difference between Truthy and Falsy values, JSON objects, and objects in arrays.
+
+  ### Thoughts:
+  * I was having trouble with the Chrome Extension project, so I asked in the FCC Discord server and had some help from Hana (shout out to her, thank you again!). Also, I thought after finishing this project would be a good time to end for the day.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 182: Nov 8, 2024</summary>
+
+  ### Today's Progress:
+  *
 
   ### Link to work:
   *
