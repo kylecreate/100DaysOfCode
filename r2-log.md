@@ -1594,6 +1594,26 @@
   <summary>Day 182: Nov 8, 2024</summary>
 
   ### Today's Progress:
+  * I continued working on the Making Websites Interactive section (87% complete) of the Frontend Mentor Frontend Dev path (24% complete) from Scrimba.
+    * I started working on JavaScript challenges Pt.3 (67% complete)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned how to generate a sentence using a function for loop should it have more than 2 items in an array.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 183: Nov 11, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
