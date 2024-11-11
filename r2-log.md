@@ -1614,6 +1614,28 @@
   <summary>Day 183: Nov 11, 2024</summary>
 
   ### Today's Progress:
+  * I continued working on the Making Websites Interactive section (100% complete) of the Frontend Mentor Frontend Dev path (26% complete) from Scrimba.
+    * I continued working on and completed JavaScript challenges Pt.3 including the Solo Project (100% complete).
+    * I started and completed working on building a mobile app (100% complete).
+
+  ### Link to work:
+  * [JavaScript Challenges Pt.3](https://github.com/kylecreate/Scrimba-Projects/tree/main/JavaScript/Challenges-Pt.3)
+  * [Mobile App](https://github.com/kylecreate/Scrimba-Projects/tree/main/JavaScript/Mobile-App)
+
+  ### New thing(s) learned:
+  * How to use Firebase as a beginner
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2.5 hrs
+</details>
+
+<details>
+  <summary>Day 184: Nov 13, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
