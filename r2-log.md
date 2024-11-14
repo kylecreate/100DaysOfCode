@@ -1633,7 +1633,26 @@
 </details>
 
 <details>
-  <summary>Day 184: Nov 13, 2024</summary>
+  <summary>Day 184: Nov 14, 2024</summary>
+
+  ### Today's Progress:
+  * I started working on the Accessible Development section (100% complete) of the Frontend Mentor Frontend Dev path (28% complete) from Scrimba.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about how to make a website I'm working on more accessible to users who are using a screen reader.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 185: Nov 15, 2024</summary>
 
   ### Today's Progress:
   *
