@@ -1655,6 +1655,26 @@
   <summary>Day 185: Nov 15, 2024</summary>
 
   ### Today's Progress:
+  * I started working on the Essential CSS concepts section (19% complete) of the Frontend Mentor Frontend Dev path (29% complete) from Scrimba.
+    * I started working on the Building an NFT website section (39% complete).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about making my CSS skills better and making parts of the stylesheet organized.
+
+  ### Thoughts:
+  * Organization is key 🙏🏻
+
+  ### Time spent working
+  * 1.2 hrs
+</details>
+
+<details>
+  <summary>Day 186: Nov 18, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
