@@ -1675,6 +1675,27 @@
   <summary>Day 186: Nov 18, 2024</summary>
 
   ### Today's Progress:
+  * I continued working on the Essential CSS concepts section (78% complete) of the Frontend Mentor Frontend Dev path (32% complete) from Scrimba.
+    * I continued working on and completed the Building an NFT website section (100% complete).
+    * I started working on the CSS Fundamentals: Challenges section (95% complete).
+
+  ### Link to work:
+  * [Essential CSS Challenge - Scrimba](https://github.com/kylecreate/Scrimba-Projects/tree/main/Frontend%20Path%20Projects/Essential-CSS-Challenges)
+
+  ### New thing(s) learned:
+  * I learned about grouping selectors the correct way, CSS specificity, and when to use buttons and links.
+
+  ### Thoughts:
+  * I worked very hard today and I'm happy about that. Tomorrow, I'll get started on the Solo Project of the CSS Fundamentals challenges module.
+
+  ### Time spent working
+  * 3.1 hrs
+</details>
+
+<details>
+  <summary>Day 187: Nov 19, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
