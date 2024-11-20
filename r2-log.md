@@ -1693,7 +1693,28 @@
 </details>
 
 <details>
-  <summary>Day 187: Nov 19, 2024</summary>
+  <summary>Day 187: Nov 20, 2024</summary>
+
+  ### Today's Progress:
+  * I continued working on the Essential CSS concepts section (78% complete) of the Frontend Mentor Frontend Dev path (32% complete) from Scrimba.
+    * I continued working on the CSS Fundamentals: Challenges section (95% complete).
+      * I started and completed working on the Oldgram project.
+
+  ### Link to work:
+  * [Oldgram Scrimba Project](https://github.com/kylecreate/Scrimba-Projects/tree/main/Frontend%20Path%20Projects/Oldagram)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I took yesterday (11/19) off because Scrimba wasn't working right after their update when I wanted to start working on the Oldgram project. Instead, I started that today and have the basics of the site layed out. Excited to work on this project!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 188: Nov 21, 2024</summary>
 
   ### Today's Progress:
   *
