@@ -1696,8 +1696,8 @@
   <summary>Day 187: Nov 20, 2024</summary>
 
   ### Today's Progress:
-  * I continued working on the Essential CSS concepts section (78% complete) of the Frontend Mentor Frontend Dev path (32% complete) from Scrimba.
-    * I continued working on the CSS Fundamentals: Challenges section (95% complete).
+  * I continued working on the Essential CSS concepts section (80% complete) of the Frontend Mentor Frontend Dev path (32% complete) from Scrimba.
+    * I continued working on the CSS Fundamentals: Challenges section (100% complete).
       * I started and completed working on the Oldgram project.
 
   ### Link to work:
@@ -1707,7 +1707,7 @@
   * None
 
   ### Thoughts:
-  * I took yesterday (11/19) off because Scrimba wasn't working right after their update when I wanted to start working on the Oldgram project. Instead, I started that today and have the basics of the site layed out. Excited to work on this project!
+  * I took yesterday (11/19) off because Scrimba wasn't working right after their update when I wanted to start working on the Oldgram project. Instead, I started that today and have the basics of the site laid out. Excited to work on this project!
 
   ### Time spent working
   * 1.25 hrs
@@ -1715,6 +1715,27 @@
 
 <details>
   <summary>Day 188: Nov 21, 2024</summary>
+
+  ### Today's Progress:
+  * I completed the Essential CSS concepts module (100% complete) and I started on the Essential JavaScript Concepts module (4% complete) of the Frontend Mentor Frontend Dev path (34% complete) from Scrimba.
+    * I started and completed working on the Building a Coworking Space site (100% Complete).
+    * I started working on The World's Most Annoying Cookie Consent (19% complete).
+
+  ### Link to work:
+  * [Coworking Space Site](https://github.com/kylecreate/Scrimba-Projects/tree/main/Frontend%20Path%20Projects/Coworking)
+
+  ### New thing(s) learned:
+  * For the CSS concepts module, I learned more about using margin auto, position absolute/fixed/relative, and the align-self property.
+
+  ### Thoughts:
+  * I'm so happy with how I'm learning and moving through these courses. I'll hopefully have some good project ideas soon.
+
+  ### Time spent working
+  * 2.3 hrs
+</details>
+
+<details>
+  <summary>Day 189: Nov 22, 2024</summary>
 
   ### Today's Progress:
   *
