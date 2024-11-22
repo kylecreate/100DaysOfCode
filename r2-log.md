@@ -1738,6 +1738,26 @@
   <summary>Day 189: Nov 22, 2024</summary>
 
   ### Today's Progress:
+  * I continued working on the Essential JavaScript Concepts module (21% complete) of the Frontend Mentor Frontend Dev path (36% complete) from Scrimba.
+    * I continued working on The World's Most Annoying Cookie Consent (100% complete).
+
+  ### Link to work:
+  * [Annoying Cookie Consent](https://github.com/kylecreate/Scrimba-Projects/tree/main/JavaScript/Cookie-Consent)
+
+  ### New thing(s) learned:
+  * I learned more about form validation and requirements, preventDefault(), how to gather data from a form, and how to reverse the order of 2 elements.
+
+  ### Thoughts:
+  * I really enjoyed working on this project. It's amazing what JavaScript can do for a website and how a sketchy web platform can sell your data. Who in the world would do such a thing?!
+
+  ### Time spent working
+  * 2.3 hrs
+</details>
+
+<details>
+  <summary>Day 190: Nov 25, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
