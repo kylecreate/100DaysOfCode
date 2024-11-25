@@ -1739,7 +1739,7 @@
 
   ### Today's Progress:
   * I continued working on the Essential JavaScript Concepts module (21% complete) of the Frontend Mentor Frontend Dev path (36% complete) from Scrimba.
-    * I continued working on The World's Most Annoying Cookie Consent (100% complete).
+    * I continued and completed working on The World's Most Annoying Cookie Consent (100% complete).
 
   ### Link to work:
   * [Annoying Cookie Consent](https://github.com/kylecreate/Scrimba-Projects/tree/main/JavaScript/Cookie-Consent)
@@ -1756,6 +1756,26 @@
 
 <details>
   <summary>Day 190: Nov 25, 2024</summary>
+
+  ### Today's Progress:
+  * I continued working on the Essential JavaScript Concepts module (28% complete) of the Frontend Mentor Frontend Dev path (37% complete) from Scrimba.
+    * I started working on Pumpkin's Purrfect Meme Picker module (32% complete).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the for...of loop and the .includes() method.
+
+  ### Thoughts:
+  * I may not have gotten very far today, but I was confused about how the for...of loop works. My goal for tomorrow is to find some sort of article/video that I can learn from to get a better understanding.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 191: Nov 25, 2024</summary>
 
   ### Today's Progress:
   *
