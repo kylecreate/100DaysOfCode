@@ -1778,6 +1778,29 @@
   <summary>Day 191: Nov 25, 2024</summary>
 
   ### Today's Progress:
+  * I took a break today from Scrimba's Frontend Path course and decided to dive deeper into for...of loops to get a better understanding.
+    * I read the [for...of MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of).
+    * I watched a video from Dev Dreamer on YouTube to learn more about for...of loops.
+    * I watched Jonas Schmedtmann's video on his JS uDemy course about for...of loops.
+    * I used ChatGPT to create prompt of a teacher to teach me more about for...of loops, which got increasingly harder for some reason as time went on.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * The for...of loop
+
+  ### Thoughts:
+  * After doing this deep dive, I definitely have a better idea of how the loop works now.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 192: Nov 26, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
