@@ -1775,7 +1775,7 @@
 </details>
 
 <details>
-  <summary>Day 191: Nov 25, 2024</summary>
+  <summary>Day 191: Nov 26, 2024</summary>
 
   ### Today's Progress:
   * I took a break today from Scrimba's Frontend Path course and decided to dive deeper into for...of loops to get a better understanding.
@@ -1798,7 +1798,27 @@
 </details>
 
 <details>
-  <summary>Day 192: Nov 26, 2024</summary>
+  <summary>Day 192: Dec 2, 2024</summary>
+
+  ### Today's Progress:
+  * I continued working on the Essential JavaScript Concepts module (45% complete) of the Frontend Mentor Frontend Dev path (39% complete) from Scrimba.
+    * I continued working on and completed Pumpkin's Purrfect Meme Picker module (100% complete).
+
+  ### Link to work:
+  * [Pumpkin's Purrfect Meme Picker](https://github.com/kylecreate/Scrimba-Projects/tree/main/JavaScript/Meme-Picker)
+
+  ### New thing(s) learned:
+  * I learned how to remove duplicates within an array to display on a page, e.target(), .filter(), .add(), .remove(), .includes(), .filter(), and the HTML select element.
+
+  ### Thoughts:
+  * I decided to take some time off because of Thanksgiving here in America. While it was nice to get away and take a break, it's even better coming back to learn. I'm looking forward to starting up the next project!
+
+  ### Time spent working
+  * 2.6 hrs
+</details>
+
+<details>
+  <summary>Day 193: Dec 3, 2024</summary>
 
   ### Today's Progress:
   *
