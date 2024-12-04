@@ -1831,7 +1831,7 @@
   * I learned about how to create and handle a textarea tag, how to remove the ability for a user to resize the textarea, forEach(), and how to use FontAwesome.
 
   ### Thoughts:
-  * This project is actually very fun. I may do something similair in the future with a BlueSky clone.
+  * This project is actually very fun. I may do something similar in the future with a Bluesky clone.
 
   ### Time spent working
   * 1.3 hrs
@@ -1839,6 +1839,26 @@
 
 <details>
   <summary>Day 194: Dec 4, 2024</summary>
+
+  ### Today's Progress:
+  * I continued working on the Essential JavaScript Concepts module (59% complete) of the Frontend Mentor Frontend Dev path (41% complete) from Scrimba.
+    * I continued working on the Twitter Clone module (61% complete).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about storing more information in HTML elements within certain HTML elements along with incrementing or decrementing certain parts of information.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1 hr
+</details>
+
+<details>
+  <summary>Day 195: Dec 5, 2024</summary>
 
   ### Today's Progress:
   *
