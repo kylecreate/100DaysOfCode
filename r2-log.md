@@ -1861,6 +1861,27 @@
   <summary>Day 195: Dec 5, 2024</summary>
 
   ### Today's Progress:
+  * I continued working on the Essential JavaScript Concepts module (72% complete) of the Frontend Mentor Frontend Dev path (42% complete) from Scrimba.
+    * I continued and completed working on the Twitter Clone module (100% complete).
+    * I started working on the JS Mini Projects section (14% complete).
+
+  ### Link to work:
+  * [Twimba (Scrimba Twitter Clone)](https://github.com/kylecreate/Scrimba-Projects/tree/main/JavaScript/Twitter-Clone)
+
+  ### New thing(s) learned:
+  * I learned about how to conditionally render CSS classes for an item depending on what event happens, what and how a UUID works, object destructuring, the .map() method, and the .join() method.
+
+  ### Thoughts:
+  * I enjoyed working on the Twitter clone project, that looks like a fun project for the future. The Mini-challenge projects I've done so far have been fun as well.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 196: Dec 6, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
