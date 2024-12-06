@@ -1882,6 +1882,26 @@
   <summary>Day 196: Dec 6, 2024</summary>
 
   ### Today's Progress:
+  * I continued working on the Essential JavaScript Concepts module (85% complete) of the Frontend Mentor Frontend Dev path (44% complete) from Scrimba.
+    * I started working on the JS Mini Projects section (52% complete).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about when and where to use the .map() method and .forEach() method, the dangers of using innerHTML, function expressions, arrow functions, a deeper dive of import and export, .reduce() method, and the ternary operator.
+
+  ### Thoughts:
+  * While working on the Super Challenge, for some reason I kept getting an error that after looking up and finding a solution didn't make sense to me. It's amazing what a './' can do...
+
+  ### Time spent working
+  * 2.25 hrs
+</details>
+
+<details>
+  <summary>Day 197: Dec 9, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
