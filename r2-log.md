@@ -1883,10 +1883,10 @@
 
   ### Today's Progress:
   * I continued working on the Essential JavaScript Concepts module (85% complete) of the Frontend Mentor Frontend Dev path (44% complete) from Scrimba.
-    * I started working on the JS Mini Projects section (52% complete).
+    * I continued working on the JS Mini Projects section (52% complete).
 
   ### Link to work:
-  * None
+  * [Mini JS Projects](https://github.com/kylecreate/Scrimba-Projects/tree/main/JavaScript/Mini-Projects)
 
   ### New thing(s) learned:
   * I learned more about when and where to use the .map() method and .forEach() method, the dangers of using innerHTML, function expressions, arrow functions, a deeper dive of import and export, .reduce() method, and the ternary operator.
@@ -1900,6 +1900,27 @@
 
 <details>
   <summary>Day 197: Dec 9, 2024</summary>
+
+  ### Today's Progress:
+  * I continued working on the Essential JavaScript Concepts module (99% complete) of the Frontend Mentor Frontend Dev path (46% complete) from Scrimba.
+    * I continued working on the JS Mini Projects section (96% complete).
+      * I started working on the Resturant Ordering App mini-project
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the Rest parameter, the spread operator, how to short-circut with logical AND/OR, switch statements, the date() and error() constructors, and using the .this keyword.
+
+  ### Thoughts:
+  * Slowly but surely getting to the end of another 100 days completed. I'm looking forward to completeing this project and then planning what I'd like to do for my next 100 days. I see a lot of projects and learning more about JavaScript in those days...
+
+  ### Time spent working
+  * 3 hrs
+</details>
+
+<details>
+  <summary>Day 198: Dec 10, 2024</summary>
 
   ### Today's Progress:
   *
