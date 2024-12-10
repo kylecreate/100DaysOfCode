@@ -1904,16 +1904,16 @@
   ### Today's Progress:
   * I continued working on the Essential JavaScript Concepts module (99% complete) of the Frontend Mentor Frontend Dev path (46% complete) from Scrimba.
     * I continued working on the JS Mini Projects section (96% complete).
-      * I started working on the Resturant Ordering App mini-project
+      * I started working on the Restaurant Ordering App mini-project
 
   ### Link to work:
   * None
 
   ### New thing(s) learned:
-  * I learned about the Rest parameter, the spread operator, how to short-circut with logical AND/OR, switch statements, the date() and error() constructors, and using the .this keyword.
+  * I learned about the Rest parameter, the spread operator, how to short-circuit with logical AND/OR, switch statements, the date() and error() constructors, and using the .this keyword.
 
   ### Thoughts:
-  * Slowly but surely getting to the end of another 100 days completed. I'm looking forward to completeing this project and then planning what I'd like to do for my next 100 days. I see a lot of projects and learning more about JavaScript in those days...
+  * Slowly but surely getting to the end of another 100 days completed. I'm looking forward to completing this project and then planning what I'd like to do for my next 100 days. I see a lot of projects and learning more about JavaScript in those days...
 
   ### Time spent working
   * 3 hrs
@@ -1921,6 +1921,47 @@
 
 <details>
   <summary>Day 198: Dec 10, 2024</summary>
+
+  ### Today's Progress:
+  * I completed working on the Essential JavaScript Concepts module (100% complete) and started the Responsive Design module (4% complete) of the Frontend Mentor Frontend Dev path (46% complete) from Scrimba.
+    * I continued working on the JS Mini Projects section (100% complete).
+      * I contiuned working on and completed the Restaurant Ordering App mini-project.
+    * I started working on building a responsive site section (9% complete).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * After completeing the project from yesterday and today, I decided to not work too much today. Instead, I wanted to get my ideas and goals in order for my next 100 days of code using Notion.
+
+  ### Time spent working
+  * 1.35 hrs
+</details>
+
+<details>
+  <summary>Day 199: Dec 11, 2024</summary>
+
+  ### Today's Progress:
+  *
+
+  ### Link to work:
+  *
+
+  ### New thing(s) learned:
+  *
+
+  ### Thoughts:
+  *
+
+  ### Time spent working
+  *
+</details>
+
+<details>
+  <summary>Day 200: Dec 12, 2024 🎉</summary>
 
   ### Today's Progress:
   *
