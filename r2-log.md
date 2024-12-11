@@ -1925,8 +1925,8 @@
   ### Today's Progress:
   * I completed working on the Essential JavaScript Concepts module (100% complete) and started the Responsive Design module (4% complete) of the Frontend Mentor Frontend Dev path (46% complete) from Scrimba.
     * I continued working on the JS Mini Projects section (100% complete).
-      * I contiuned working on and completed the Restaurant Ordering App mini-project.
-    * I started working on building a responsive site section (9% complete).
+      * I continued working on and completed the Restaurant Ordering App mini-project.
+    * I started working on Building a Responsive Site section (9% complete).
 
   ### Link to work:
   * None
@@ -1935,7 +1935,7 @@
   * None
 
   ### Thoughts:
-  * After completeing the project from yesterday and today, I decided to not work too much today. Instead, I wanted to get my ideas and goals in order for my next 100 days of code using Notion.
+  * After completing the project from yesterday and today, I decided to not work too much today. Instead, I wanted to get my ideas and goals in order for my next 100 days of code using Notion.
 
   ### Time spent working
   * 1.35 hrs
@@ -1945,19 +1945,20 @@
   <summary>Day 199: Dec 11, 2024</summary>
 
   ### Today's Progress:
-  *
+  * I continued working on the Responsive Design module (22% complete) of the Frontend Mentor Frontend Dev path (47% complete) from Scrimba.
+    * I continued working on Building a Responsive Site section (52% complete).
 
   ### Link to work:
-  *
+  * None
 
   ### New thing(s) learned:
-  *
+  * I learned more about when and where to use relative units and percentages in CSS and Media Queries.
 
   ### Thoughts:
-  *
+  * I'm enjoying learning more about CSS as always. However, I do wish this module was put before the JavaScript modules.
 
   ### Time spent working
-  *
+  * 1.25 hrs
 </details>
 
 <details>
