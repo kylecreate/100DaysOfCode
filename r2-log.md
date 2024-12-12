@@ -1965,17 +1965,19 @@
   <summary>Day 200: Dec 12, 2024 🎉</summary>
 
   ### Today's Progress:
-  *
+  * I continued working on the Responsive Design module (64% complete) of the Frontend Mentor Frontend Dev path (50% complete) from Scrimba.
+    * I continued and working on completed on Building a Responsive Site section (100% complete).
+    * I started working on the Building a Product Splash Page section (73% complete).
 
   ### Link to work:
-  *
+  * None
 
   ### New thing(s) learned:
-  *
+  * I learned more about putting mobile users first before working on Desktop/Tablet users, the different sizes that are used for Media Query breakpoints, how to create a responsive navigation menu, and what the viewport meta tag does for mobile browsers.
 
   ### Thoughts:
-  *
+  * I've actually learned a lot more today than I thought I would and got a lot farther than I did. During the next few days, I'm going to take some time and find out what else I want to do using Notion to create my list and fix up my 100DaysOfCode repo. Here's to starting the next 100 days!
 
   ### Time spent working
-  *
+  * 2.6 hrs
 </details>
