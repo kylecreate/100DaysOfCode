@@ -11,8 +11,9 @@ I started in late-2023, but found that my path wasn't very successful. So, I res
 | 1 | Jan 2, 2024 | May 31, 2024| 151.97 hrs |
 | 2<sup><a href="#foot-1">1</a></sup> | Jun 10, 2024 | Dec 12, 2024 | 170.78 hrs |
 | 3 | Dec 16, 2024 | -------- | -------- |
+| Total | | | 322.75 hrs |
 
-[Daily Log R1](https://github.com/kylecreate/100DaysOfCode/blob/main/r1-log.md) | [Daily Log R2](https://github.com/kylecreate/100DaysOfCode/blob/main/r2-log.md) | [Personal Resources](https://github.com/kylecreate/100DaysOfCode/blob/main/resources.md)
+[Daily Log R1](https://github.com/kylecreate/100DaysOfCode/blob/main/logs/r1-log.md) | [Daily Log R2](https://github.com/kylecreate/100DaysOfCode/blob/main/logs/r2-log.md) | [Daily Log R3](https://github.com/kylecreate/100DaysOfCode/blob/main/logs/r3-log.md) | [Personal Resources](https://github.com/kylecreate/100DaysOfCode/blob/main/resources.md)
 
 ## Goals
 - Make it a habit of coding during the week and learning something new
