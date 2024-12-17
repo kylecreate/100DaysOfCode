@@ -24,6 +24,26 @@
   <summary>Day 302: Dec 17, 2024</summary>
 
   ### Today's Progress:
+  * I continued working on the Responsive Design module (XX% complete) of the Frontend Mentor Frontend Dev path (XX% complete) from Scrimba.
+    * I started really working on the Learning Journal solo project.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I took the time to rename every layer/group in the Penpot file (ported the Project's Figma file) and moved different layers around that would make sense to me. From there, I wrote out my CSS Reset and custom properties that I believe the project would need. Afterwards, I wrote out my templates with random text to get an idea for what I was doing. I'm enjoying the project so far, I'm excited to see what I can do with it!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 303: Dec 18, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
