@@ -24,7 +24,7 @@
   <summary>Day 302: Dec 17, 2024</summary>
 
   ### Today's Progress:
-  * I continued working on the Responsive Design module (XX% complete) of the Frontend Mentor Frontend Dev path (XX% complete) from Scrimba.
+  * I continued working on the Responsive Design module (96% complete) of the Frontend Mentor Frontend Dev path (52% complete) from Scrimba.
     * I started really working on the Learning Journal solo project.
 
   ### Link to work:
@@ -42,6 +42,26 @@
 
 <details>
   <summary>Day 303: Dec 18, 2024</summary>
+
+  ### Today's Progress:
+  * I continued working on the Responsive Design module (96% complete) of the Frontend Mentor Frontend Dev path (52% complete) from Scrimba.
+    * I continued working on the Learning Journal solo project.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I competed the Heading/Navigation section along with the Hero section. With this project, I'm really going slow and taking my time to make sure everything looks good and I understand what I'm doing.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 304: Dec 19, 2024</summary>
 
   ### Today's Progress:
   *
