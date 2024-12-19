@@ -64,6 +64,25 @@
   <summary>Day 304: Dec 19, 2024</summary>
 
   ### Today's Progress:
+  * I continued working on the Learning Journal solo project.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I was working on the project when Penpot decided to continously crash while trying to work on the Hero section of the Home page. I decided to stop working for the day since it's a problem posted in their GitHub.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 305: Dec 20, 2024</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
