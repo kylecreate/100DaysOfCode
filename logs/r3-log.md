@@ -64,7 +64,7 @@
   <summary>Day 304: Dec 19, 2024</summary>
 
   ### Today's Progress:
-  * I continued working on the Learning Journal solo project.
+  * I continued working on the Learning Journal solo project from Scrimba's Frontend Developer Path.
 
   ### Link to work:
   * None
@@ -81,6 +81,25 @@
 
 <details>
   <summary>Day 305: Dec 20, 2024</summary>
+
+  ### Today's Progress:
+  * I continued working on the Learning Journal solo project from Scrimba's Frontend Developer Path.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Penpot was finally working today after they fixed the bug or it just went away. I decided to use Figma for a little bit to see if that would work, and thankfully it did. I completed the Home page and part of the Blog/About page which I'll continue next week.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 306: Dec 23, 2024</summary>
 
   ### Today's Progress:
   *
