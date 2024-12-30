@@ -99,7 +99,29 @@
 </details>
 
 <details>
-  <summary>Day 306: Dec 23, 2024</summary>
+  <summary>Day 306: Dec 30, 2024</summary>
+
+  ### Today's Progress:
+  * I completed working on the Responsive Design module (100% complete) of the Frontend Mentor Frontend Dev path (52% complete) from Scrimba.
+    * I completed working on the Learning Journal solo project from Scrimba's Frontend Developer Path.
+  * I went back to reading Chris Minnick's book (Coding for Dummies) to read Book 2 (Basic Web Coding) Ch.6 (Styling with Bootstrap CSS).
+    * Finished reading Ch.6 and finished taking notes on the chapter.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned how to use Bootstrap CSS along with the basic uses of it.
+
+  ### Thoughts:
+  * I've completed working on the Learning Journal project from Scrimba. After taking a look at what to do next on my to-do list, I decided to finish my reading. That will be my goal for a while. It was nice to take some time for the holidays to recharge!
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 307: Dec 31, 2024</summary>
 
   ### Today's Progress:
   *
