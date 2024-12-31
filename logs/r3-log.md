@@ -124,6 +124,26 @@
   <summary>Day 307: Dec 31, 2024</summary>
 
   ### Today's Progress:
+  * I went back to reading Chris Minnick's book (Coding for Dummies) to read Book 3 (Advanced Web Coding) Ch.2 (Writing your First JavaScript Program).
+    * Finished reading Ch.2 and finished taking notes on the chapter.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about other code editors I haven't heard of before and more event attributes that can be used within HTML.
+
+  ### Thoughts:
+  * I should've read these chapters earlier, but I didn't feel like I needed to since I understood them, or so I thought. Going back to reading these has been good to help me understand more about JavaScript.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 308: Jan 1, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
