@@ -125,7 +125,7 @@
 
   ### Today's Progress:
   * I went back to reading Chris Minnick's book (Coding for Dummies) to read Book 3 (Advanced Web Coding) Ch.2 (Writing your First JavaScript Program).
-    * Finished reading Ch.2 and finished taking notes on the chapter.
+    * Finished reading Ch.2 and started taking notes on the chapter.
 
   ### Link to work:
   * None
@@ -141,7 +141,26 @@
 </details>
 
 <details>
-  <summary>Day 308: Jan 1, 2025</summary>
+  <summary>Day 308: Jan 6, 2025</summary>
+
+  ### Today's Progress:
+  * I finished taking notes on Ch.2, completed reading Chapter 9 (Controlling the Browser with the Window Object), and started taking notes from Chris Minnick's book (Coding for Dummies).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the basics of the Browser Object Model and how it works.
+
+  ### Thoughts:
+  * This was a very interesting chapter that I didn't give much thought to. But, after reading it everything makes sense. Also, I took some time off during the week of New Years to relax and take a quick break before jumping back in.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 309: Jan 7, 2025</summary>
 
   ### Today's Progress:
   *
