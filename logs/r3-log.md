@@ -163,6 +163,25 @@
   <summary>Day 309: Jan 7, 2025</summary>
 
   ### Today's Progress:
+  * I finished taking notes on Chapter 9 (Controlling the Browser with the Window Object) from Chris Minnick's book (Coding for Dummies).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about the basics of the Window object within JavaScript.
+
+  ### Thoughts:
+  * I never understood how different websites/applications could show you the location of where you are or what browser you're using. But now, I see how easy it is to show that information.
+
+  ### Time spent working
+  * 1.2 hrs
+</details>
+
+<details>
+  <summary>Day 310: Jan 8, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
