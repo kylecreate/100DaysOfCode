@@ -182,6 +182,25 @@
   <summary>Day 310: Jan 8, 2025</summary>
 
   ### Today's Progress:
+  * Continued reading Chris Minnick's book (Coding for Dummies) in Book 3 Ch.11 (Using Events in JavaScript) and started taking notes.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the basics of events within JavaScript and a few different ways to use them.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1 hr
+</details>
+
+<details>
+  <summary>Day 311: Jan 9, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
