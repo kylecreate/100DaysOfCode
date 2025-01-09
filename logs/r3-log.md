@@ -201,6 +201,26 @@
   <summary>Day 311: Jan 9, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on and finished taking notes for Book 3 Ch.11 (Using Events in JavaScript) and finished taking notes.
+  * Started reading Book 3 Ch.12 (Integrating Input and Output) and finished taking notes.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned more about how form elements work and how to make sure no bad actors mess with your webpage within the form.
+
+  ### Thoughts:
+  * Forms may look easy at first, but then you realize that someone could mess with your website which isn't very cool. Why do people have to ruin nice things?!
+
+  ### Time spent working
+  * 2.16 hrs
+</details>
+
+<details>
+  <summary>Day 312: Jan 10, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
