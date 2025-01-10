@@ -221,6 +221,25 @@
   <summary>Day 312: Jan 10, 2025</summary>
 
   ### Today's Progress:
+  * Started and finished reading Book 3 Ch.13 (Understanding Callbacks and Closures) and finished taking notes.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the basics of using functions within functions.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.1 hrs
+</details>
+
+<details>
+  <summary>Day 313: Jan 13, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
