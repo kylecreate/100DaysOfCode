@@ -240,6 +240,25 @@
   <summary>Day 313: Jan 13, 2025</summary>
 
   ### Today's Progress:
+  * Started and finished reading Book 3 Ch.14 (Embracing AJAX and JSON) and finished taking notes.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the basics of working with AJAX and JSON to move information to a JavaScript file and place it into a HTML file.
+
+  ### Thoughts:
+  * I can see how this would be helpful depending on the project you're working on. I'm always unsure of when I'll use it, but with the future you just never know.
+
+  ### Time spent working
+  * 1.3 hrs
+</details>
+
+<details>
+  <summary>Day 314: Jan 14, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
