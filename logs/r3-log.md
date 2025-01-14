@@ -259,6 +259,25 @@
   <summary>Day 314: Jan 14, 2025</summary>
 
   ### Today's Progress:
+  * I went back into my Notion checklist and started to plan out what projects I wanted to complete hopefully during this 100 days. My goal is to follow the learning paths of Frontend Mentor and do the projects from Roadmap.sh.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm glad I have all this written out so I can get a better idea of what I'm doing. Also, I'm going to upload my notes from Coding for Dummies sometime soon when I get a chance.
+
+  ### Time spent working
+  * 1.1 hrs
+</details>
+
+<details>
+  <summary>Day 315: Jan 15, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
