@@ -1,7 +1,9 @@
 ---
 tags:
-  - WebDev
-  - ReadingNotes
+    - learning-notes
+    - code-for-dummies
+    - JavaScript
+obsidianUIMode: preview
 ---
 _“People understand me so poorly that they don’t even understand my complaint about them not understanding me.” —_ Søren Kierkegaard
 

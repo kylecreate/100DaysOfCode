@@ -1,6 +1,7 @@
 ---
-obsidianUIMode: 
 tags:
-  - ReadingNotes
-  - WebDev
+    - learning-notes
+    - code-for-dummies
+    - Career
+obsidianUIMode: preview
 ---

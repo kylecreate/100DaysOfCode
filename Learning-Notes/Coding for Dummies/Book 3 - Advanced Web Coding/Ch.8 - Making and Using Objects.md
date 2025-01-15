@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+    - learning-notes
+    - code-for-dummies
+    - JavaScript
+obsidianUIMode: preview
 ---
 > “We cannot do anything with an object that has no name.”
 > — Maurice Blanchot, “Literature and the Right To Death”

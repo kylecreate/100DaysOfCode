@@ -1,9 +1,10 @@
 ---
 tags:
-  - WebDev
-  - ReadingNotes
+    - learning-notes
+    - code-for-dummies
+    - JavaScript
+obsidianUIMode: preview
 ---
-
 > “Beauty is variable, ugliness is constant.”
 > — Douglas Horton (1981 - 1968)
 

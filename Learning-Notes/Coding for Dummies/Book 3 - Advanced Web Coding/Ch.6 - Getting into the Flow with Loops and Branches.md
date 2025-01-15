@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+    - learning-notes
+    - code-for-dummies
+    - JavaScript
+obsidianUIMode: preview
 ---
 > "It's not hard to make decisions when you know what your values are."
 > — Roy Disney

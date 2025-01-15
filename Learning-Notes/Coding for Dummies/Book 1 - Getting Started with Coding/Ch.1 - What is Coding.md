@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+    - learning-notes
+	- code-for-dummies-book-1
+	- HTML
+obsidianUIMode: preview
 ---
 ## Defining what code is
 * Computer code is not a cryptic activity reserved for geniuses and oracles. Code runs traffic lights, computers, cell phones, and even space ships headed for outer space.

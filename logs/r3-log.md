@@ -278,6 +278,28 @@
   <summary>Day 315: Jan 15, 2025</summary>
 
   ### Today's Progress:
+  * I uploaded my notes from my reading of JavaScript chapters from Chris Minnick's book (Coding for Dummies).
+    * I also updated the tags for each page of notes since I updated them as well in Obsidian.
+  * I uploaded the folders needed for notes for Chris Minnick's book (JavaScript for Dummies).
+  * Fixed up README and resources files.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Today was a organization kind of day which is nice to do every once in a while. Tomorrow, I'm going to get started on projects.
+
+  ### Time spent working
+  * 1 hr
+</details>
+
+<details>
+  <summary>Day 316: Jan 16, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:

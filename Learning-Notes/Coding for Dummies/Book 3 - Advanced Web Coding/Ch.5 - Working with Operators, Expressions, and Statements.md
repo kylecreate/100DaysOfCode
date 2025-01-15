@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+    - learning-notes
+    - code-for-dummies
+    - JavaScript
+obsidianUIMode: preview
 ---
 > "Hello Operator. Can you give me number 9?"
 > — The White Stripes

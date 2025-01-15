@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+    - learning-notes
+	- code-for-dummies-book-1
+	- HTML
+obsidianUIMode: preview
 ---
 ## Displaying Web Pages on Your Desktop and Mobile Device
 * On desktop computers and mobile devices, web pages are displayed by applications called <u>browsers</u>.

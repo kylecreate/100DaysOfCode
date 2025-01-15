@@ -21,7 +21,8 @@ I started in late-2023, but found that my path wasn't very successful. So, I res
 - Create and add real world projects to use in my personal portfolio
 - Complete Scrimba's Frontend Developer Career Path course
 - Complete the [FCC JavaScript Algorithm and Data Structures Certificate](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) certification
-- Complete reading of [Coding All-In-One for Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/coding/coding-all-in-one-for-dummies-281666/) and [JavaScript All-in-One For Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/javascript/javascript-all-in-one-for-dummies-298232/)
+- Complete reading of [Coding All-In-One for Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/coding/coding-all-in-one-for-dummies-281666/)
+- Complete reading of [JavaScript All-in-One For Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/javascript/javascript-all-in-one-for-dummies-298232/)
 
 <details>
     <summary>Completed Goals</summary>

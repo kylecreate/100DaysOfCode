@@ -1,6 +1,0 @@
----
-obsidianUIMode: 
-tags:
-  - ReadingNotes
-  - WebDev
----

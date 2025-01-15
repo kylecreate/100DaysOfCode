@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+  - learning-notes
+  - code-for-dummies-book-2
+  - CSS
+obsidianUIMode: preview
 ---
 > “Create your own style . . . let it be unique for yourself and yet identifiable
 > for others.” — Anna Wintour

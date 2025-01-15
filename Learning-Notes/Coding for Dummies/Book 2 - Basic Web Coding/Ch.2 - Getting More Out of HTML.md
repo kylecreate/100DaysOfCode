@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+  - learning-notes
+  - code-for-dummies-book-2
+  - CSS
+obsidianUIMode: preview
 ---
 > I'm controlling, and I want everything orderly, and I need lists.
 > — Sandra Bullock

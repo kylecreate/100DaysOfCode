@@ -1,7 +1,9 @@
 ---
 tags:
-  - WebDev
-  - ReadingNotes
+    - learning-notes
+    - code-for-dummies
+    - JavaScript
+obsidianUIMode: preview
 ---
 > *"I am large. I contain multitudes."*
 > *- Walt Whitman*

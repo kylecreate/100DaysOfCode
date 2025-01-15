@@ -11,7 +11,7 @@ I created my learning path using [roadmap.sh](https://roadmap.sh/) and took sugg
 </details>
 
 ## Programs Using
-* [Floorp (*Firefox Fork*)](https://floorp.app/en) | [Google Chrome](https://www.google.com/chrome/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/) | [Google Chrome](https://www.google.com/chrome/)
 * [Frontend Roadmap](https://roadmap.sh/frontend) | [JavaScript Roadmap](https://roadmap.sh/javascript) | [ReactJS Roadmap](https://roadmap.sh/react)
 * [Obsidian](https://obsidian.md) - Note taking
 * [Penpot (FOSS)](https://penpot.app/) - Alternative to Figma

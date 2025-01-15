@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+  - learning-notes
+  - code-for-dummies-book-2
+  - CSS
+obsidianUIMode: preview
 ---
 > “The measure of intelligence is the ability to change.”
 > — Albert Einstein

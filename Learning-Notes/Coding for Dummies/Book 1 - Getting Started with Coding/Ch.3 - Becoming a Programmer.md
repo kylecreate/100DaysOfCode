@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+    - learning-notes
+	- code-for-dummies-book-1
+	- HTML
+obsidianUIMode: preview
 ---
 Programming is a skill that can be learned by anyone.
 

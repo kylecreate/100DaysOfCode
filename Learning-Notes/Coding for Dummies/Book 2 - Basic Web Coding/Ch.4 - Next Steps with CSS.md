@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+  - learning-notes
+  - code-for-dummies-book-2
+  - CSS
+obsidianUIMode: preview
 ---
 > "Design is not just what it looks like and feels like. Design is how it works.”
 > — Steve Jobs

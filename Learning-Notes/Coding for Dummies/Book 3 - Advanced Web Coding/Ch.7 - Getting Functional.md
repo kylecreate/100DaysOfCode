@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+    - learning-notes
+    - code-for-dummies
+    - JavaScript
+obsidianUIMode: preview
 ---
 > *"I write as a function. Without it I would fall ill and die. It’s much a part of one*
 *as the liver or intestine, and just about as glamorous."*

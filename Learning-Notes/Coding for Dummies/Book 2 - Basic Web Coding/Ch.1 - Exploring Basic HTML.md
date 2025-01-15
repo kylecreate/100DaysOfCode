@@ -1,7 +1,9 @@
 ---
 tags:
-  - ReadingNotes
-  - WebDev
+  - learning-notes
+  - code-for-dummies-book-2
+  - CSS
+obsidianUIMode: preview
 ---
 >“A chain is no stronger than its weakest link, and life is after all a chain.” – William James
 
