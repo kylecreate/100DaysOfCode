@@ -297,7 +297,26 @@
 </details>
 
 <details>
-  <summary>Day 316: Jan 16, 2025</summary>
+  <summary>Day 316: Jan 17, 2025</summary>
+
+  ### Today's Progress:
+  * Worked on and completed MDN's Markup Letter and Planet Table projects.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Instead of using AI to help assist me, I blocked all AI sites and more while working. This really helped a lot!
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 317: Jan 20, 2025</summary>
 
   ### Today's Progress:
   *
