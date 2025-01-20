@@ -300,7 +300,7 @@
   <summary>Day 316: Jan 17, 2025</summary>
 
   ### Today's Progress:
-  * Worked on and completed MDN's Markup Letter and Planet Table projects.
+  * I worked on and completed MDN's Markup Letter and Planet Table projects.
 
   ### Link to work:
   * None
@@ -317,6 +317,26 @@
 
 <details>
   <summary>Day 317: Jan 20, 2025</summary>
+
+  ### Today's Progress:
+  * For my notes, I created a Code Snippet for a responsive navigation bar using HTML and CSS.
+  * I started working on and completed the MDN project of structuring content within a web page.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * For the future, I'm going to make one big repo on my Github of all my projects since it's nice to have everything I've made in one spot rather than multiple repos. I'm enjoying working on these projects though and learning a lot!
+
+  ### Time spent working
+  * 1.75 hrs
+</details>
+
+<details>
+  <summary>Day 317: Jan 21, 2025</summary>
 
   ### Today's Progress:
   *
