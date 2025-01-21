@@ -329,7 +329,7 @@
   * None
 
   ### Thoughts:
-  * For the future, I'm going to make one big repo on my Github of all my projects since it's nice to have everything I've made in one spot rather than multiple repos. I'm enjoying working on these projects though and learning a lot!
+  * For the future, I'm going to make one big repo on my GitHub of all my projects since it's nice to have everything I've made in one spot rather than multiple repos. I'm enjoying working on these projects though and learning a lot!
 
   ### Time spent working
   * 1.75 hrs
@@ -337,6 +337,25 @@
 
 <details>
   <summary>Day 317: Jan 21, 2025</summary>
+
+  ### Today's Progress:
+  * I started working on and completed the Frontend Mentor project of the Blog Preview Component.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I still plan on putting everything in a repo so I can show off my work I've done. After working on this project, I'm actually proud of myself and happy for not cheating and actually doing this project. Here's to more of that feeling in the future!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 318: Jan 22, 2025</summary>
 
   ### Today's Progress:
   *
