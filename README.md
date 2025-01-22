@@ -33,14 +33,6 @@ I started in late-2023, but found that my path wasn't very successful. So, I res
 </details>
 
 ## Projects
-| No.  |  Project Title  |  Completed On | Languages Used
-| :------------: | ------------ | :------------: | :------------: |
-| 1 | [Little Taco Shop](https://github.com/kylecreate/LTS) | 1/9/24 | HTML |
-| 2 | [Tables of Planets](https://github.com/kylecreate/TableOfPlanets) | 1/10/24 | HTML |
-| 3 | [Markup Letter](https://github.com/kylecreate/MarkupLetter) | 1/11/24 | HTML |
-| 4 | [FCC Certification Projects](https://github.com/kylecreate/FCC-Projects) | 1/22/24 | HTML/CSS |
-| 5 | [Scrimba Projects](https://github.com/kylecreate/Scrimba-Projects) | 2024 | HTML/CSS |
-| 6 | [Frontend Mentor Projects](https://github.com/kylecreate/FrontendMentor-Projects) | 2024 | HTML/CSS |
-| 7 | | | |
+[Visit my Personal Projects Repo on GitHub](https://github.com/kylecreate/PersonalProjects)
 
 <p id="foot-1" style="font-size: 8px"><sup>1</sup> I would've finished this round sooner if Hurricane Helene/Milton didn't come through Florida in Sept/Oct 2024.</p>

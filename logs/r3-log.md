@@ -336,7 +336,7 @@
 </details>
 
 <details>
-  <summary>Day 317: Jan 21, 2025</summary>
+  <summary>Day 318: Jan 21, 2025</summary>
 
   ### Today's Progress:
   * I started working on and completed the Frontend Mentor project of the Blog Preview Component.
@@ -355,7 +355,27 @@
 </details>
 
 <details>
-  <summary>Day 318: Jan 22, 2025</summary>
+  <summary>Day 319: Jan 22, 2025</summary>
+
+  ### Today's Progress:
+  * I started working on and completed the Roadmap.sh Beginner project of creating a single-page CV with no CSS.
+  * I created my Repo to store all my projects in one place. This taught me a bit of how GitHub works.
+
+  ### Link to work:
+  * [Single Page CV - Roadmap.sh Project](https://github.com/kylecreate/PersonalProjects/tree/main/Roadmap-Projects/Beginner/Single-Page-CV)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm happy to have finally made my huge repo of projects. Now I have some place to store them! Looking forward to filling this up.
+
+  ### Time spent working
+  * 1 hrs
+</details>
+
+<details>
+  <summary>Day 320: Jan 23, 2025</summary>
 
   ### Today's Progress:
   *
