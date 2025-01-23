@@ -378,6 +378,25 @@
   <summary>Day 320: Jan 23, 2025</summary>
 
   ### Today's Progress:
+  * I started working on the freeCodeCamp certification project for Responsive Web Design (Survey Form) by writing out the HTML and basic CSS to get it started.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I remembered how to create forms and the basics of them.
+
+  ### Thoughts:
+  * This project is coming out nicely!
+
+  ### Time spent working
+  * 1.7 hrs
+</details>
+
+<details>
+  <summary>Day 321: Jan 24, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
