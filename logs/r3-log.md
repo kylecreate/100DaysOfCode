@@ -397,6 +397,28 @@
   <summary>Day 321: Jan 24, 2025</summary>
 
   ### Today's Progress:
+  * Created a code snippet of centering a `div` using both HTML and CSS for my Web Dev Obsidian vault
+  * Continued working on and completed the Survey Form project from freeCodeCamp
+  * Completed working on a Scrimba CSS Challenges, the Spoiler Reveal Challenge and then started on the Colorful Button Challenge
+
+  ### Link to work:
+  * [freeCodeCamp Survey Form Project](https://github.com/kylecreate/PersonalProjects/tree/main/freeCodeCamp-Projects/Responsive-Web/Survey-Form)
+  * [Scrimba CSS Challenge - Spoiler Revealer](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Spoiler-Reveal)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Happy with how I'm working on these projects!
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 322: Jan 27, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
