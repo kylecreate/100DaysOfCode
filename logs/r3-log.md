@@ -419,6 +419,29 @@
   <summary>Day 322: Jan 27, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on and completed the Colorful Button challenge from Scrimba's CSS Challenges
+  * Started and completed working on the Basic HTML Website project from Roadmap.sh.
+  * Started and completed working freeCodeCamp's Responsive Design Tribute site certification project
+
+  ### Link to work:
+  * [Scrimba's Colorful Button](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Colorful-Button)
+  * [Roadmap.sh Basic Site](https://github.com/kylecreate/PersonalProjects/tree/main/Roadmap-Projects/Beginner/Basic-Site)
+  * [freeCodeCamp Tribute Page](https://github.com/kylecreate/PersonalProjects/tree/main/freeCodeCamp-Projects/Responsive-Web/Tribute-Page)
+
+  ### New thing(s) learned:
+  * How to give a button a border on the outside of a button using a div instead of the button itself.
+
+  ### Thoughts:
+  * These projects are just flying by and I'm learning a lot. I think having a large list of projects I can work on is a good way to see my progress and what I can do next.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 323: Jan 28, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
