@@ -442,6 +442,25 @@
   <summary>Day 323: Jan 28, 2025</summary>
 
   ### Today's Progress:
+  * I started watching Kevin Powell's podcast on navigating ADHD as a developer with Chris Ferdinandi and taking notes.
+
+  ### Link to work:
+  * [Navigating ADHD as a developer](https://www.youtube.com/watch?v=epts-KTaK4w)
+
+  ### New thing(s) learned:
+  * How ADHD works, the benefits, and the downsides of having it.
+
+  ### Thoughts:
+  * I've known that I have ADHD, but this just makes a lot more sense now that I've watched this and learned a lot from it. Now I just want to research it more from a developer and personal perspective.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 324: Jan 29, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
