@@ -461,6 +461,27 @@
   <summary>Day 324: Jan 29, 2025</summary>
 
   ### Today's Progress:
+  * Started working on and completed Scrimba's CSS Challenge of the Expanding Search Bar
+  * Started working on and completed Frontend Mentor's Social Links component challenge.
+
+  ### Link to work:
+  * [Scrimba Expanding Search](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Expanding-Search)
+  * [Frontend Mentor Social Links](https://github.com/kylecreate/PersonalProjects/tree/main/FrontendMentor-Projects/Getting-Started/Social-Links)
+
+  ### New thing(s) learned:
+  * I learned how to remove the placeholder text within a search bar when it's active/focused.
+
+  ### Thoughts:
+  * A lot of these projects are getting easier over time as I'm working on them which is good. Each one is a challenge when I start it anyways. Looking forward to working on more!
+
+  ### Time spent working
+  * 1.35 hrs
+</details>
+
+<details>
+  <summary>Day 325: Jan 30, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:

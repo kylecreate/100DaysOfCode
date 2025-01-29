@@ -25,6 +25,9 @@ I created my learning path using [roadmap.sh](https://roadmap.sh/) and took sugg
 * [Coding All-In-One for Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/coding/coding-all-in-one-for-dummies-281666/)
 * [JavaScript All-in-One For Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/javascript/javascript-all-in-one-for-dummies-298232/)
 
+### Other
+* [Kevin Powell w/ Chris Ferdinandi on navigating ADHD in web development -- podcast](https://www.youtube.com/watch?v=epts-KTaK4w)
+
 ### HTML
 * [Dave Gray's Complete HTML Course](https://www.youtube.com/watch?v=mJgBOIoGihA) - <i>YouTube</i>
 * [freeCodeCamp Responsive Web Design (Assignment #1)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
