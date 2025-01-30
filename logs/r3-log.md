@@ -482,6 +482,25 @@
   <summary>Day 325: Jan 30, 2025</summary>
 
   ### Today's Progress:
+  * Started working on the styling of the roadmap.sh project of the Personal Portfolio.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * With this project, I've completed the mobile viewport of the site first before moving onto the desktop viewport. Originally, I started with the desktop viewport, but then removed all my code and went back to mobile.
+
+  ### Time spent working
+  * 2.5 hrs
+</details>
+
+<details>
+  <summary>Day 326: Jan 31, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
