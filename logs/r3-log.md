@@ -501,6 +501,25 @@
   <summary>Day 326: Jan 31, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on the roadmap.sh project of the Personal Portfolio.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I restarted from scratch since I felt like something was off. I took the day re-writing my HTML and CSS to make it look better, hopefully.
+
+  ### Time spent working
+  * 2.5 hrs
+</details>
+
+<details>
+  <summary>Day 327: Feb 3, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
