@@ -520,6 +520,26 @@
   <summary>Day 327: Feb 3, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on the roadmap.sh project of the Personal Portfolio. I'm going to come back to this in the future since there's a lot going on that isn't working.
+  * Started working on and completed the freeCodeCamp Responsive Web Design certification project of the Tech Document.
+
+  ### Link to work:
+  * [freeCodeCamp Tech Doc](https://github.com/kylecreate/PersonalProjects/tree/main/freeCodeCamp-Projects/Responsive-Web/Tech-Doc)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm still having a bit of a hard time with the roadmap.sh project. I may go back for a 3rd time and re-write everything from scratch. Something about this project is confusing, but I'm not going to skip it!
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 328: Feb 4, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
