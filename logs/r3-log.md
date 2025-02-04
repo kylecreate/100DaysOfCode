@@ -540,6 +540,25 @@
   <summary>Day 328: Feb 4, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on the roadmap.sh project of the Personal Portfolio. I went back and started from scratch with my HTML and CSS.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * After starting from scratch for a 3rd time, I'm happy with the mobile viewport. Tomorrow, I'll work on the Desktop viewport.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 329: Feb 5, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
