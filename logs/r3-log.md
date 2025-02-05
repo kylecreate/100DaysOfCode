@@ -559,6 +559,26 @@
   <summary>Day 329: Feb 5, 2025</summary>
 
   ### Today's Progress:
+  * Completed working on the roadmap.sh project of the Personal Portfolio.
+  * Started working on MDN's project of the Mozilla Splash Page.
+
+  ### Link to work:
+  * [Personal Portfolio - roadmap.sh](https://github.com/kylecreate/PersonalProjects/tree/main/Roadmap-Projects/Beginner/Personal-Portfolio)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I finished the roadmap.sh project of the Personal Portfolio, but my only problem was I couldn't get my teacher reviews section to be centered within the page for some reason. I'm happy with how it looks, I just need to figure out the problem with that section.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 330: Feb 6, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
