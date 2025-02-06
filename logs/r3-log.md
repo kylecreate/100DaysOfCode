@@ -579,6 +579,28 @@
   <summary>Day 330: Feb 6, 2025</summary>
 
   ### Today's Progress:
+  * Started working on and completed the MDN project of creating the Mozilla Splash Page.
+  * Started working on and completed the CSS Challenge from Scrimba of the Codepen Tile.
+  * Started working on the Recipe Page project from Frontend Mentor.
+
+  ### Link to work:
+  * [Scrimba CSS Challenge - Codepen Tile](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Codepen-Tile)
+  * [MDN HTML - Mozilla Splash Page](https://github.com/kylecreate/PersonalProjects/tree/main/MDN-Projects/Mozilla-Splash)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * These projects have been very fun so far. It's amazing how much I'm also learning while working on these. For the roadmap.sh project I "finished" yesterday, I may ask for help on that in the future to see what I did wrong.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 331: Feb 7, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
