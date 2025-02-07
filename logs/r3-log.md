@@ -601,6 +601,28 @@
   <summary>Day 331: Feb 7, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on and completed Frontend Mentor's Recipe Page challenge.
+  * Started working on and completed roadmap.sh's project of the Changelog Component.
+  * Started working on the Product Landing Page project from freeCodeCamp.
+
+  ### Link to work:
+  * [Roadmap.sh Changelog Component](https://github.com/kylecreate/PersonalProjects/tree/main/Roadmap-Projects/Beginner/Changelog-Component)
+  * [Frontend Mentor Recipe Page](https://github.com/kylecreate/PersonalProjects/tree/main/FrontendMentor-Projects/Getting-Started/Recipe-Page)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 332: Feb 10, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
