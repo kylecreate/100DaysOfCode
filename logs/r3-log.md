@@ -632,7 +632,7 @@
   * None
 
   ### Thoughts:
-  * I took my time in re-writing and organzing my HTML/CSS better so it's easier to read in general. It came to my attention from peers and family that I should start looking for a job. I have a few things to finish before I start looking. Excited to get all this done and finally have a job!
+  * I took my time in re-writing and organizing my HTML/CSS better so it's easier to read in general. It came to my attention from peers and family that I should start looking for a job. I have a few things to finish before I start looking. Excited to get all this done and finally have a job!
 
   ### Time spent working
   * 2.7 hrs
@@ -640,6 +640,25 @@
 
 <details>
   <summary>Day 333: Feb 11, 2025</summary>
+
+  ### Today's Progress:
+  * Completed working on my personal portfolio website.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * How to link DNS through Netlify to Porkbun.
+
+  ### Thoughts:
+  * I'm just waiting on my website to work with the DNS now.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 334: Feb 12, 2025</summary>
 
   ### Today's Progress:
   *
