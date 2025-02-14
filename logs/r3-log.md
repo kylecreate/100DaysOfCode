@@ -658,7 +658,28 @@
 </details>
 
 <details>
-  <summary>Day 334: Feb 12, 2025</summary>
+  <summary>Day 334: Feb 14, 2025 💘</summary>
+
+  ### Today's Progress:
+  * Fixed a small issue with my Recipe Page project from Frontend Mentor.
+  * Added code snippets to my Web Dev vault in Obsidian of PX to Percentages, Margin/Padding to EM, and Font Sizes in REM for future use.
+  * Started working on Roadmap.sh's Testimonial Cards challenge.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned the many different sizes and use cases for EM, REM, and %'s.
+
+  ### Thoughts:
+  * I'm still gathering things and working on my resume/cover letters. My goal is to use Notion for my job hunting info/links/database while hunting for a job, continue working on projects, and find at least a job to apply to every day.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 335: Feb 17, 2025</summary>
 
   ### Today's Progress:
   *
