@@ -679,7 +679,29 @@
 </details>
 
 <details>
-  <summary>Day 335: Feb 17, 2025</summary>
+  <summary>Day 335: Feb 18, 2025</summary>
+
+  ### Today's Progress:
+  * Started and completed the MDN project of styling a Biography page.
+	* Started and completed the Scrimba CSS Challenge of Loading Animation #1.
+	* Started working on the roadmap.sh project of Testimonial Cards.
+
+  ### Link to work:
+  * [MDN Biography Page](https://github.com/kylecreate/PersonalProjects/tree/main/MDN-Projects/Biography-Page)
+  * [Scrimba CSS Loading Animation #1](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Loading-Animation-1)
+
+  ### New thing(s) learned:
+  * I learned more about CSS loading animations and how to create a simple loading animation.
+
+  ### Thoughts:
+  * Work hard, play hard, learn hard!
+
+  ### Time spent working
+  * 1.35 hrs
+</details>
+
+<details>
+  <summary>Day 336: Feb 19, 2025</summary>
 
   ### Today's Progress:
   *
