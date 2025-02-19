@@ -704,6 +704,25 @@
   <summary>Day 336: Feb 19, 2025</summary>
 
   ### Today's Progress:
+  * Started working on roadmap.sh's Testimonial Cards project and freeCodeCamp's final certification project of the Personal Portfolio.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I started working on the testimonial card project and realized it's a bit tough. Then, I decided to finish off the final fCC project before continuing with the roadmap project. This project seems a bit tough, but in time I'll get it!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 337: Feb 20, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
