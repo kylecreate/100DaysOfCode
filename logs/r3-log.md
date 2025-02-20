@@ -723,6 +723,29 @@
   <summary>Day 337: Feb 20, 2025</summary>
 
   ### Today's Progress:
+  * Continued to work on and completed the final freeCodeCamp Responsive Web Design certification project of the Personal Portfolio page.
+  * Continued to work on and completed the roadmap.sh project of the Testimonial Cards project.
+  * Started working on and completed the MDN project of Styling a Digital Business Card.
+
+  ### Link to work:
+  * [freeCodeCamp Personal Portfolio](https://github.com/kylecreate/PersonalProjects/tree/main/freeCodeCamp-Projects/Responsive-Web/Personal-Portfolio)
+  * [roadmap.sh Testimonial Cards](https://github.com/kylecreate/PersonalProjects/tree/main/Roadmap-Projects/Beginner/Testimonial-Cards)
+  * [MDN Digital Business Card](https://github.com/kylecreate/PersonalProjects/tree/main/MDN-Projects/Digital-Business-Card)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * 3 projects down today, not a bad day! I'm just about at the half way point of completeing the list of Beginner projects in my Notion before moving onto the intermediate projects list. I'm defeitely learning a lot even if some of these are easy to work on.
+
+  ### Time spent working
+  * 2.5 hrs
+</details>
+
+<details>
+  <summary>Day 338: Feb 21, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
