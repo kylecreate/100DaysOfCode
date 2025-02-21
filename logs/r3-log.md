@@ -736,7 +736,7 @@
   * None
 
   ### Thoughts:
-  * 3 projects down today, not a bad day! I'm just about at the half way point of completeing the list of Beginner projects in my Notion before moving onto the intermediate projects list. I'm defeitely learning a lot even if some of these are easy to work on.
+  * 3 projects down today, not a bad day! I'm just about at the half way point of completing the list of Beginner projects in my Notion before moving onto the intermediate projects list. I'm definitely learning a lot even if some of these are easy to work on.
 
   ### Time spent working
   * 2.5 hrs
@@ -744,6 +744,28 @@
 
 <details>
   <summary>Day 338: Feb 21, 2025</summary>
+
+  ### Today's Progress:
+  * Started and completed MDN's Fancy Letterhead Challenge
+  * Started and completed the Scrimba CSS Challenge of Loading Animation #2 and the Archery Target
+
+  ### Link to work:
+  * [Scrimba CSS Challenge - Loading Animation #2](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Loading-Animation-2)
+  * [Scrimba CSS Challenge - Archery Target](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Archery-Target)
+  * [MDN - Fancy Letterhead](https://github.com/kylecreate/PersonalProjects/tree/main/MDN-Projects/Fancy-Letterhead)
+
+  ### New thing(s) learned:
+  * CSS Animations with keyframes to make things move.
+
+  ### Thoughts:
+  * It was a short work day, but that's ok. I got more done today which is good. My goal is never to do too many projects in a day to prevent burnout. I'm just glad I'm getting these done! My list keeps getting smaller and smaller.
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 339: Feb 24, 2025</summary>
 
   ### Today's Progress:
   *
