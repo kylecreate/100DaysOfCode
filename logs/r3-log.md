@@ -768,6 +768,49 @@
   <summary>Day 339: Feb 24, 2025</summary>
 
   ### Today's Progress:
+  * Started and completed working on the Datepicker UI project and Accessible Form UI project from roadmap.sh.
+
+  ### Link to work:
+  * [Roadmap.sh Datepicker UI](https://github.com/kylecreate/PersonalProjects/tree/main/Roadmap-Projects/Beginner/Datepicker)
+  * [Roadmap.sh Accessible Form UI](https://github.com/kylecreate/PersonalProjects/tree/main/Roadmap-Projects/Beginner/Accessible-Form)
+
+  ### New thing(s) learned:
+  * How to create a calendar in HTML/CSS. Not sure how useful it will be in the future, but I understand it now.
+
+  ### Thoughts:
+  * I originally had a late start to my day, but I got these 2 done which is good. I'm now caught up on doing 1 project from each section of my list as I'll be able to go back and forth now.
+
+  ### Time spent working
+  * 2.3 hrs
+</details>
+
+<details>
+  <summary>Day 340: Feb 25, 2025</summary>
+
+  ### Today's Progress:
+  * Started and completed working on the MDN project of creating a cool box.
+  * Started and completed working on Scrimba's CSS Challenge of a Word Carosuel.
+  * Started and completed working on roadmap.sh's project of a Image Grid Layout.
+
+  ### Link to work:
+  * [MDN - Cool Box](https://github.com/kylecreate/PersonalProjects/tree/main/MDN-Projects/Cool-Box)
+  * [Scrimba CSS Challenge - Word Carosuel](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Word-Carousel)
+  * [Roadmap.sh - Image Grid (Responsive)](https://github.com/kylecreate/PersonalProjects/tree/main/Roadmap-Projects/Beginner/Image-Grid)
+
+  ### New thing(s) learned:
+  * How to create a responsive image grid
+
+  ### Thoughts:
+  * Another 3 projects down for the day! I'm shocked with how quick these are going now and feel like I've really learned a lot while working on these.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 341: Feb 26, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
