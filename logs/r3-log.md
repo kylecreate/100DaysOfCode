@@ -789,7 +789,7 @@
 
   ### Today's Progress:
   * Started and completed working on the MDN project of creating a cool box.
-  * Started and completed working on Scrimba's CSS Challenge of a Word Carosuel.
+  * Started and completed working on Scrimba's CSS Challenge of a Word Carousel.
   * Started and completed working on roadmap.sh's project of a Image Grid Layout.
 
   ### Link to work:
@@ -809,6 +809,29 @@
 
 <details>
   <summary>Day 341: Feb 26, 2025</summary>
+
+  ### Today's Progress:
+  * Started and completed the MDN project of Styling a School Homepage.
+  * Started and completed the Scrimba CSS Challenge of creating France's flag.
+  * Started and completed working on the roadmap.sh project of creating a Tooltip UI.
+
+  ### Link to work:
+  * [MDN - School Homepage](https://github.com/kylecreate/PersonalProjects/tree/main/MDN-Projects/School-Homepage)
+  * [Roadmap.sh - Tooltip UI](https://github.com/kylecreate/PersonalProjects/tree/main/Roadmap-Projects/Beginner/Tooltip-UI)
+  * [Scrimba - French Flag](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/France-Flag)
+
+  ### New thing(s) learned:
+  * How to create a tooltip and how to create a flag like the French flag.
+
+  ### Thoughts:
+  * I had a little trouble with the French flag since I wasn't sure how to turn it on its side. After watching the solution after getting fairly far and trying many different ideas, it made sense to make each stripe a flex-grow of 1.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 342: Feb 27, 2025</summary>
 
   ### Today's Progress:
   *
