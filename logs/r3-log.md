@@ -834,6 +834,28 @@
   <summary>Day 342: Feb 27, 2025</summary>
 
   ### Today's Progress:
+  * Started and completed working on the MDN project of a Fundamental Layout.
+  * Started and completed working on the Scrimba CSS Challenge of creating the flag of Germany.
+  * Started working on the final MDN project of Accessibility Troubleshooting.
+
+  ### Link to work:
+  * [MDN - Fundamental Layout](https://github.com/kylecreate/PersonalProjects/tree/main/MDN-Projects/Fundamental-Layout)
+  * [Scrimba - Germany Flag](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/German-Flag)
+
+  ### New thing(s) learned:
+  * I learned more about accessibility and layouts with the last project that I'm working on.
+
+  ### Thoughts:
+  * Another productive day! My goal was to finish all 3, but I didn't want to burn myself out with this last MDN project. I pretty much re-wrote the whole HTML and I'm in progress with the CSS. Everything is coming along nicely!
+
+  ### Time spent working
+  * 2.3 hrs
+</details>
+
+<details>
+  <summary>Day 343: Feb 28, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
