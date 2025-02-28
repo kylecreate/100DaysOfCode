@@ -856,6 +856,28 @@
   <summary>Day 343: Feb 28, 2025</summary>
 
   ### Today's Progress:
+  * Continued and completed working on the final MDN project of Accessibility Troubleshooting.
+  * Started working on and completed working on Scrimba's CSS Challenges of creating the flags of Madagascar and Switzerland.
+
+  ### Link to work:
+  * [MDN - Accessibility Troubleshooting](https://github.com/kylecreate/PersonalProjects/tree/main/MDN-Projects/Accessibility-Troubleshotting)
+  * [Scrimba - Madagascar Flag](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Madagascar-Flag)
+  * [Scrimba - Switzerland Flag](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Switzerland-Flag)
+
+  ### New thing(s) learned:
+  * I learned more about positioning while working on the Switzerland flag from Scrimba.
+
+  ### Thoughts:
+  * In the future, I may go back and work more on the Accessibility Troubleshooting project from MDN since something doesn't feel right about it in my eyes. My HTML feels right, but the CSS needs a bit more work. Also, I may change the font since it's hard to read to begin with.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 344: Mar 1, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
