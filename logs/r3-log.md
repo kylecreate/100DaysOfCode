@@ -878,6 +878,28 @@
   <summary>Day 344: Mar 1, 2025</summary>
 
   ### Today's Progress:
+  * Went back and worked on the MDN project of Accessibility Troubleshooting and fixed up a few things to make it look better.
+  * Worked on and completed Scrimba's CSS Challenges of the Japan, Sweden, and Niger flags.
+
+  ### Link to work:
+  * [Scrimba - Japan Flag](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Japan-Flag)
+  * [Scrimba - Sweden Flag](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Sweden-Flag)
+  * [Scrimba - Niger Flag](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Niger-Flag)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I probably could've gotten more done today if the power wasn't out for maintenance this morning. But, as long as I got a few things done, I'm happy. As I work on these Scrimba challenges before moving onto my next section of projects, I'm going to take some time to write out/plan some project ideas for myself. Gotta work hard to play hard in the future!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 345: Mar 2, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
