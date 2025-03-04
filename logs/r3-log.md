@@ -875,7 +875,7 @@
 </details>
 
 <details>
-  <summary>Day 344: Mar 1, 2025</summary>
+  <summary>Day 344: Mar 3, 2025</summary>
 
   ### Today's Progress:
   * Went back and worked on the MDN project of Accessibility Troubleshooting and fixed up a few things to make it look better.
@@ -897,7 +897,28 @@
 </details>
 
 <details>
-  <summary>Day 345: Mar 2, 2025</summary>
+  <summary>Day 345: Mar 4, 2025</summary>
+
+  ### Today's Progress:
+  * Continued working on Scrimba's CSS Challenges of the GitHub Profile Layout and Toggle Switch.
+  * Worked on some future project ideas for my portfolio.
+
+  ### Link to work:
+  * [Scrimba - GitHub Layout](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/GitHub-Layout)
+  * [Scrimba - Toggle Switch](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Toggle-Switch)
+
+  ### New thing(s) learned:
+  * I learned how to create a toggle switch using CSS only and a HTML label and checkbox.
+
+  ### Thoughts:
+  * Out of the two that I worked on today, the Toggle Switch was the one I was unsure about. After looking at other examples of a toggle switch using HTML/CSS only, there's easier ways to make one of these for sure. As for my other project ideas, some are simple ideas and others are for the distant future using ReactJS but designing them in Penpot.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 346: Mar 5, 2025</summary>
 
   ### Today's Progress:
   *
