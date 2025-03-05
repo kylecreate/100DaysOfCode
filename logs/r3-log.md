@@ -921,6 +921,27 @@
   <summary>Day 346: Mar 5, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on Scrimba's CSS challenges of the Ace of Spaces and Four of Hearts.
+  * Continued working on project ideas that I've written down to make sure I remember what I'm doing in the future.
+
+  ### Link to work:
+  * [Scrimba - Ace of Spades](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Ace-of-Spades)
+  * [Scrimba - Four of Hearts](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Four-of-Hearts)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Another great day of coding and working on project ideas!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 347: Mar 6, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
