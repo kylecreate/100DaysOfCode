@@ -942,6 +942,49 @@
   <summary>Day 347: Mar 6, 2025</summary>
 
   ### Today's Progress:
+  * Worked more on the Scrimba CSS Challenges of Adjustable Progress Bar, Jeopardy Flashcard, Loading Animation #3, and the Instagram Stories Menu.
+  * Added a Captcha check for the contact form on my personal portfolio to hopefully stop bots from sending me blank messages.
+
+  ### Link to work:
+  * [Scrimba - Adjustable Progress Bar](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Adjust-Progress-Bar)
+  * [Scrimba - Instagram Stories Menu](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Instagram-Stories-Menu)
+  * [Scrimba - Jeopardy Card Flip](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Jeopardy-Card-Flip)
+  * [Scrimba - Loading Animation #3](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Loading-Animation-3)
+
+  ### New thing(s) learned:
+  * I learned about many different CSS techniques of making a card flip when hovering, how to make a spinning loading animation, and how to adjust a progress bar.
+
+  ### Thoughts:
+  * Today was a busy day! I have 2 more CSS challenges from Scrimba to complete before I've completed my Beginner project list and move onto my Intermediate list. For the past 2 weeks or so, I've been getting 4 emails every night from bots that send me blank messages on my contact form. Because of that, I've added a captcha to the form thanks to the Web3Forms docs instructions.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 348: Mar 7, 2025</summary>
+
+  ### Today's Progress:
+  * Continued working on and completed Scrimba's CSS Challenges of the Animated Progress Bar and GitHub Contribution Graph.
+
+  ### Link to work:
+  * [Scrimba - Animated Progress Bar](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/Animated-Progress)
+  * [Scrimba - GitHub Contribution Graph](https://github.com/kylecreate/PersonalProjects/tree/main/Scrimba-Projects/CSS-Challenges/GitHub-Graph)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Now that I've finished a lot of CSS work, I'm going to start focusing on JavaScript related projects. My goal is to work on Frontend Mentor, MDN, Roadmap.sh, freeCodeCamp, and possibly others. Looking forward to the start of next week!
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 349: Mar 10, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
