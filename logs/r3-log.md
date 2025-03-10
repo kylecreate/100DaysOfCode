@@ -985,6 +985,25 @@
   <summary>Day 349: Mar 10, 2025</summary>
 
   ### Today's Progress:
+  * Worked on my Personal Projects repo to create a site to visually see and click on projects.
+
+  ### Link to work:
+  * [Personal Project Site](https://kylecreate-projects.netlify.app/)
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I just wanted to create something simple that people can click through if they'd like. There's a lot of projects, but I'm glad I finally did this. My goal was to make something similair to Notion's toggle list. Tomorrow, I plan on uploading my Frontend Mentor projects to their site and hopefully start on the FAQ Accordion project.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 350: Mar 11, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
