@@ -985,7 +985,7 @@
   <summary>Day 349: Mar 10, 2025</summary>
 
   ### Today's Progress:
-  * Worked on my Personal Projects repo to create a site to visually see and click on projects.
+  * Worked on my Personal Projects repo to create a site to visually see and click through projects.
 
   ### Link to work:
   * [Personal Project Site](https://kylecreate-projects.netlify.app/)
@@ -1002,6 +1002,26 @@
 
 <details>
   <summary>Day 350: Mar 11, 2025</summary>
+
+  ### Today's Progress:
+  * Went through website I created yesterday to double check if images work and spacing is correct for everything.
+  * Uploaded Frontend Mentor solutions to their site to get feedback on projects.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * My goal is to go through the projects site I created to make sure everything looks good before moving onto the JavaScript projects I have planned out. It's mostly images, spacing, and small mistakes on some of my projects that I need to fix. Also, I uploaded my Frontend Mentor projects to their site and fixed a few things with them as well. A very busy day!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 351: Mar 12, 2025</summary>
 
   ### Today's Progress:
   *
