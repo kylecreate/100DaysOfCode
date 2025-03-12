@@ -1014,7 +1014,7 @@
   * None
 
   ### Thoughts:
-  * My goal is to go through the projects site I created to make sure everything looks good before moving onto the JavaScript projects I have planned out. It's mostly images, spacing, and small mistakes on some of my projects that I need to fix. Also, I uploaded my Frontend Mentor projects to their site and fixed a few things with them as well. A very busy day!
+  * My goal is to go through the projects site I created yesterday and make sure everything looks good before moving onto the JavaScript projects I have planned out. It's mostly images, spacing, and small mistakes on some of my projects that I need to fix. I didn't realize it until now, but it's better late than never I suppose. Also, I uploaded my Frontend Mentor projects to their site and fixed a few things from the feedback I received. A very busy day!
 
   ### Time spent working
   * 1.25 hrs
@@ -1022,6 +1022,26 @@
 
 <details>
   <summary>Day 351: Mar 12, 2025</summary>
+
+  ### Today's Progress:
+  * Continued and completed going through my project site to make necessary changes with spacings, image links, and more.
+  * Started working on Frontend Mentor's FAQ Accordion project.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * How to properly link a font (instead of importing through the CSS, I should link to it on the HTML page).
+
+  ### Thoughts:
+  * With so many images and fonts, I forgot to link them properly when hosting them on something like Netlify. I'm glad I went back and fixed all of that for all my projects. Hopefully I don't make that mistake again. As for starting the FEM project, I organized my files and started my global CSS reset and stylings before starting on the HTML.
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 352: Mar 13, 2025</summary>
 
   ### Today's Progress:
   *
