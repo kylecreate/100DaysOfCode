@@ -1044,6 +1044,26 @@
   <summary>Day 352: Mar 13, 2025</summary>
 
   ### Today's Progress:
+  * Started working on Frontend Mentor's FAQ Accordion project
+  * Started and completed freeCodeCamp's of learning introductory JavaScript by building a Pyramid Generator.
+
+  ### Link to work:
+  * [freeCodeCamp - Pyramid Generator](https://github.com/kylecreate/PersonalProjects/tree/main/freeCodeCamp-Projects/JavaScript-Algo/Pyramid-Generator)
+
+  ### New thing(s) learned:
+  * I learned some basic JavaScript of loops and if/else statements.
+
+  ### Thoughts:
+  * Originally, I started out by working on the FAQ Accordion from Frontend Mentor, but didn't feel right for some reason. So, I switched over to freeCodeCamp to work on their JavaScript course and start on the Pyramid Generator project. This was a lot of fun and a lot of thinking.
+
+  ### Time spent working
+  * 2.3 hrs
+</details>
+
+<details>
+  <summary>Day 353: Mar 14, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
