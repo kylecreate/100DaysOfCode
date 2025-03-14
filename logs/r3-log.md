@@ -1064,6 +1064,26 @@
   <summary>Day 353: Mar 14, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on the Frontend Mentor project of the FAQ Accordion.
+  * Started working on and completed reviewing JavaScript Fundamentals by building a Gradebook App on freeCodeCamp #1 and #2.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 354: Mar 17, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
