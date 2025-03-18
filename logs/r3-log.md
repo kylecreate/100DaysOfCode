@@ -1093,7 +1093,7 @@
   * What JavaScript is, how JavaScript works, how to do basic math, and how to round numbers using Math.round().
 
   ### Thoughts:
-  * I decided to go back and learn JavaScript slowly because I feel like I still don't really understand it after all of the time I spent learning it originally. It definitely is like learning a second language. My goal after this is to have a better understanding of JavaScript and work on more projects!
+  * I decided to go back and learn JavaScript slowly because I feel like I still don't really understand it after all of the time I spent learning it originally. It definitely is like learning a second language. My goal after this is to have a better understanding of JavaScript and work on more projects for my portfolio! My goal is to take my time and learn, take notes, read more, and work on exercises whenever and wherever I can.
 
   ### Time spent working
   * 1.25 hrs
@@ -1101,6 +1101,26 @@
 
 <details>
   <summary>Day 355: Mar 18, 2025</summary>
+
+  ### Today's Progress:
+  * Continued working on learning JavaScript from SuperSimpleDev on YouTube with their Beginner to Professional JavaScript course and completed the Strings lesson.
+  * Commented out my contact form on my portfolio site since someone kept on spamming me even after I added a captcha to it.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * The basics of strings and concatinating them.
+
+  ### Thoughts:
+  * Strings aren't too hard for me to understand, but I may have to go back and look at my notes every now and then for sure.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 356: Mar 19, 2025</summary>
 
   ### Today's Progress:
   *
