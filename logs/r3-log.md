@@ -1110,7 +1110,7 @@
   * None
 
   ### New thing(s) learned:
-  * The basics of strings and concatinating them.
+  * The basics of strings and concatenating them.
 
   ### Thoughts:
   * Strings aren't too hard for me to understand, but I may have to go back and look at my notes every now and then for sure.
@@ -1121,6 +1121,25 @@
 
 <details>
   <summary>Day 356: Mar 19, 2025</summary>
+
+  ### Today's Progress:
+  * Continued working on learning JavaScript from SuperSimpleDev on YouTube with their Beginner to Professional JavaScript course and completed the HTML and CSS Review, console.log() lesson.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Creating a tooltip without CSS using `title=""`.
+
+  ### Thoughts:
+  * Even though this was a small review, I still understood mostly everything but also learned a few new things which were helpful. It's now time to learn more and get better with JavaScript!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 357: Mar 20, 2025</summary>
 
   ### Today's Progress:
   *
