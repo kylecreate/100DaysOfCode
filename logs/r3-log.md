@@ -1142,6 +1142,25 @@
   <summary>Day 357: Mar 20, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on learning JavaScript from SuperSimpleDev on YouTube with their Beginner to Professional JavaScript course and completed the Variables and Booleans/If-Else Statements sections.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the basics of Booleans, variables, and if/if-else statements.
+
+  ### Thoughts:
+  * I'm hoping to take a note taking day tomorrow to go through my notes I've taken and add more things from reading articles/books. There was a lot to learn and practice with from these sections. Also, I'd like to start getting some code snippets together for my vault should I ever need a quick refresher.
+
+  ### Time spent working
+  * 3.2 hrs
+</details>
+
+<details>
+  <summary>Day 358: Mar 21, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
