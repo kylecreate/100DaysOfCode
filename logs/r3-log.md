@@ -1161,6 +1161,25 @@
   <summary>Day 358: Mar 21, 2025</summary>
 
   ### Today's Progress:
+  * Gathered more resources, notes, and code snippets of everything from the past few days for my notes.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * It's nice to take a break from watching the course to gather my notes and organize everything before I move onto more lessons/chapters.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 359: Mar 24, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
