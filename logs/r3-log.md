@@ -1180,6 +1180,25 @@
   <summary>Day 359: Mar 24, 2025</summary>
 
   ### Today's Progress:
+  * Continued to work on SuperSimpleDev's Beginner to Pro JavaScript course. Completed Lesson 7 (Functions) and Lesson 8 (Objects).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the basics of Functions and Objects within JavaScript, how they work, and how to track code when trying to find a problem.
+
+  ### Thoughts:
+  * Today was a busy day since I won't be around tomorrow to work on anything. I learned a lot and figured this would give me time to take everything in and learn from it since it's a lot. Also, I need to work on my notes more and make some code snippets for both features of JavaScript. This is also the longest I've worked while working on my journey coming in at 3.8 hrs!
+
+  ### Time spent working
+  * 3.8 hrs
+</details>
+
+<details>
+  <summary>Day 360: Mar 25, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
