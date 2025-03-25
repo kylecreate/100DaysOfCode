@@ -1199,6 +1199,25 @@
   <summary>Day 360: Mar 25, 2025</summary>
 
   ### Today's Progress:
+  * Completed working on notes and code snippets from yesterday's learning of Lesson 7 (Functions) and Lesson 8 (Objects) of SuperSimpleDev's Beginner to Pro JavaScript course.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * My goal today since I didn't have much time to work was to clean up my notes and get some code snippets for future use if I ever get stuck on something. You just never know when you'll need something. Always good to help your future self!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 361: Mar 26, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
