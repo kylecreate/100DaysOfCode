@@ -1208,14 +1208,33 @@
   * None
 
   ### Thoughts:
-  * My goal today since I didn't have much time to work was to clean up my notes and get some code snippets for future use if I ever get stuck on something. You just never know when you'll need something. Always good to help your future self!
+  * My goal today since I didn't have much time to work was to clean up my notes and get some code snippets for future use if I ever get stuck on something. You just never know when you'll need something. Always good to help your future self! I feel bad I'm taking so long to learn some of this stuff since I've been at it for so long, but I just want to get a good understanding of everything before jumping into stuff. Does that make sense? Am I alone on that?
 
   ### Time spent working
   * 1.25 hrs
 </details>
 
 <details>
-  <summary>Day 361: Mar 26, 2025</summary>
+  <summary>Day 361: Mar 27, 2025</summary>
+
+  ### Today's Progress:
+  * Continued to work on SuperSimpleDev's Beginner to Pro JavaScript course. Completed Lesson 9 (Document Object Model (DOM)).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the basics of the JavaScript DOM and how to change/add/edit/remove elements within the page/window.
+
+  ### Thoughts:
+  * I really enjoyed this lesson since it was a nice refresher on the DOM. It's crazy what you can do with JavaScript once you get good at it.
+
+  ### Time spent working
+  * 2.1 hrs
+</details>
+
+<details>
+  <summary>Day 362: Mar 28, 2025</summary>
 
   ### Today's Progress:
   *
