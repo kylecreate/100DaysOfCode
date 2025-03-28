@@ -11,7 +11,7 @@ I created my learning path using [roadmap.sh](https://roadmap.sh/) and took sugg
 </details>
 
 ## Programs Using
-* [Firefox](https://www.mozilla.org/en-US/firefox/) | [Google Chrome](https://www.google.com/chrome/)
+* [LibreWolf](https://librewolf.net/) | [Brave](https://brave.com)
 * [Frontend Roadmap](https://roadmap.sh/frontend) | [JavaScript Roadmap](https://roadmap.sh/javascript) | [ReactJS Roadmap](https://roadmap.sh/react)
 * [Obsidian](https://obsidian.md) - Note taking
 * [Penpot (FOSS)](https://penpot.app/) - Alternative to Figma
@@ -59,6 +59,7 @@ I created my learning path using [roadmap.sh](https://roadmap.sh/) and took sugg
 ### JavaScript
 * [Scrimba's Frontend Dev Career Path - Making Websites Interactive & Essential JS Concepts](https://scrimba.com/the-frontend-developer-career-path-c0j)
 * [Scrimba's Introduction to ES6+](https://scrimba.com/introduction-to-es6-c0t)
+* [JavaScript Tutorial Full Course - Beginner to Pro - SuperSimpleDev](https://www.youtube.com/watch?v=EerdGm-ehJQ) - <i>YouTube</i>
 #### Completed Projects
 * <i>Future Project Here</i>
 

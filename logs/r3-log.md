@@ -1237,6 +1237,25 @@
   <summary>Day 362: Mar 28, 2025</summary>
 
   ### Today's Progress:
+  * Continued to work on SuperSimpleDev's Beginner to Pro JavaScript course. Completed Lesson 10 (HTML, CSS, and JavaScript Together).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * This was another refresher on using all 3 languages in seperate files for organization. I didn't really learn anything new, but it's always helpful to make sure I'm doing something right when coding.
+
+  ### Time spent working
+  * 2.3 hrs
+</details>
+
+<details>
+  <summary>Day 363: Mar 31, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
