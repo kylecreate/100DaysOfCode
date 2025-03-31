@@ -1246,7 +1246,7 @@
   * None
 
   ### Thoughts:
-  * This was another refresher on using all 3 languages in seperate files for organization. I didn't really learn anything new, but it's always helpful to make sure I'm doing something right when coding.
+  * This was another refresher on using all 3 languages in separate files for organization. I didn't really learn anything new, but it's always helpful to make sure I'm doing something right when coding.
 
   ### Time spent working
   * 2.3 hrs
@@ -1254,6 +1254,25 @@
 
 <details>
   <summary>Day 363: Mar 31, 2025</summary>
+
+  ### Today's Progress:
+  * Continued to work on SuperSimpleDev's Beginner to Pro JavaScript course. Completed Lesson 11a (Arrays and Loops).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned the basics of both arrays and loops within JavaScript.
+
+  ### Thoughts:
+  * These are probably one of the hardest concepts within JavaScript for me to understand even though they make plenty of sense when you read them in English. There's a part 2 for this lesson that I'll hopefully get a better understanding of tomorrow.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 364: Apr 1, 2025</summary>
 
   ### Today's Progress:
   *
