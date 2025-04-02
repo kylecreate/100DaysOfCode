@@ -1272,7 +1272,26 @@
 </details>
 
 <details>
-  <summary>Day 364: Apr 1, 2025</summary>
+  <summary>Day 364: Apr 2, 2025</summary>
+
+  ### Today's Progress:
+  * Continued to work on SuperSimpleDev's Beginner to Pro JavaScript course. Completed Lesson 11b (Arrays and Loops).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned a few more basics of both Arrays and Loops.
+
+  ### Thoughts:
+  * I may stop here with this course and try to work on freeCodeCamp and some projects. Also, I would've worked yesterday if I hadn't bricked my PC when trying to reformat to Win11 and LMDE, fun times...
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 365: Apr 3, 2025</summary>
 
   ### Today's Progress:
   *
