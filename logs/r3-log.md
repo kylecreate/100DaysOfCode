@@ -1294,6 +1294,26 @@
   <summary>Day 365: Apr 3, 2025</summary>
 
   ### Today's Progress:
+  * Worked on notes and code snippets from SuperSimpleDev's Beginner to Pro JavaScript course. Completed Lesson 11b (Arrays and Loops).
+  * Started working on Frontend Mentor's Article Preview Component project from their JavaScript Fundamentals roadmap.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I decided to re-write some of my notes from yesterday and add links to different references should I ever need them. Then, I got started on a project from Frontend Mentor which requires some JavaScript. Time to dive deep!
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 366: Apr 4, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
