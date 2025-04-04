@@ -1314,6 +1314,25 @@
   <summary>Day 366: Apr 4, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on Frontend Mentor's Article Preview Component project from their JavaScript Fundamentals roadmap.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Worked mostly on the HTML and CSS to get it right and how I wanted to look. Next up will be working on the Media Query for mobile and then everything should be good! Getting back into projects has been nice.
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 367: Apr 7, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
