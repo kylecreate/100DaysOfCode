@@ -1333,6 +1333,26 @@
   <summary>Day 367: Apr 7, 2025</summary>
 
   ### Today's Progress:
+  * Completed the Gradebook App from freeCodeCamp's JavaScript section.
+  * Continued working on the Frontend Mentor Article Preview component (went back and fixed up my HTML and CSS).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I wanted to start on something different today which is why I completed the Gradebook App from freeCodeCamp's JavaScript section. Then, I decided to re-write my CSS for the Article Preview component since I started with desktop-view first instead of mobile.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 368: Apr 8, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
