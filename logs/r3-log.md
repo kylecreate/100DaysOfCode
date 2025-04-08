@@ -1291,7 +1291,7 @@
 </details>
 
 <details>
-  <summary>Day 365: Apr 3, 2025</summary>
+  <summary>Day 365: Apr 3, 2025</summary> 🎆
 
   ### Today's Progress:
   * Worked on notes and code snippets from SuperSimpleDev's Beginner to Pro JavaScript course. Completed Lesson 11b (Arrays and Loops).
@@ -1351,6 +1351,25 @@
 
 <details>
   <summary>Day 368: Apr 8, 2025</summary>
+
+  ### Today's Progress:
+  * Completed working on the Frontend Mentor Article Preview component.
+
+  ### Link to work:
+  * Soon...
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * While in the shower this morning, I had an epiphany of how to solve the problem I was having with the button not showing up with the rest of the icons needed for the project. After submitting my project, I was having trouble with it going through, so I spent the rest of my time trying to figure out a solution but never came to one. So, I contacted the site and told them about it, which they're looking into now. Next project to work on will be something from roadmap.sh.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 369: Apr 9, 2025</summary>
 
   ### Today's Progress:
   *
