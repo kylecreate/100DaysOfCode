@@ -1372,6 +1372,26 @@
   <summary>Day 369: Apr 9, 2025</summary>
 
   ### Today's Progress:
+  * Uploaded all my roadmap.sh project solutions to their site
+  * Went over future project ideas to work on to get an idea of what else I'd like to create
+
+  ### Link to work:
+  * [Updated Personal Projects](https://github.com/kylecreate/PersonalProjects/)
+
+  ### New thing(s) learned:
+  * I learned how to properly upload to roadmap.sh to post my solutions for projects.
+
+  ### Thoughts:
+  * It's a weird day since personal things are going on, but I wanted to touch a few things to get running. After uploading my projects to roadmap.sh and going over some project ideas, I asked in the r/webdev discord about looking for some feedback on my learning journey and where I should be going. If anyone else sees this and wants to be of assistance, feel free to DM me. I'd enjoy picking more than one person's brain about my journey.
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 370: Apr 10, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
