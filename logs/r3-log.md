@@ -1392,6 +1392,144 @@
   <summary>Day 370: Apr 10, 2025</summary>
 
   ### Today's Progress:
+  * Purchased Wes Bos' Beginner JavaScript course -- created folders/files, joined Slacked server/channel, downloaded videos, and created folders/notes for each section in Obsidian.
+  * Started working on Wes Bos' Beginner JavaScript course by watching the first two videos and taking some brief notes on what the course is about.
+  * Watched Fireship's video on the history of JavaScript, looked more into the history of the language and took some notes.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * The basic history of JavaScript and how Wes Bos' course will work.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 371: Apr 11, 2025</summary>
+
+  ### Today's Progress:
+  * Purchased Wes Bos' Beginner JavaScript course and created folders/files, joined Slacked server/channel, downloaded videos, and created folders/notes for each section in Obsidian.
+  * Watched Fireship's video on the history of JavaScript
+  * Started working on Wes Bos' Beginner JavaScript course by watching the first two videos and taking some brief notes on what the course is about.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 372: Apr 14, 2025</summary>
+
+  ### Today's Progress:
+  * Continued working on Wes Bos' Beginner JavaScript course (watched videos 2-4)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 373: Apr 15, 2025</summary>
+
+  ### Today's Progress:
+  * Continued work on Wes Bos' Beginner JavaScript course (video 4-6)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 374: Apr 16, 2025</summary>
+
+  ### Today's Progress:
+  * Continued work on Wes Bos' Beginner JavaScript course (video 6-8)
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 375: Apr 17, 2025</summary>
+
+  ### Today's Progress:
+  * Continued work on Wes Bos' Beginner JavaScript course (video 8-11). Tested my skills using MistralAI and I got a 90/100 with answering essay questions and coding questions.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 376: Apr 21, 2025</summary>
+
+  ### Today's Progress:
+  * Needed to go back into my R3 log and catchup on my work I've done. Seems I've been slacking in updating this!
+  * Used Javascript.info to read more about Variables and Data Types within JavaScript and completed the tasks.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I'm still working everyday, I just got sidetracked with stuff and forgot to update this!
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 377: Apr 22, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
