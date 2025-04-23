@@ -1530,6 +1530,44 @@
   <summary>Day 377: Apr 22, 2025</summary>
 
   ### Today's Progress:
+  * Worked on Wes Bos' JavaScript course and watched video #12 on Built-in Functions
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned more about how to create built-in functions within JavaScript.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 378: Apr 23, 2025</summary>
+
+  ### Today's Progress:
+  * Continued working on Wes Bos' JavaScript course by watching videos 13 - 14 talking more about functions.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * Learned about passing arguments and parameters to functions within JavaScript
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 379: Apr 25, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
