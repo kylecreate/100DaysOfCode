@@ -1565,7 +1565,45 @@
 </details>
 
 <details>
-  <summary>Day 379: Apr 25, 2025</summary>
+  <summary>Day 379: Apr 24, 2025</summary>
+
+  ### Today's Progress:
+  * Continued working on Wes Bos' JavaScript course by watching video 15 talking more about functions and how to create them in different ways.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about how to create regular functions, arrow functions, anon functions, and shorter functions.
+
+  ### Thoughts:
+  * Functions are fun!
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 380: Apr 25, 2025</summary>
+
+  ### Today's Progress:
+  * Continued working on Wes Bos' JavaScript course by watching video 16 going over debugging tools for JavaScript.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about all the ways to debug JavaScript code and how to view what websites are sending/receiving from users who are on their sites.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 381: Apr 28, 2025</summary>
 
   ### Today's Progress:
   *
