@@ -1606,6 +1606,27 @@
   <summary>Day 381: Apr 28, 2025</summary>
 
   ### Today's Progress:
+  * Sent email at to a local Coding Bootcamp I saw on the local news over the weekend about assistance and feedback on my journey. They responded back and gave some wonderful advice and tips on my journey with JavaScript.
+  * Responded to some feedback I received in Kevin Powell's Discord that I forgot to respond to until today (a week later...).
+  * Quizzed myself using Mistral AI on Functions within JavaScript, scored a 95/100 based on 10 written questions and 10 coding questions.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I have a better understanding of what I'm doing now as I learn JavaScript. I'm starting to hopefully understand the basics so far.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 382: Apr 29, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
