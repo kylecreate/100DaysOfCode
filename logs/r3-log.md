@@ -1627,6 +1627,25 @@
   <summary>Day 382: Apr 29, 2025</summary>
 
   ### Today's Progress:
+  * Gathered course files and created files in Obsidian to take notes for new courses and books to read.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1 hr
+</details>
+
+<details>
+  <summary>Day 383: Apr 30, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
