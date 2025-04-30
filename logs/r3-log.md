@@ -1646,6 +1646,25 @@
   <summary>Day 383: Apr 30, 2025</summary>
 
   ### Today's Progress:
+  * Continued watching Wes Bos' course on JavaScript by starting 'The Tricky Bits' module and learning about scopes.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the different scopes within JavaScript and how they all differ.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 1.45 hrs
+</details>
+
+<details>
+  <summary>Day 384: May 1, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
