@@ -1665,6 +1665,25 @@
   <summary>Day 384: May 1, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on Wes Bos' JavaScript course by completing Module 3 (The Tricky Bits) and starting Module 7 (Logic and Flow Control).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned about the basics of Flow Control, If Statements, Function Returns, Truthy values, and Falsy values within JavaScript.
+
+  ### Thoughts:
+  * None
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 385: May 2, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
