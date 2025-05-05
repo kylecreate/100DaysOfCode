@@ -1684,6 +1684,46 @@
   <summary>Day 385: May 2, 2025</summary>
 
   ### Today's Progress:
+  * Worked on freeCodeCamp's JavaScript Algorithms & Data Structures course by building a RPG game (1 → 118).
+
+  ### Link to work:
+  *
+
+  ### New thing(s) learned:
+  *
+
+  ### Thoughts:
+  *
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 386: May 5, 2025</summary>
+
+  ### Today's Progress:
+  * Continued working on and completed freeCodeCamp's JavaScript Algorithms & Data Structures course by building a RPG game (118 → 173).
+  * Started and completed freeCodeCamp's JavaScript Algorithms & Data Structures course by Learning Basic Debugging by Building a Random Background Color Changer.
+  * Started working on freeCodeCamp's JavaScript Algorithms & Data Structures course by Learning Form Validation by Building a Calorie Counter (1 → 37).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * Working hard on these and it's actually helping me learn and want to think of a project to start on.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 387: May 6, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
