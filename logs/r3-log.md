@@ -1724,6 +1724,25 @@
   <summary>Day 387: May 6, 2025</summary>
 
   ### Today's Progress:
+  * Continued working on and completed freeCodeCamp's JavaScript Algorithms & Data Structures course by Learning Form Validation by Building a Calorie Counter (37 → 97).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * I learned a lot about form validation from this project.
+
+  ### Thoughts:
+  * This was an intersting project to work on. Form validation for websites is intersting and difficult with regex.
+
+  ### Time spent working
+  * 1.25 hrs
+</details>
+
+<details>
+  <summary>Day 388: May 7, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
