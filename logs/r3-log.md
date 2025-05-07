@@ -1743,6 +1743,44 @@
   <summary>Day 388: May 7, 2025</summary>
 
   ### Today's Progress:
+  * Started and completed working on freeCodeCamp's JavaScript Algorithms & Data Structures course by Reviewing DOM Manipulation by Building a Rock, Paper, Scissors Game (1 → 6).
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * This one was a tough one! I'm learning a lot more here than watching tutorials. Why didn't I stick with this?!
+
+  ### Time spent working
+  * 1.5 hrs
+</details>
+
+<details>
+  <summary>Day 389: May 8, 2025</summary>
+
+  ### Today's Progress:
+  *
+
+  ### Link to work:
+  *
+
+  ### New thing(s) learned:
+  *
+
+  ### Thoughts:
+  *
+
+  ### Time spent working
+  *
+</details>
+
+<details>
+  <summary>Day 390: May 9, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
