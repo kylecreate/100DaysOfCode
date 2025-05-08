@@ -1762,19 +1762,19 @@
   <summary>Day 389: May 8, 2025</summary>
 
   ### Today's Progress:
-  *
+  * Started and completed working on freeCodeCamp's JavaScript Algorithms & Data Structures course by Learning Basic String and Array Methods by Building a Music Player (steps 1 → 99).
 
   ### Link to work:
-  *
+  * None
 
   ### New thing(s) learned:
-  *
+  * I learned about the basics of string and array methods within JavaScript.
 
   ### Thoughts:
-  *
+  * Some of these were difficult! I'm looking forward to working on my first certification project for this course!
 
   ### Time spent working
-  *
+  * 2.25 hrs
 </details>
 
 <details>
