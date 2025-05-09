@@ -1781,6 +1781,25 @@
   <summary>Day 390: May 9, 2025</summary>
 
   ### Today's Progress:
+  * Started working on freeCodeCamp's JavaScript Algorithms & Data Structures first certification project of Building a Palindrome Checker.
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  * None
+
+  ### Thoughts:
+  * I started on the HTML and CSS of this project and it looks really good. I've made a few changes to the layout but did my best to keep it the same and similar to the original.
+
+  ### Time spent working
+  * 2 hrs
+</details>
+
+<details>
+  <summary>Day 391: May 12, 2025</summary>
+
+  ### Today's Progress:
   *
 
   ### Link to work:
